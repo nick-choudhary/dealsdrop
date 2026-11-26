@@ -1,0 +1,42 @@
+name: Validate deals
+on:
+  pull_request:
+    paths: ['data/**', 'schema/**', 'scripts/**', 'config/**', 'README.md', 'generated/**', 'package*.json', '.github/workflows/validate.yml']
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: Schema, anti-spam and duplicate checks
+        run: npm run validate
+      - name: README and generated files are built from data (never hand-edited)
+        run: npm run build:check
+      - name: Validator self-test (bad fixtures must fail)
+        run: node scripts/selftest.mjs
+      - name: Guard rails for contributor PRs
+        if: github.event_name == 'pull_request'
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+          AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: node scripts/pr-guard.mjs "$BASE" "$AUTHOR"
+  links:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: Link-check changed deal files
+        run: |
+          CHANGED=$(git diff --name-only ${{ github.event.pull_request.base.sha }} HEAD -- 'data/deals/*.yaml' | paste -sd, -)
+          if [ -n "$CHANGED" ]; then node scripts/check-links.mjs --changed="$CHANGED"; else echo "No deal files changed"; fi

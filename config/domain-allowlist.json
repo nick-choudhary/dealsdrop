@@ -1,0 +1,33 @@
+{
+  "_comment": "Extra hostnames allowed for a vendor_domain when the official deal lives on a sister domain. Maintainers only \u2014 add with a justification in the PR.",
+  "proton.me": [
+    "protonvpn.com"
+  ],
+  "elevenlabs.io": [
+    "join.elevenlabs.io"
+  ],
+  "adguard.com": [
+    "adguard-vpn.com",
+    "adguard-dns.io"
+  ],
+  "sony.com": [
+    "electronics.sony.com"
+  ],
+  "nintendo.com": [],
+  "xbox.com": [
+    "news.xbox.com"
+  ],
+  "disneyplus.com": [],
+  "apple.com": [
+    "tv.apple.com"
+  ],
+  "athleta.com": [
+    "athleta.gap.com"
+  ],
+  "oldnavy.com": [
+    "oldnavy.gap.com"
+  ],
+  "msccruises.com": [
+    "msccruisesusa.com"
+  ]
+}

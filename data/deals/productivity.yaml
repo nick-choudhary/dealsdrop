@@ -1,0 +1,3956 @@
+# productivity — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: actionclip
+  name: ActionClip
+  vendor: ActionClip
+  vendor_domain: actionclip.app
+  category: productivity
+  deal_description: 25% off ActionClip (lifetime license).
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://actionclip.app/black-friday-deal
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aevo
+  name: aevo
+  vendor: aevo
+  vendor_domain: aevo.so
+  category: productivity
+  deal_description: 30% off aevo (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://aevo.so/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aldente-pro
+  name: AlDente Pro
+  vendor: AlDente Pro
+  vendor_domain: apphousekitchen.com
+  category: productivity
+  deal_description: 30% off AlDente Pro lifetime license, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://apphousekitchen.com/aldente-overview/pricing/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: antshot
+  name: AntShot
+  vendor: AntShot
+  vendor_domain: antshot.com
+  category: productivity
+  deal_description: 35% off AntShot (lifetime license) with code BLACKFRIDAY26, until Dec 2.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://antshot.com/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: appgrid
+  name: AppGrid
+  vendor: AppGrid
+  vendor_domain: appgridmac.com
+  category: productivity
+  deal_description: 50% off AppGrid lifetime license, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://appgridmac.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aquena
+  name: Aquena
+  vendor: Aquena
+  vendor_domain: aquena.net
+  category: productivity
+  deal_description: 20% off Aquena with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://aquena.net/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ascope
+  name: Ascope
+  vendor: Ascope
+  vendor_domain: ascope.app
+  category: productivity
+  deal_description: 63% off Ascope lifetime license, until Dec 1.
+  discount:
+    type: percent
+    value: 63
+    up_to: false
+  url: https://ascope.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: assignee
+  name: Assignee
+  vendor: Assignee
+  vendor_domain: assignee.app
+  category: productivity
+  deal_description: 30% off Assignee with code BFCM26, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BFCM26
+  url: https://assignee.app/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aurio
+  name: Aurio
+  vendor: Aurio
+  vendor_domain: aurio.dev
+  category: productivity
+  deal_description: 25% off Aurio (one-time purchase) with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://aurio.dev/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: band-je
+  name: Band·je
+  vendor: Band·je
+  vendor_domain: band.je
+  category: productivity
+  deal_description: 50% off Band·je with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://band.je/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: beaming
+  name: Beaming
+  vendor: Beaming
+  vendor_domain: trybeaming.app
+  category: productivity
+  deal_description: 40% off Beaming with code BLACKFRIDAY40.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY40
+  url: https://trybeaming.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: betterdisplay
+  name: BetterDisplay
+  vendor: BetterDisplay
+  vendor_domain: betterdisplay.pro
+  category: productivity
+  deal_description: 33% off BetterDisplay (one-time purchase) with code BFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://betterdisplay.pro/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: betterstage
+  name: BetterStage
+  vendor: BetterStage
+  vendor_domain: betterstage.app
+  category: productivity
+  deal_description: 20% off BetterStage (lifetime license) with code BLACKFRIDAY20, until Nov 30.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BLACKFRIDAY20
+  url: https://betterstage.app/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bettertouchtool
+  name: BetterTouchTool
+  vendor: BetterTouchTool
+  vendor_domain: folivora.ai
+  category: productivity
+  deal_description: 40% off BetterTouchTool lifetime license, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://folivora.ai/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: blit
+  name: Blit
+  vendor: Blit
+  vendor_domain: floor1point2.com
+  category: productivity
+  deal_description: 30% off Blit with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://floor1point2.com/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bsaver
+  name: bSaver
+  vendor: bSaver
+  vendor_domain: bsaver.pl
+  category: productivity
+  deal_description: 33% off bSaver with code BLACKWEEKS, until Nov 30.
+  discount:
+    type: percent
+    value: 33
+    up_to: true
+  coupon_code: BLACKWEEKS
+  url: https://bsaver.pl/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: buhocleaner
+  name: BuhoCleaner
+  vendor: BuhoCleaner
+  vendor_domain: drbuho.com
+  category: productivity
+  deal_description: 60% off BuhoCleaner lifetime license.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.drbuho.com/black-friday-sale
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bytemail
+  name: bytemail
+  vendor: bytemail
+  vendor_domain: bytemailapp.com
+  category: productivity
+  deal_description: 30% off bytemail (lifetime license), until Dec 7.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://bytemailapp.com/black-friday
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cadran
+  name: Cadran
+  vendor: Cadran
+  vendor_domain: cadranapp.com
+  category: productivity
+  deal_description: 50% off Cadran with code BF50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF50
+  url: https://cadranapp.com/en
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cardpointers
+  name: CardPointers
+  vendor: CardPointers
+  vendor_domain: cardpointers.com
+  category: productivity
+  deal_description: 50% off CardPointers lifetime license, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://cardpointers.com/thanks
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cashculator
+  name: Cashculator
+  vendor: Cashculator
+  vendor_domain: apparentsoft.com
+  category: productivity
+  deal_description: 50% off Cashculator lifetime license, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://blog.apparentsoft.com/announcements/black-friday-cyber-monday-deals-2026/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chanty
+  name: Chanty
+  vendor: Chanty
+  vendor_domain: chanty.com
+  category: productivity
+  deal_description: Up to 40% off Chanty on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.chanty.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: checkcraft
+  name: CheckCraft
+  vendor: CheckCraft
+  vendor_domain: loshadki.app
+  category: productivity
+  deal_description: 60% off CheckCraft, until Dec 1.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://loshadki.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: checkout-page
+  name: Checkout Page
+  vendor: Checkout Page
+  vendor_domain: checkoutpage.com
+  category: productivity
+  deal_description: 30% off Checkout Page for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://checkoutpage.com/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chirpy
+  name: Chirpy
+  vendor: Chirpy
+  vendor_domain: chirpy.pro
+  category: productivity
+  deal_description: 50% off Chirpy lifetime license.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://chirpy.pro/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chocolatebar
+  name: ChocolateBar
+  vendor: ChocolateBar
+  vendor_domain: chocolatebar.app
+  category: productivity
+  deal_description: 33% off ChocolateBar with code BLACKFRIDAY, until Dec 30.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://chocolatebar.app/
+  end_date: '2026-12-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chronoid
+  name: Chronoid
+  vendor: Chronoid
+  vendor_domain: chronoid.app
+  category: productivity
+  deal_description: 50% off Chronoid (lifetime license) with code BLACKFRIDAY26, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://www.chronoid.app/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clappia
+  name: Clappia
+  vendor: Clappia
+  vendor_domain: clappia.com
+  category: productivity
+  deal_description: 50% off Clappia on annual plans for new customers with code BLACKFRD.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRD
+  url: https://www.clappia.com/black-friday-offer
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cleanmymac
+  name: CleanMyMac
+  vendor: CleanMyMac
+  vendor_domain: macpaw.com
+  category: productivity
+  deal_description: 30% off CleanMyMac.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://macpaw.com/cleanmymac
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cleanshot-x
+  name: CleanShot X
+  vendor: CleanShot X
+  vendor_domain: cleanshot.com
+  category: productivity
+  deal_description: 30% off CleanShot X (one-time purchase).
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://cleanshot.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clipboard-ai
+  name: Clipboard AI
+  vendor: Clipboard AI
+  vendor_domain: clipboardai.app
+  category: productivity
+  deal_description: 30% off Clipboard AI (lifetime license) with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://clipboardai.app/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clipboard-manager-pro
+  name: Clipboard Manager Pro
+  vendor: Clipboard Manager Pro
+  vendor_domain: clipboardman.com
+  category: productivity
+  deal_description: 35% off Clipboard Manager Pro on annual plans with code BF2026.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  coupon_code: BF2026
+  url: https://clipboardman.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clipy
+  name: Clipy
+  vendor: Clipy
+  vendor_domain: clipy.online
+  category: productivity
+  deal_description: 32% off Clipy first year with code CLIPYBF26, until Jan 2.
+  discount:
+    type: percent
+    value: 32
+    up_to: false
+  coupon_code: CLIPYBF26
+  url: https://clipy.online/pricing?code=CLIPYBF26
+  end_date: '2027-01-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clusterverse
+  name: Clusterverse
+  vendor: Clusterverse
+  vendor_domain: clusterverse.dev
+  category: productivity
+  deal_description: 50% off Clusterverse, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://clusterverse.dev/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cooldock
+  name: CoolDock
+  vendor: CoolDock
+  vendor_domain: cooldock.app
+  category: productivity
+  deal_description: 50% off CoolDock (lifetime license) with code BLACK2026FRIDAY50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK2026FRIDAY50
+  url: https://cooldock.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: copy-text-easily
+  name: Copy Text Easily
+  vendor: Copy Text Easily
+  vendor_domain: devapt.com
+  category: productivity
+  deal_description: 30% off Copy Text Easily with code 30BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: 30BF2026
+  url: https://devapt.com/copy-text-easily
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: copypasta
+  name: CopyPasta
+  vendor: CopyPasta
+  vendor_domain: usecopypasta.com
+  category: productivity
+  deal_description: 50% off CopyPasta with code BLACKFRIDAY26, until Dec 6.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://usecopypasta.com/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cosmil
+  name: Cosmil
+  vendor: Cosmil
+  vendor_domain: cosmil.app
+  category: productivity
+  deal_description: 25% off Cosmil with code BFRIDAY26, until Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BFRIDAY26
+  url: https://cosmil.app/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cozy
+  name: Cozy
+  vendor: Cozy
+  vendor_domain: cozyjournal.app
+  category: productivity
+  deal_description: 50% off Cozy (one-time purchase) with code BLACKFRIDAY.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://cozyjournal.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: craft
+  name: Craft
+  vendor: Craft
+  vendor_domain: craft.do
+  category: productivity
+  deal_description: Up to 40% off Craft on annual plans with code BLACKFRIDAY26-A, until Dec 9.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  coupon_code: BLACKFRIDAY26-A
+  url: https://www.craft.do/pricing
+  end_date: '2026-12-09'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cursorclip
+  name: CursorClip
+  vendor: CursorClip
+  vendor_domain: cursorclip.com
+  category: productivity
+  deal_description: 30% off CursorClip (lifetime license) with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://cursorclip.com/pricing/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cvder
+  name: CVder
+  vendor: CVder
+  vendor_domain: cvder.app
+  category: productivity
+  deal_description: 50% off CVder with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://cvder.app/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: daily-time-tracking
+  name: Daily Time Tracking
+  vendor: Daily Time Tracking
+  vendor_domain: dailytimetracking.com
+  category: productivity
+  deal_description: Up to 30% off Daily Time Tracking (lifetime license) with code DAILYBF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  coupon_code: DAILYBF2026
+  url: https://dailytimetracking.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dailyremote
+  name: DailyRemote
+  vendor: DailyRemote
+  vendor_domain: dailyremote.com
+  category: productivity
+  deal_description: 39% off DailyRemote on annual plans with code BFBNRTZSY, until Dec 1.
+  discount:
+    type: percent
+    value: 39
+    up_to: false
+  coupon_code: BFBNRTZSY
+  url: https://dailyremote.com/get-started
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: datacheck
+  name: DataCheck
+  vendor: DataCheck
+  vendor_domain: datacheck.cc
+  category: productivity
+  deal_description: 30% off DataCheck (one-time purchase), until Dec 5.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://datacheck.cc/en/pricing
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dayora
+  name: Dayora
+  vendor: Dayora
+  vendor_domain: dayora.ai
+  category: productivity
+  deal_description: 40% off Dayora on annual plans.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://www.dayora.ai/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: deckloud
+  name: Deckloud
+  vendor: Deckloud
+  vendor_domain: deckloud.com
+  category: productivity
+  deal_description: 40% off Deckloud (lifetime license) with code BF2026.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://deckloud.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: deepvue
+  name: Deepvue
+  vendor: Deepvue
+  vendor_domain: deepvue.com
+  category: productivity
+  deal_description: Deepvue for $490 on annual plans, until Dec 4.
+  discount:
+    type: fixed_price
+    value: 490
+    up_to: false
+  url: https://deepvue.com/black-friday-2026/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: deletti
+  name: Deletti
+  vendor: Deletti
+  vendor_domain: deletti.app
+  category: productivity
+  deal_description: 50% off Deletti (lifetime license) with code BFCM26.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM26
+  url: https://deletti.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: deskrest
+  name: DeskRest
+  vendor: DeskRest
+  vendor_domain: deskrest.com
+  category: productivity
+  deal_description: 80% off DeskRest (lifetime license) with code BLACKFRIDAY80, until Dec 10.
+  discount:
+    type: percent
+    value: 80
+    up_to: false
+  coupon_code: BLACKFRIDAY80
+  url: https://deskrest.com/offers
+  end_date: '2026-12-10'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: deskstag
+  name: DeskStag
+  vendor: DeskStag
+  vendor_domain: deskstag.com
+  category: productivity
+  deal_description: 30% off DeskStag with code FRIDAY30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: FRIDAY30
+  url: https://deskstag.com/black-friday.html
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dictionaries
+  name: Dictionaries
+  vendor: Dictionaries
+  vendor_domain: dictionaries.io
+  category: productivity
+  deal_description: 50% off Dictionaries (lifetime license) with code BF26.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF26
+  url: https://dictionaries.io/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: diskmate
+  name: DiskMate
+  vendor: DiskMate
+  vendor_domain: diskmate.app
+  category: productivity
+  deal_description: 50% off DiskMate (lifetime license).
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://diskmate.app
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dockflow
+  name: DockFlow
+  vendor: DockFlow
+  vendor_domain: dockflowapp.io
+  category: productivity
+  deal_description: 50% off DockFlow with code BLACK2026FRIDAY50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK2026FRIDAY50
+  url: https://dockflowapp.io/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dockmagic
+  name: DockMagic
+  vendor: DockMagic
+  vendor_domain: dockmagic.app
+  category: productivity
+  deal_description: Up to 50% off DockMagic (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://dockmagic.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: doubles
+  name: Doubles
+  vendor: Doubles
+  vendor_domain: doubles.dev
+  category: productivity
+  deal_description: 50% off Doubles with code DOUBLES50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: DOUBLES50
+  url: https://doubles.dev/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dropdmg
+  name: DropDMG
+  vendor: DropDMG
+  vendor_domain: c-command.com
+  category: productivity
+  deal_description: 25% off DropDMG with code BLACKFRIDAY2026, until Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://c-command.com/store/sale
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dropshare
+  name: Dropshare
+  vendor: Dropshare
+  vendor_domain: dropshare.app
+  category: productivity
+  deal_description: $10 off Dropshare with code blackfriday2026.
+  discount:
+    type: amount
+    value: 10
+    up_to: false
+  coupon_code: blackfriday2026
+  url: https://dropshare.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dynamiclake
+  name: DynamicLake
+  vendor: DynamicLake
+  vendor_domain: dynamiclake.com
+  category: productivity
+  deal_description: 20% off DynamicLake.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www.dynamiclake.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dypt
+  name: dypt
+  vendor: dypt
+  vendor_domain: dypt.app
+  category: productivity
+  deal_description: 50% off dypt for the first year for new customers with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://dypt.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: email-me
+  name: Email Me
+  vendor: Email Me
+  vendor_domain: emailmeapp.net
+  category: productivity
+  deal_description: 50% off Email Me, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://emailmeapp.net/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: extrabar
+  name: ExtraBar
+  vendor: ExtraBar
+  vendor_domain: extrabar.app
+  category: productivity
+  deal_description: 50% off ExtraBar with code BLACK2026FRIDAY50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK2026FRIDAY50
+  url: https://extrabar.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: extradock
+  name: ExtraDock
+  vendor: ExtraDock
+  vendor_domain: extradock.app
+  category: productivity
+  deal_description: 50% off ExtraDock (lifetime license) with code BLACK2026FRIDAY50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK2026FRIDAY50
+  url: https://extradock.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fadeclock
+  name: Fadeclock
+  vendor: Fadeclock
+  vendor_domain: fadeclock.app
+  category: productivity
+  deal_description: 50% off Fadeclock (one-time purchase) with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://fadeclock.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fileminutes
+  name: FileMinutes
+  vendor: FileMinutes
+  vendor_domain: fileminutes.com
+  category: productivity
+  deal_description: 60% off FileMinutes lifetime license, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.fileminutes.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fileoctopus
+  name: FileOctopus
+  vendor: FileOctopus
+  vendor_domain: fileoctopus.com
+  category: productivity
+  deal_description: 50% off FileOctopus (one-time purchase) with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://www.fileoctopus.com/black-friday.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fileside
+  name: Fileside
+  vendor: Fileside
+  vendor_domain: fileside.app
+  category: productivity
+  deal_description: 50% off Fileside (lifetime license) with code BLKFRD26.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLKFRD26
+  url: https://www.fileside.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: float-pro
+  name: Float Pro
+  vendor: Float Pro
+  vendor_domain: gilla.fun
+  category: productivity
+  deal_description: 40% off Float Pro with code BF26FLOAT, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF26FLOAT
+  url: https://float.gilla.fun/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: flowspeak
+  name: FlowSpeak
+  vendor: FlowSpeak
+  vendor_domain: smolkapps.com
+  category: productivity
+  deal_description: 34% off FlowSpeak (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 34
+    up_to: false
+  url: https://smolkapps.com/flowspeak/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: folder-preview-pro
+  name: Folder Preview Pro
+  vendor: Folder Preview Pro
+  vendor_domain: anybox.ltd
+  category: productivity
+  deal_description: 30% off Folder Preview Pro.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://anybox.ltd/folder-preview-pro
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: folge
+  name: Folge
+  vendor: Folge
+  vendor_domain: folge.me
+  category: productivity
+  deal_description: 25% off Folge with code BLACKFRIDAY25.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACKFRIDAY25
+  url: https://folge.me/buy
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: forma
+  name: Forma
+  vendor: Forma
+  vendor_domain: useforma.app
+  category: productivity
+  deal_description: 47% off Forma (lifetime license) with code BLACKFRIDAY50, until Dec 1.
+  discount:
+    type: percent
+    value: 47
+    up_to: false
+  coupon_code: BLACKFRIDAY50
+  url: https://useforma.app
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fresh-notch
+  name: Fresh Notch
+  vendor: Fresh Notch
+  vendor_domain: freshnotch.com
+  category: productivity
+  deal_description: Black Friday pricing on Fresh Notch with code BFRIDAY.
+  discount:
+    type: other
+    value: null
+  coupon_code: BFRIDAY
+  url: https://freshnotch.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fswitcher
+  name: fswitcher
+  vendor: fswitcher
+  vendor_domain: fswitcher.app
+  category: productivity
+  deal_description: 60% off fswitcher with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  coupon_code: BLACKFRIDAY
+  url: https://fswitcher.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: glifa
+  name: Glifa
+  vendor: Glifa
+  vendor_domain: glifa.app
+  category: productivity
+  deal_description: Glifa for $9.99, until Nov 30.
+  discount:
+    type: fixed_price
+    value: 9.99
+    up_to: false
+  url: https://glifa.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gorby-text-analyzer
+  name: Gorby - Text Analyzer
+  vendor: Gorby - Text Analyzer
+  vendor_domain: gorby.app
+  category: productivity
+  deal_description: 30% off Gorby - Text Analyzer lifetime license with code GORBYBF26, until Dec 15.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: GORBYBF26
+  url: https://gorby.app/offers/black-friday-2026/
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: grabbit
+  name: Grabbit
+  vendor: Grabbit
+  vendor_domain: grabbit.fyi
+  category: productivity
+  deal_description: 25% off Grabbit lifetime license with code BLACKFRIDAY25.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACKFRIDAY25
+  url: https://grabbit.fyi/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: halopen
+  name: Halopen
+  vendor: Halopen
+  vendor_domain: halopen.com
+  category: productivity
+  deal_description: 30% off Halopen lifetime license with code HOLIDAY, until Dec 31.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: HOLIDAY
+  url: https://halopen.com/pricing/
+  end_date: '2026-12-31'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hookmark
+  name: Hookmark
+  vendor: Hookmark
+  vendor_domain: hookproductivity.com
+  category: productivity
+  deal_description: 40% off Hookmark with code BFCM-2026, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BFCM-2026
+  url: https://hookproductivity.com/buy/promos/2026-black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: horcrux-email-backup
+  name: Horcrux Email Backup
+  vendor: Horcrux Email Backup
+  vendor_domain: thehorcrux.com
+  category: productivity
+  deal_description: 30% off Horcrux Email Backup with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://thehorcrux.com/pricing/#black-friday-2026
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: icedrive
+  name: Icedrive
+  vendor: Icedrive
+  vendor_domain: icedrive.net
+  category: productivity
+  deal_description: Up to 80% off Icedrive.
+  discount:
+    type: percent
+    value: 80
+    up_to: true
+  url: https://icedrive.net/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: iknowmydisplay-iknowmymac
+  name: iKnowMyDisplay + iKnowMyMac
+  vendor: iKnowMyDisplay + iKnowMyMac
+  vendor_domain: iknowmydisplay.com
+  category: productivity
+  deal_description: 25% off iKnowMyDisplay + iKnowMyMac, until Dec 1.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://iknowmydisplay.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: infinidesk
+  name: InfiniDesk
+  vendor: InfiniDesk
+  vendor_domain: infinidesk.app
+  category: productivity
+  deal_description: 30% off InfiniDesk with code INFINIBLACK.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: INFINIBLACK
+  url: https://infinidesk.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: inkfree
+  name: Inkfree
+  vendor: Inkfree
+  vendor_domain: inkfree.app
+  category: productivity
+  deal_description: 70% off Inkfree for the first year, until Dec 14.
+  discount:
+    type: percent
+    value: 70
+    up_to: false
+  url: https://inkfree.app/signature-savings-sale/
+  end_date: '2026-12-14'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: inventoryquick
+  name: InventoryQuick
+  vendor: InventoryQuick
+  vendor_domain: inventoryquick.com
+  category: productivity
+  deal_description: $91 off InventoryQuick for the first year with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: amount
+    value: 91
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://inventoryquick.com/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: iruka
+  name: Iruka
+  vendor: Iruka
+  vendor_domain: iruka.sh
+  category: productivity
+  deal_description: 30% off Iruka with code BF30, until Dec 3.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF30
+  url: https://iruka.sh/black-friday
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: itemlist
+  name: Itemlist
+  vendor: Itemlist
+  vendor_domain: getitemlist.app
+  category: productivity
+  deal_description: 50% off Itemlist (lifetime license), until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.getitemlist.app/black-friday/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: jotform
+  name: Jotform
+  vendor: Jotform
+  vendor_domain: jotform.com
+  category: productivity
+  deal_description: Up to 60% off Jotform on annual plans, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.jotform.com/pricing/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: katami
+  name: Katami
+  vendor: Katami
+  vendor_domain: katami.io
+  category: productivity
+  deal_description: 50% off Katami, until Dec 5.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://katami.io/
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: keep-mac-awake
+  name: Keep Mac Awake
+  vendor: Keep Mac Awake
+  vendor_domain: keepmacawake.com
+  category: productivity
+  deal_description: 50% off Keep Mac Awake with code BF50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF50
+  url: https://keepmacawake.com/blog/black-friday-2026
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kerlig
+  name: Kerlig
+  vendor: Kerlig
+  vendor_domain: kerlig.com
+  category: productivity
+  deal_description: 50% off Kerlig.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.kerlig.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: keyboardstack
+  name: KeyboardStack
+  vendor: KeyboardStack
+  vendor_domain: keyboardstack.com
+  category: productivity
+  deal_description: 50% off KeyboardStack (lifetime license).
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://keyboardstack.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: keycue
+  name: KeyCue
+  vendor: KeyCue
+  vendor_domain: ergonis.com
+  category: productivity
+  deal_description: 50% off KeyCue first year with code BLACK.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK
+  url: https://ergonis.com/en/keycue/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: keyecho
+  name: KeyEcho
+  vendor: KeyEcho
+  vendor_domain: keyecho.app
+  category: productivity
+  deal_description: 40% off KeyEcho with code BF2026, until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://keyecho.app/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kilobat-pro
+  name: Kilobat Pro
+  vendor: Kilobat Pro
+  vendor_domain: kilobat.app
+  category: productivity
+  deal_description: 30% off Kilobat Pro (one-time purchase) with code BLACKFRIDAY30, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY30
+  url: https://kilobat.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kipzy
+  name: Kipzy
+  vendor: Kipzy
+  vendor_domain: kipzy.app
+  category: productivity
+  deal_description: 50% off Kipzy (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://kipzy.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: koofr
+  name: Koofr
+  vendor: Koofr
+  vendor_domain: koofr.eu
+  category: productivity
+  deal_description: 55% off Koofr on annual plans with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 55
+    up_to: false
+  coupon_code: BF2026
+  url: https://koofr.eu/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ktool
+  name: KTool
+  vendor: KTool
+  vendor_domain: ktool.io
+  category: productivity
+  deal_description: KTool for $149 (lifetime license), until Dec 1.
+  discount:
+    type: fixed_price
+    value: 149
+    up_to: false
+  url: https://ktool.io/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: linkship
+  name: LinkShip
+  vendor: LinkShip
+  vendor_domain: linkship.net
+  category: productivity
+  deal_description: 20% off LinkShip for the first year with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://linkship.net/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lookaway
+  name: LookAway
+  vendor: LookAway
+  vendor_domain: lookaway.com
+  category: productivity
+  deal_description: 50% off LookAway with code BF2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://lookaway.com/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: luckynote
+  name: Luckynote
+  vendor: Luckynote
+  vendor_domain: luckynote.io
+  category: productivity
+  deal_description: 33% off Luckynote first year.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  url: https://luckynote.io/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mac4breakfast
+  name: Mac4Breakfast
+  vendor: Mac4Breakfast
+  vendor_domain: mac4breakfast.app
+  category: productivity
+  deal_description: 50% off Mac4Breakfast with code BLACKFRIDAY26, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://www.mac4breakfast.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: macvisor
+  name: MacVisor
+  vendor: MacVisor
+  vendor_domain: scaleninja.com
+  category: productivity
+  deal_description: 15% off MacVisor with code BLACKFRIDAY15, until Nov 30.
+  discount:
+    type: percent
+    value: 15
+    up_to: false
+  coupon_code: BLACKFRIDAY15
+  url: https://scaleninja.com/macvisor/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: meetingdebrief
+  name: MeetingDebrief
+  vendor: MeetingDebrief
+  vendor_domain: meetingdebrief.com
+  category: productivity
+  deal_description: 35% off MeetingDebrief (lifetime license) with code BFCM2026, until Dec 12.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://meetingdebrief.com/
+  end_date: '2026-12-12'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: menuglide
+  name: MenuGlide
+  vendor: MenuGlide
+  vendor_domain: koingosw.com
+  category: productivity
+  deal_description: 50% off MenuGlide with code KOINGO50, until Jan 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: KOINGO50
+  url: https://www.koingosw.com/blog/?action=view&id=722
+  end_date: '2027-01-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: milestones-project-management
+  name: Milestones - Project Management
+  vendor: Milestones - Project Management
+  vendor_domain: getmilestones.app
+  category: productivity
+  deal_description: 25% off Milestones - Project Management lifetime license, until Dec 5.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://getmilestones.app/
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: minimal-paste
+  name: Minimal Paste
+  vendor: Minimal Paste
+  vendor_domain: minimalpaste.com
+  category: productivity
+  deal_description: 30% off Minimal Paste with code BLACKFRIDAY30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY30
+  url: https://www.minimalpaste.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: moduspad
+  name: ModusPad
+  vendor: ModusPad
+  vendor_domain: moduspad.com
+  category: productivity
+  deal_description: 60% off ModusPad lifetime license, until Dec 5.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://moduspad.com/
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: moneywiz
+  name: MoneyWiz
+  vendor: MoneyWiz
+  vendor_domain: wiz.money
+  category: productivity
+  deal_description: 20% off MoneyWiz for the first year with code BFCM26, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BFCM26
+  url: https://www.wiz.money/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mouseup
+  name: MouseUp
+  vendor: MouseUp
+  vendor_domain: mouseup.app
+  category: productivity
+  deal_description: 50% off MouseUp (lifetime license) with code MMFBF2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: MMFBF2026
+  url: https://mouseup.app/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: muffle
+  name: Muffle
+  vendor: Muffle
+  vendor_domain: getmuffle.com
+  category: productivity
+  deal_description: 50% off Muffle with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://www.getmuffle.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mutedeck
+  name: MuteDeck
+  vendor: MuteDeck
+  vendor_domain: mutedeck.com
+  category: productivity
+  deal_description: 35% off MuteDeck with code BFCM2026.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://mutedeck.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: neotiler
+  name: NeoTiler
+  vendor: NeoTiler
+  vendor_domain: getneotiler.com
+  category: productivity
+  deal_description: 30% off NeoTiler (one-time purchase) with code BF30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF30
+  url: https://getneotiler.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: notchet
+  name: Notchet
+  vendor: Notchet
+  vendor_domain: aqibjaved.dev
+  category: productivity
+  deal_description: 50% off Notchet lifetime license with code NOTCHET50, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: NOTCHET50
+  url: https://aqibjaved.dev/apps/notchet/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: notebooks
+  name: Notebooks
+  vendor: Notebooks
+  vendor_domain: notebooksapp.com
+  category: productivity
+  deal_description: 30% off Notebooks, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://notebooksapp.com/blackfriday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: okaytab
+  name: OkayTab
+  vendor: OkayTab
+  vendor_domain: okaytab.app
+  category: productivity
+  deal_description: 30% off OkayTab with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://okaytab.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: options-matrix-pro
+  name: Options Matrix Pro
+  vendor: Options Matrix Pro
+  vendor_domain: optionsmatrixpro.com
+  category: productivity
+  deal_description: 50% off Options Matrix Pro for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.optionsmatrixpro.com/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: orbysystems
+  name: OrbySystems
+  vendor: OrbySystems
+  vendor_domain: orbysystems.ai
+  category: productivity
+  deal_description: 75% off OrbySystems with code BLACKFRIDAY26, until Nov 30.
+  discount:
+    type: percent
+    value: 75
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://orbysystems.ai/offers
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: our-family-album
+  name: Our Family Album
+  vendor: Our Family Album
+  vendor_domain: ourfamilyalbum.com
+  category: productivity
+  deal_description: 50% off Our Family Album, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://ourfamilyalbum.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: outlier
+  name: Outlier
+  vendor: Outlier
+  vendor_domain: outlier.host
+  category: productivity
+  deal_description: Outlier for $16.99 (one-time purchase), until Dec 2.
+  discount:
+    type: fixed_price
+    value: 16.99
+    up_to: false
+  url: https://outlier.host/pricing/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: palmscreen
+  name: palmscreen
+  vendor: palmscreen
+  vendor_domain: palmscreen.app
+  category: productivity
+  deal_description: 34% off palmscreen (one-time purchase) with code BLACKWEEK, until Nov 30.
+  discount:
+    type: percent
+    value: 34
+    up_to: false
+  coupon_code: BLACKWEEK
+  url: https://www.palmscreen.app/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pangalin-space-manager
+  name: Pangalin Space Manager
+  vendor: Pangalin Space Manager
+  vendor_domain: pangalin.com
+  category: productivity
+  deal_description: 30% off Pangalin Space Manager first year with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://pangalin.com/space-manager/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paperform
+  name: Paperform
+  vendor: Paperform
+  vendor_domain: paperform.com
+  category: productivity
+  deal_description: 50% off Paperform for the first year for new customers with code PFBF26, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: PFBF26
+  url: https://paperform.com/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paperkeep
+  name: Paperkeep
+  vendor: Paperkeep
+  vendor_domain: paperkeep.be
+  category: productivity
+  deal_description: 30% off Paperkeep for the first year with code PAPERKEEP30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: PAPERKEEP30
+  url: https://paperkeep.be/pro.html
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paperlight
+  name: Paperlight
+  vendor: Paperlight
+  vendor_domain: getpaperlight.com
+  category: productivity
+  deal_description: 33% off Paperlight with code LAUNCH, until Dec 3.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  coupon_code: LAUNCH
+  url: https://getpaperlight.com/
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paperman
+  name: Paperman
+  vendor: Paperman
+  vendor_domain: paperman.cc
+  category: productivity
+  deal_description: 25% off Paperman lifetime license, until Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://paperman.cc/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: parallels-desktop
+  name: Parallels Desktop
+  vendor: Parallels Desktop
+  vendor_domain: parallels.com
+  category: productivity
+  deal_description: Up to 50% off Parallels Desktop.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.parallels.com/products/desktop/buy/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paste
+  name: Paste
+  vendor: Paste
+  vendor_domain: pasteapp.io
+  category: productivity
+  deal_description: 50% off Paste for the first year with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://pasteapp.io/black-friday-2026
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: peakhour
+  name: PeakHour
+  vendor: PeakHour
+  vendor_domain: peakhour.app
+  category: productivity
+  deal_description: 30% off PeakHour (lifetime license).
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://peakhour.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: peektheday
+  name: PeekTheDay
+  vendor: PeekTheDay
+  vendor_domain: peektheday.com
+  category: productivity
+  deal_description: 67% off PeekTheDay (one-time purchase), until Nov 30.
+  discount:
+    type: percent
+    value: 67
+    up_to: false
+  url: https://peektheday.com
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: perch
+  name: Perch
+  vendor: Perch
+  vendor_domain: perch.run
+  category: productivity
+  deal_description: 40% off Perch (one-time purchase) with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://perch.run/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: photo-booth-app
+  name: Photo Booth App
+  vendor: Photo Booth App
+  vendor_domain: thephotoboothapp.com
+  category: productivity
+  deal_description: 50% off Photo Booth App, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://thephotoboothapp.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pie-menu
+  name: Pie Menu
+  vendor: Pie Menu
+  vendor_domain: pie-menu.com
+  category: productivity
+  deal_description: 12% off Pie Menu lifetime license with code PIE2026, until Nov 30.
+  discount:
+    type: percent
+    value: 12
+    up_to: false
+  coupon_code: PIE2026
+  url: https://www.pie-menu.com/black-friday-2026
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ping
+  name: Ping
+  vendor: Ping
+  vendor_domain: neat.software
+  category: productivity
+  deal_description: 40% off Ping with code NEATBF26, until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: NEATBF26
+  url: https://ping.neat.software/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pixelvault
+  name: PixelVault
+  vendor: PixelVault
+  vendor_domain: pixelvault.dev
+  category: productivity
+  deal_description: 50% off PixelVault with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://pixelvault.dev/blackfriday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pubtoo
+  name: PubToo
+  vendor: PubToo
+  vendor_domain: pubtoo.com
+  category: productivity
+  deal_description: 62% off PubToo lifetime license, until Dec 31.
+  discount:
+    type: percent
+    value: 62
+    up_to: false
+  url: https://www.pubtoo.com/en/black-friday/
+  end_date: '2026-12-31'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: purrpad
+  name: PurrPad
+  vendor: PurrPad
+  vendor_domain: purrpad.app
+  category: productivity
+  deal_description: 37% off PurrPad with code PURRFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 37
+    up_to: false
+  coupon_code: PURRFRIDAY
+  url: https://purrpad.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: qrgenie
+  name: QRGenie
+  vendor: QRGenie
+  vendor_domain: qrgenie.app
+  category: productivity
+  deal_description: 50% off QRGenie (lifetime license), until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://qrgenie.app/black-friday
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: quickbooks-online
+  name: QuickBooks Online
+  vendor: QuickBooks Online
+  vendor_domain: intuit.com
+  category: productivity
+  deal_description: 70% off QuickBooks Online, until Nov 29.
+  discount:
+    type: percent
+    value: 70
+    up_to: false
+  url: https://quickbooks.intuit.com/
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: radar
+  name: Radar
+  vendor: Radar
+  vendor_domain: getradar.co
+  category: productivity
+  deal_description: 30% off Radar with code BF26, until Dec 15.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF26
+  url: https://getradar.co/
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: remotr
+  name: Remotr
+  vendor: Remotr
+  vendor_domain: remotr.app
+  category: productivity
+  deal_description: 30% off Remotr with code 1RDUW7I6, until Nov 28.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: 1RDUW7I6
+  url: https://remotr.app/
+  end_date: '2026-11-28'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: roads-audio-plus
+  name: Roads Audio Plus
+  vendor: Roads Audio Plus
+  vendor_domain: roadsaudio.com
+  category: productivity
+  deal_description: 50% off Roads Audio Plus (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://roadsaudio.com/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: screen-fasting
+  name: Screen Fasting
+  vendor: Screen Fasting
+  vendor_domain: tryscreenfasting.com
+  category: productivity
+  deal_description: 60% off Screen Fasting on annual plans with code BLACKCYBER60, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  coupon_code: BLACKCYBER60
+  url: https://tryscreenfasting.com/mac
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scrubs
+  name: Scrubs
+  vendor: Scrubs
+  vendor_domain: getscrubs.app
+  category: productivity
+  deal_description: 40% off Scrubs (one-time purchase) with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://getscrubs.app/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sensei
+  name: Sensei
+  vendor: Sensei
+  vendor_domain: cindori.com
+  category: productivity
+  deal_description: 50% off Sensei first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://cindori.com/store
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sessionwatcher
+  name: SessionWatcher
+  vendor: SessionWatcher
+  vendor_domain: sessionwatcher.com
+  category: productivity
+  deal_description: 25% off SessionWatcher lifetime license.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  url: https://sessionwatcher.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: setlatch
+  name: SetLatch
+  vendor: SetLatch
+  vendor_domain: setlatch.com
+  category: productivity
+  deal_description: 30% off SetLatch for the first year.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://setlatch.com/cyber-monday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shieldfive
+  name: ShieldFive
+  vendor: ShieldFive
+  vendor_domain: shieldfive.com
+  category: productivity
+  deal_description: 50% off ShieldFive for the first year for new customers, until Dec 7.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://shieldfive.com/pricing
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shiftapp
+  name: ShiftApp
+  vendor: ShiftApp
+  vendor_domain: shiftapp.com
+  category: productivity
+  deal_description: 88% off ShiftApp for the first 8 months with code BLACKFRIDAY2026, until Dec 12.
+  discount:
+    type: percent
+    value: 88
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://shiftapp.com/black-friday
+  end_date: '2026-12-12'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shiftplus
+  name: ShiftPlus
+  vendor: ShiftPlus
+  vendor_domain: shiftplus.app
+  category: productivity
+  deal_description: 40% off ShiftPlus (lifetime license).
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://shiftplus.app/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shiori
+  name: Shiori
+  vendor: Shiori
+  vendor_domain: shioriapp.io
+  category: productivity
+  deal_description: 50% off Shiori with code BLACK2026FRIDAY50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK2026FRIDAY50
+  url: https://shioriapp.io/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sidebar
+  name: Sidebar
+  vendor: Sidebar
+  vendor_domain: sidebarapp.net
+  category: productivity
+  deal_description: 30% off Sidebar lifetime license, until Dec 4.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://sidebarapp.net/buy
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sightline
+  name: Sightline
+  vendor: Sightline
+  vendor_domain: sightlinemac.com
+  category: productivity
+  deal_description: 25% off Sightline lifetime license with code SIGHTLINELIFEDISCOUNT26, until Dec 31.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: SIGHTLINELIFEDISCOUNT26
+  url: https://sightlinemac.com/black-friday/
+  end_date: '2026-12-31'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: simplefill
+  name: SimpleFill
+  vendor: SimpleFill
+  vendor_domain: simplefill.app
+  category: productivity
+  deal_description: 25% off SimpleFill (one-time purchase) with code LAUNCH, until Dec 7.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: LAUNCH
+  url: https://simplefill.app
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: slapmac
+  name: SlapMac
+  vendor: SlapMac
+  vendor_domain: slapmac.com
+  category: productivity
+  deal_description: 30% off SlapMac (one-time purchase) with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://slapmac.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: spacepal
+  name: Spacepal
+  vendor: Spacepal
+  vendor_domain: getspacepal.com
+  category: productivity
+  deal_description: 20% off Spacepal (one-time purchase) with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://getspacepal.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: spacewise-2-0
+  name: SpaceWise 2.0
+  vendor: SpaceWise 2.0
+  vendor_domain: spacewisemac.in
+  category: productivity
+  deal_description: 25% off SpaceWise 2.0, until Dec 7.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://www.spacewisemac.in/pricing
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: spencer
+  name: Spencer
+  vendor: Spencer
+  vendor_domain: macspencer.app
+  category: productivity
+  deal_description: 40% off Spencer with code BLACK26, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACK26
+  url: https://macspencer.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sponge
+  name: Sponge
+  vendor: Sponge
+  vendor_domain: sponge.computer
+  category: productivity
+  deal_description: 50% off Sponge for the first year for new customers with code SPONGEBF26, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: SPONGEBF26
+  url: https://sponge.computer/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: standard-notes
+  name: Standard Notes
+  vendor: Standard Notes
+  vendor_domain: standardnotes.com
+  category: productivity
+  deal_description: 50% off Standard Notes on annual plans.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://standardnotes.com/plans
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: storage-menu-bar
+  name: Storage Menu Bar
+  vendor: Storage Menu Bar
+  vendor_domain: storagemenu.app
+  category: productivity
+  deal_description: 50% off Storage Menu Bar, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://storagemenu.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: submanager
+  name: SubManager
+  vendor: SubManager
+  vendor_domain: submanager.app
+  category: productivity
+  deal_description: 50% off SubManager, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://submanager.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: subsday
+  name: SubsDay
+  vendor: SubsDay
+  vendor_domain: od.ua
+  category: productivity
+  deal_description: 40% off SubsDay (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://subsday.appps.od.ua
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: supasidebar
+  name: SupaSidebar
+  vendor: SupaSidebar
+  vendor_domain: supasidebar.com
+  category: productivity
+  deal_description: 50% off SupaSidebar (lifetime license) with code SIDEBARBF50, until Dec 7.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: SIDEBARBF50
+  url: https://supasidebar.com/
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: superlist
+  name: Superlist
+  vendor: Superlist
+  vendor_domain: superlist.com
+  category: productivity
+  deal_description: 50% off Superlist first year with code SUPERFRIDAY2026, until Nov 29.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: SUPERFRIDAY2026
+  url: https://www.superlist.com/blackfriday2026
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tabhive
+  name: Tabhive
+  vendor: Tabhive
+  vendor_domain: tabhive.app
+  category: productivity
+  deal_description: 40% off Tabhive with code BF2026.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.tabhive.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tangrid
+  name: Tangrid
+  vendor: Tangrid
+  vendor_domain: tangrid.app
+  category: productivity
+  deal_description: 25% off Tangrid lifetime license with code BLACK5D.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACK5D
+  url: https://tangrid.app/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: textlore
+  name: Textlore
+  vendor: Textlore
+  vendor_domain: textlore.app
+  category: productivity
+  deal_description: 30% off Textlore with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://textlore.app
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: theoryscore
+  name: TheoryScore
+  vendor: TheoryScore
+  vendor_domain: theoryscore.com
+  category: productivity
+  deal_description: 40% off TheoryScore for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://theoryscore.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: things-3
+  name: Things 3
+  vendor: Things 3
+  vendor_domain: culturedcode.com
+  category: productivity
+  deal_description: 30% off Things 3, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://culturedcode.com/things/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: thumbwise
+  name: Thumbwise
+  vendor: Thumbwise
+  vendor_domain: thumbwise.app
+  category: productivity
+  deal_description: 30% off Thumbwise with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  coupon_code: BLACKFRIDAY
+  url: https://thumbwise.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tidix
+  name: Tidix
+  vendor: Tidix
+  vendor_domain: tidix.app
+  category: productivity
+  deal_description: 69% off Tidix (one-time purchase) with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 69
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://tidix.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: timecamp
+  name: TimeCamp
+  vendor: TimeCamp
+  vendor_domain: timecamp.com
+  category: productivity
+  deal_description: 30% off TimeCamp for the first year, until Dec 5.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.timecamp.com/black-friday/
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: timesheet
+  name: Timesheet
+  vendor: Timesheet
+  vendor_domain: timesheet.io
+  category: productivity
+  deal_description: 50% off Timesheet for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://timesheet.io/en/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: todowing
+  name: Todowing
+  vendor: Todowing
+  vendor_domain: todowing.com
+  category: productivity
+  deal_description: 40% off Todowing (lifetime license) with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://todowing.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tower
+  name: Tower
+  vendor: Tower
+  vendor_domain: git-tower.com
+  category: productivity
+  deal_description: 'Up to 50% off the first year for new customers: Pro $64.50 (was $129), Basic $48.30 (was $69).'
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.git-tower.com/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tradingview
+  name: TradingView
+  vendor: TradingView
+  vendor_domain: tradingview.com
+  category: productivity
+  deal_description: Up to 80% off TradingView, until Nov 28.
+  discount:
+    type: percent
+    value: 80
+    up_to: true
+  url: https://www.tradingview.com/black-friday/
+  end_date: '2026-11-28'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: transcrybe
+  name: Transcrybe
+  vendor: Transcrybe
+  vendor_domain: transcrybe.app
+  category: productivity
+  deal_description: 50% off Transcrybe.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://transcrybe.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tutti-pro
+  name: Tutti Pro
+  vendor: Tutti Pro
+  vendor_domain: barrybarrywu.com
+  category: productivity
+  deal_description: Tutti Pro for $8.99.
+  discount:
+    type: fixed_price
+    value: 8.99
+    up_to: false
+  url: https://tutti.barrybarrywu.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: univocal
+  name: Univocal
+  vendor: Univocal
+  vendor_domain: univocalapp.com
+  category: productivity
+  deal_description: Univocal for $15 with code BF2026, until Nov 30.
+  discount:
+    type: fixed_price
+    value: 15
+    up_to: false
+  coupon_code: BF2026
+  url: https://univocalapp.com/purchase/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: upto
+  name: Upto
+  vendor: Upto
+  vendor_domain: macupto.com
+  category: productivity
+  deal_description: 10% off Upto for the first year with code UPTOBLACKFRIDAY.
+  discount:
+    type: percent
+    value: 10
+    up_to: false
+  coupon_code: UPTOBLACKFRIDAY
+  url: https://macupto.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: video-wall-live
+  name: Video Wall Live
+  vendor: Video Wall Live
+  vendor_domain: videowalllive.com
+  category: productivity
+  deal_description: 60% off Video Wall Live on monthly plans.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://videowalllive.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vidnotes
+  name: VidNotes
+  vendor: VidNotes
+  vendor_domain: vidnotes.org
+  category: productivity
+  deal_description: 25% off VidNotes with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BF2026
+  url: https://vidnotes.org/blackfriday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vitals-for-mac
+  name: Vitals for Mac
+  vendor: Vitals for Mac
+  vendor_domain: vitalsmac.com
+  category: productivity
+  deal_description: 73% off Vitals for Mac, until Dec 5.
+  discount:
+    type: percent
+    value: 73
+    up_to: false
+  url: https://vitalsmac.com/pricing
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: voiceink
+  name: VoiceInk
+  vendor: VoiceInk
+  vendor_domain: tryvoiceink.com
+  category: productivity
+  deal_description: 40% off VoiceInk (lifetime license) with code BFVI2640, until Dec 5.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BFVI2640
+  url: https://tryvoiceink.com/black-friday
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wave
+  name: Wave
+  vendor: Wave
+  vendor_domain: waveapps.com
+  category: productivity
+  deal_description: Up to 25% off Wave Bookkeeping and up to $40 off coaching from Wave Advisors.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  url: https://waveapps.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wealthfolio-connect
+  name: Wealthfolio Connect
+  vendor: Wealthfolio Connect
+  vendor_domain: wealthfolio.app
+  category: productivity
+  deal_description: 35% off Wealthfolio Connect first year with code BLACKFRIDAY35, until Nov 30.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  coupon_code: BLACKFRIDAY35
+  url: https://wealthfolio.app/connect/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: welten
+  name: Welten
+  vendor: Welten
+  vendor_domain: welten.app
+  category: productivity
+  deal_description: 40% off Welten, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://welten.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: whatpulse
+  name: WhatPulse
+  vendor: WhatPulse
+  vendor_domain: whatpulse.org
+  category: productivity
+  deal_description: 35% off WhatPulse with code BFCM2026.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://whatpulse.org/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: winch
+  name: Winch
+  vendor: Winch
+  vendor_domain: getwinch.app
+  category: productivity
+  deal_description: 30% off Winch (one-time purchase) with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://getwinch.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wins
+  name: Wins
+  vendor: Wins
+  vendor_domain: wins.cool
+  category: productivity
+  deal_description: 40% off Wins with code BF_26, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF_26
+  url: https://wins.cool/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wishbar
+  name: Wishbar
+  vendor: Wishbar
+  vendor_domain: wishbar.app
+  category: productivity
+  deal_description: 50% off Wishbar, until Dec 7.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://wishbar.app/black-friday
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wispim-voice-teleprompter
+  name: 'Wispim: Voice Teleprompter'
+  vendor: 'Wispim: Voice Teleprompter'
+  vendor_domain: wispim.com
+  category: productivity
+  deal_description: '50% off Wispim: Voice Teleprompter (lifetime license), until Nov 30.'
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://wispim.com/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: worksnaply
+  name: WorkSnaply
+  vendor: WorkSnaply
+  vendor_domain: worksnaply.com
+  category: productivity
+  deal_description: 40% off WorkSnaply first year with code BFCM40, until Dec 5.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BFCM40
+  url: https://worksnaply.com/black-friday-deals-2026
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: xflow
+  name: XFlow
+  vendor: XFlow
+  vendor_domain: foxecom.com
+  category: productivity
+  deal_description: 35% off XFlow.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  url: https://foxecom.com/pages/bfcm-2026
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: xgetter
+  name: XGetter
+  vendor: XGetter
+  vendor_domain: xgetter.com
+  category: productivity
+  deal_description: 30% off XGetter with code BF2026, until Dec 2.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://xgetter.com/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: y-pod
+  name: Y-Pod
+  vendor: Y-Pod
+  vendor_domain: y-pod.app
+  category: productivity
+  deal_description: 50% off Y-Pod (lifetime license).
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.y-pod.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zen-mode
+  name: Zen Mode
+  vendor: Zen Mode
+  vendor_domain: zenmode.app
+  category: productivity
+  deal_description: 55% off Zen Mode lifetime license.
+  discount:
+    type: percent
+    value: 55
+    up_to: false
+  url: https://zenmode.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zhenzhu
+  name: Zhenzhu
+  vendor: Zhenzhu
+  vendor_domain: zhenzhu.app
+  category: productivity
+  deal_description: 69% off Zhenzhu with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 69
+    up_to: false
+  coupon_code: BF2026
+  url: https://zhenzhu.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zipic
+  name: Zipic
+  vendor: Zipic
+  vendor_domain: zipic.app
+  category: productivity
+  deal_description: 33% off Zipic (one-time purchase) with code BF2026, until Dec 6.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  coupon_code: BF2026
+  url: https://zipic.app/black-friday
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zmina
+  name: Zmina
+  vendor: Zmina
+  vendor_domain: zmina.app
+  category: productivity
+  deal_description: 40% off Zmina lifetime license with code BF2026, until Dec 15.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://zmina.app/
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zxclip
+  name: ZxClip
+  vendor: ZxClip
+  vendor_domain: zxclip.com
+  category: productivity
+  deal_description: 70% off ZxClip (lifetime license).
+  discount:
+    type: percent
+    value: 70
+    up_to: false
+  url: https://zxclip.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

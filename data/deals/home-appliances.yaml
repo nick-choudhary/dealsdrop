@@ -1,0 +1,557 @@
+# home-appliances — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: birch-living-black-friday
+  name: Birch Living Black Friday
+  vendor: Birch Living
+  vendor_domain: birchliving.com
+  category: home-appliances
+  deal_description: 25% off sitewide.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://birchliving.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bissell-black-friday
+  name: Bissell Black Friday
+  vendor: Bissell
+  vendor_domain: bissell.com
+  category: home-appliances
+  deal_description: Up to 50% off Bissell vacuums and carpet cleaners.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.bissell.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: breville-black-friday
+  name: Breville Black Friday
+  vendor: Breville
+  vendor_domain: breville.com
+  category: home-appliances
+  deal_description: Black Friday prices on Breville espresso machines and ovens, e.g. Smart Oven Air Fryer Pro $299.95 (was $399.95).
+  discount:
+    type: amount
+    value: 100
+    up_to: true
+  url: https://www.breville.com/us/en/home/index.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: brooklinen-black-friday
+  name: Brooklinen Black Friday
+  vendor: Brooklinen
+  vendor_domain: brooklinen.com
+  category: home-appliances
+  deal_description: 25% off sitewide and 40% off select bundles until Dec 2.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://www.brooklinen.com/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cb2-black-friday
+  name: CB2 Black Friday
+  vendor: CB2
+  vendor_domain: cb2.com
+  category: home-appliances
+  deal_description: Up to 60% off furniture, outdoor and holiday.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.cb2.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: crate-and-barrel-black-friday
+  name: Crate and Barrel Black Friday
+  vendor: Crate and Barrel
+  vendor_domain: crateandbarrel.com
+  category: home-appliances
+  deal_description: Up to 50% off kitchen and bathroom.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.crateandbarrel.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: de-longhi-black-friday
+  name: De'Longhi Black Friday
+  vendor: De'Longhi
+  vendor_domain: delonghi.com
+  category: home-appliances
+  deal_description: Up to 40% off De'Longhi espresso machines.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.delonghi.com/en-us/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dreame-black-friday-sale
+  name: Dreame Black Friday sale
+  vendor: Dreame
+  vendor_domain: dreametech.com
+  category: home-appliances
+  deal_description: Up to 76% off Dreame robot vacuums, cordless vacuums and hair dryers.
+  discount:
+    type: percent
+    value: 76
+    up_to: true
+  url: https://www.dreametech.com/pages/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dyson-black-friday-deals
+  name: Dyson Black Friday deals
+  vendor: Dyson
+  vendor_domain: dyson.com
+  category: home-appliances
+  deal_description: Black Friday prices on Dyson vacuums, e.g. V12 Detect Slim around $400 and V15 Detect Absolute $600.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.dyson.com/deals
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hexclad-black-friday
+  name: HexClad Black Friday
+  vendor: HexClad
+  vendor_domain: hexclad.com
+  category: home-appliances
+  deal_description: Up to 52% off HexClad cookware sets and accessories.
+  discount:
+    type: percent
+    value: 52
+    up_to: true
+  url: https://hexclad.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hindware-chimney-on-flipkart
+  name: Hindware chimney on Flipkart
+  vendor: Flipkart
+  vendor_domain: flipkart.com
+  category: home-appliances
+  deal_description: Hindware Ripple Plus 90 cm autoclean chimney at Rs 14,990 (MRP Rs 44,990) in the Flipkart Black Friday Sale.
+  discount:
+    type: percent
+    value: 67
+    up_to: false
+  regular_price: 44990
+  deal_price: 14990
+  currency: INR
+  url: https://www.flipkart.com/
+  end_date: '2026-11-27'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ikea-us-black-friday
+  name: IKEA US Black Friday
+  vendor: IKEA
+  vendor_domain: ikea.com
+  category: home-appliances
+  deal_description: Up to 30% off select IKEA designs.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://www.ikea.com/us/en/offers/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: irobot-roomba-deals
+  name: iRobot Roomba deals
+  vendor: iRobot
+  vendor_domain: irobot.com
+  category: home-appliances
+  deal_description: Up to 25% off Roomba robot vacuums; Roomba 105 Vac around $142.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  url: https://www.irobot.com/en_US/deals.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: joybird-black-friday
+  name: Joybird Black Friday
+  vendor: Joybird
+  vendor_domain: joybird.com
+  category: home-appliances
+  deal_description: Up to 45% off Joybird furniture through Nov 30.
+  discount:
+    type: percent
+    value: 45
+    up_to: true
+  url: https://joybird.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kitchenaid-black-friday
+  name: KitchenAid Black Friday
+  vendor: KitchenAid
+  vendor_domain: kitchenaid.com
+  category: home-appliances
+  deal_description: Up to 30% off select KitchenAid appliances, incl. stand mixers.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://www.kitchenaid.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lg-251l-fridge-on-flipkart
+  name: LG 251L fridge on Flipkart
+  vendor: Flipkart
+  vendor_domain: flipkart.com
+  category: home-appliances
+  deal_description: LG 251 L frost-free double-door refrigerator at Rs 26,533 (MRP Rs 36,990) in the Black Friday Sale; SBI card EMI 10% off.
+  discount:
+    type: percent
+    value: 28
+    up_to: false
+  regular_price: 36990
+  deal_price: 26533
+  currency: INR
+  url: https://www.flipkart.com/
+  end_date: '2026-11-27'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: made-in-black-friday
+  name: Made In Black Friday
+  vendor: Made In
+  vendor_domain: madeincookware.com
+  category: home-appliances
+  deal_description: Up to 40% off Made In cookware.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://madeincookware.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ninja-black-friday-sale
+  name: Ninja Black Friday sale
+  vendor: SharkNinja
+  vendor_domain: ninjakitchen.com
+  category: home-appliances
+  deal_description: Up to 40% off Ninja air fryers, blenders, coffee makers and grills.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.ninjakitchen.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ooni-black-friday
+  name: Ooni Black Friday
+  vendor: Ooni
+  vendor_domain: ooni.com
+  category: home-appliances
+  deal_description: 20% off almost everything at Ooni, incl. pizza ovens.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://ooni.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: our-place-black-friday
+  name: Our Place Black Friday
+  vendor: Our Place
+  vendor_domain: fromourplace.com
+  category: home-appliances
+  deal_description: Up to 45% off cookware sitewide until Nov 30.
+  discount:
+    type: percent
+    value: 45
+    up_to: true
+  url: https://fromourplace.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: parachute-black-friday
+  name: Parachute Black Friday
+  vendor: Parachute
+  vendor_domain: parachutehome.com
+  category: home-appliances
+  deal_description: 20% off sitewide and up to 40% off select items until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www.parachutehome.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: roborock-black-friday
+  name: Roborock Black Friday
+  vendor: Roborock
+  vendor_domain: roborock.com
+  category: home-appliances
+  deal_description: Black Friday discounts on Roborock robot vacuums, e.g. Qrevo S Pro $380 (was $700) at Amazon.
+  discount:
+    type: percent
+    value: 46
+    up_to: true
+  url: https://us.roborock.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shark-black-friday-sale
+  name: Shark Black Friday sale
+  vendor: SharkNinja
+  vendor_domain: sharkclean.com
+  category: home-appliances
+  deal_description: Up to 40% off Shark vacuums, robot vacuums and hair tools.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.sharkclean.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sleep-number-black-friday
+  name: Sleep Number Black Friday
+  vendor: Sleep Number
+  vendor_domain: sleepnumber.com
+  category: home-appliances
+  deal_description: Up to 25% off Sleep Number smart beds.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  url: https://www.sleepnumber.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: stanley-black-friday
+  name: Stanley Black Friday
+  vendor: Stanley
+  vendor_domain: stanley1913.com
+  category: home-appliances
+  deal_description: Up to 50% off Stanley drinkware through Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.stanley1913.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sundays-black-friday
+  name: Sundays Black Friday
+  vendor: Sundays
+  vendor_domain: sundays-company.com
+  category: home-appliances
+  deal_description: Up to 40% off Sundays furniture until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.sundays-company.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tempur-pedic-black-friday
+  name: Tempur-Pedic Black Friday
+  vendor: Tempur Sealy
+  vendor_domain: tempurpedic.com
+  category: home-appliances
+  deal_description: Save up to $500 on Tempur-Pedic adjustable mattress sets.
+  discount:
+    type: amount
+    value: 500
+    up_to: true
+  url: https://www.tempurpedic.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: the-container-store-black-friday
+  name: The Container Store Black Friday
+  vendor: The Container Store
+  vendor_domain: containerstore.com
+  category: home-appliances
+  deal_description: 30% off everything.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.containerstore.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wyze-black-friday
+  name: Wyze Black Friday
+  vendor: Wyze
+  vendor_domain: wyze.com
+  category: home-appliances
+  deal_description: Up to 35% off Wyze smart home cameras and devices.
+  discount:
+    type: percent
+    value: 35
+    up_to: true
+  url: https://www.wyze.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

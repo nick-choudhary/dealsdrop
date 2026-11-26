@@ -1,0 +1,1827 @@
+# design-media — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: a1-gallery
+  name: A1 Gallery
+  vendor: A1 Gallery
+  vendor_domain: a1.gallery
+  category: design-media
+  deal_description: 33% off A1 Gallery on annual plans, until Nov 30.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  url: https://www.a1.gallery/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: app-store-screenshot-studio
+  name: App Store Screenshot Studio
+  vendor: App Store Screenshot Studio
+  vendor_domain: appstorescreenshotstudio.com
+  category: design-media
+  deal_description: Up to 50% off App Store Screenshot Studio (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://appstorescreenshotstudio.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: artnap-pro
+  name: Artnap Pro
+  vendor: Artnap Pro
+  vendor_domain: artnap.com
+  category: design-media
+  deal_description: Artnap Pro for $59, until Nov 30.
+  discount:
+    type: fixed_price
+    value: 59
+    up_to: false
+  url: https://artnap.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: atmos
+  name: Atmos
+  vendor: Atmos
+  vendor_domain: atmos.style
+  category: design-media
+  deal_description: 50% off Atmos (lifetime license) with code BF2026, until Nov 29.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://atmos.style/black-friday
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: audiorecorder-app
+  name: AudioRecorder.app
+  vendor: AudioRecorder.app
+  vendor_domain: macrecorder.app
+  category: design-media
+  deal_description: 60% off AudioRecorder.app lifetime license, until Dec 1.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://audio.macrecorder.app
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: babapic
+  name: BabaPic
+  vendor: BabaPic
+  vendor_domain: babapic.cc
+  category: design-media
+  deal_description: 50% off BabaPic lifetime license with code BABAPIC2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  coupon_code: BABAPIC2026
+  url: https://www.babapic.cc/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: batchmark
+  name: BatchMark
+  vendor: BatchMark
+  vendor_domain: dispatchcat.com
+  category: design-media
+  deal_description: 50% off BatchMark (lifetime license), until Dec 25.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://batchmark.dispatchcat.com/holiday-sale/
+  end_date: '2026-12-25'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bimg-ai
+  name: Bimg AI
+  vendor: Bimg AI
+  vendor_domain: bimg.ai
+  category: design-media
+  deal_description: 50% off Bimg AI, until Dec 3.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://bimg.ai/black-friday
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bindrik
+  name: Bindrik
+  vendor: Bindrik
+  vendor_domain: bindrik.com
+  category: design-media
+  deal_description: 43% off Bindrik (one-time purchase) with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 43
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://bindrik.com/en
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: birdframe
+  name: Birdframe
+  vendor: Birdframe
+  vendor_domain: getbirdframe.com
+  category: design-media
+  deal_description: Birdframe for $19.99 (one-time purchase), until Dec 1.
+  discount:
+    type: fixed_price
+    value: 19.99
+    up_to: false
+  url: https://getbirdframe.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cap
+  name: Cap
+  vendor: Cap
+  vendor_domain: cap.so
+  category: design-media
+  deal_description: 50% off Cap with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://cap.so/blackfriday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: capcut-pro-desktop
+  name: CapCut Pro (desktop)
+  vendor: CapCut Pro (desktop)
+  vendor_domain: capcut.com
+  category: design-media
+  deal_description: 90% off CapCut Pro (desktop).
+  discount:
+    type: percent
+    value: 90
+    up_to: false
+  url: https://www.capcut.com/tools/capcut-black-friday-sale
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: compresto
+  name: Compresto
+  vendor: Compresto
+  vendor_domain: compresto.app
+  category: design-media
+  deal_description: 40% off Compresto (lifetime license) with code BFCM26, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BFCM26
+  url: https://compresto.app/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: crisp-video-enhancer
+  name: Crisp video enhancer
+  vendor: Crisp video enhancer
+  vendor_domain: crispvideo.app
+  category: design-media
+  deal_description: Crisp video enhancer for $9.99 (one-time purchase), until Dec 2.
+  discount:
+    type: fixed_price
+    value: 9.99
+    up_to: false
+  url: https://crispvideo.app/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cutfac
+  name: Cutfac
+  vendor: Cutfac
+  vendor_domain: cutfac.com
+  category: design-media
+  deal_description: 40% off Cutfac (one-time purchase) with code BF2026.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://cutfac.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dabbit
+  name: Dabbit
+  vendor: Dabbit
+  vendor_domain: dabbit.app
+  category: design-media
+  deal_description: 30% off Dabbit with code BLACKFRIDAY.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://dabbit.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: daycaresync
+  name: DaycareSync
+  vendor: DaycareSync
+  vendor_domain: daycaresync.app
+  category: design-media
+  deal_description: 50% off DaycareSync, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://daycaresync.app/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: downie-4
+  name: Downie 4
+  vendor: Downie 4
+  vendor_domain: charliemonroe.net
+  category: design-media
+  deal_description: 30% off Downie 4.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://software.charliemonroe.net/blackfriday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: elevenlabs
+  name: ElevenLabs
+  vendor: ElevenLabs
+  vendor_domain: elevenlabs.io
+  category: design-media
+  deal_description: Up to 55% off ElevenLabs.
+  discount:
+    type: percent
+    value: 55
+    up_to: true
+  url: https://elevenlabs.io/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: envato
+  name: Envato
+  vendor: Envato
+  vendor_domain: envato.com
+  category: design-media
+  deal_description: Up to 40% off Envato.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.envato.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: etk-image-compressor-pro
+  name: ETK Image Compressor Pro
+  vendor: ETK Image Compressor Pro
+  vendor_domain: gumroad.com
+  category: design-media
+  deal_description: 66% off ETK Image Compressor Pro (lifetime license) with code ETKBF66.
+  discount:
+    type: percent
+    value: 66
+    up_to: false
+  coupon_code: ETKBF66
+  url: https://shakster24.gumroad.com/l/fcnkut
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: exemplary-ai
+  name: Exemplary AI
+  vendor: Exemplary AI
+  vendor_domain: exemplary.ai
+  category: design-media
+  deal_description: 15% off your first payment; ends Nov 30.
+  discount:
+    type: percent
+    value: 15
+    up_to: false
+  url: https://exemplary.ai/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fiximage
+  name: FixImage
+  vendor: FixImage
+  vendor_domain: fiximage.net
+  category: design-media
+  deal_description: Bonus credits on FixImage plans, until Dec 1.
+  discount:
+    type: credits
+    value: null
+    up_to: false
+  url: https://fiximage.net/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fl-studio
+  name: FL Studio
+  vendor: FL Studio
+  vendor_domain: image-line.com
+  category: design-media
+  deal_description: Up to 50% off FL Studio.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.image-line.com/specials
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fluidcast
+  name: FluidCast
+  vendor: FluidCast
+  vendor_domain: fluidcastapp.com
+  category: design-media
+  deal_description: 50% off FluidCast with code BLACKFRIDAY2026LT.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026LT
+  url: https://fluidcastapp.com/event.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: frame0
+  name: Frame0
+  vendor: Frame0
+  vendor_domain: frame0.app
+  category: design-media
+  deal_description: 30% off Frame0 with code BFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://frame0.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gifbarn
+  name: GIFBarn
+  vendor: GIFBarn
+  vendor_domain: gifbarn.com
+  category: design-media
+  deal_description: 50% off GIFBarn, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://gifbarn.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hdri-hub
+  name: HDRI Hub
+  vendor: HDRI Hub
+  vendor_domain: hdri-hub.com
+  category: design-media
+  deal_description: 50% off HDRI Hub with code BLACK50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACK50
+  url: https://www.hdri-hub.com/shop/hdri?discount=BLACK50
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: imgvid
+  name: ImgVid
+  vendor: ImgVid
+  vendor_domain: imgvid.net
+  category: design-media
+  deal_description: Bonus credits on ImgVid plans, until Dec 1.
+  discount:
+    type: credits
+    value: null
+    up_to: false
+  url: https://imgvid.net/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: inreels
+  name: inReels
+  vendor: inReels
+  vendor_domain: inreels.ai
+  category: design-media
+  deal_description: 50% off inReels on annual plans with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://www.inreels.ai/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kensa
+  name: Kensa
+  vendor: Kensa
+  vendor_domain: kensa.cc
+  category: design-media
+  deal_description: 25% off Kensa.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://www.kensa.cc/deals/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: keystro
+  name: Keystro
+  vendor: Keystro
+  vendor_domain: keystro.app
+  category: design-media
+  deal_description: 30% off Keystro (one-time purchase) with code BFKEYSTRO26, until Dec 4.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BFKEYSTRO26
+  url: https://keystro.app/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: knitting-chart
+  name: Knitting Chart
+  vendor: Knitting Chart
+  vendor_domain: knittingchart.com
+  category: design-media
+  deal_description: 32% off Knitting Chart (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 32
+    up_to: false
+  url: https://knittingchart.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: krumzi
+  name: Krumzi
+  vendor: Krumzi
+  vendor_domain: krumzi.com
+  category: design-media
+  deal_description: 60% off Krumzi for the first year for new customers, until Dec 1.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://www.krumzi.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: linger
+  name: Linger
+  vendor: Linger
+  vendor_domain: withlinger.com
+  category: design-media
+  deal_description: 38% off Linger (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 38
+    up_to: false
+  url: https://withlinger.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: liniqo
+  name: Liniqo
+  vendor: Liniqo
+  vendor_domain: liniqo.com
+  category: design-media
+  deal_description: Up to 70% off Liniqo (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://liniqo.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lottiego
+  name: LottieGo
+  vendor: LottieGo
+  vendor_domain: lottiego.com
+  category: design-media
+  deal_description: 50% off LottieGo (lifetime license), until Dec 6.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://lottiego.com/black-friday
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ls-graphics
+  name: LS Graphics
+  vendor: LS Graphics
+  vendor_domain: ls.graphics
+  category: design-media
+  deal_description: 50% off LS Graphics on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.ls.graphics/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lumi-re
+  name: Lumière
+  vendor: Lumière
+  vendor_domain: artsvit.com
+  category: design-media
+  deal_description: 20% off Lumière lifetime license with code ARTSVITBF20, until Nov 30.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: ARTSVITBF20
+  url: https://artsvit.com/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: macdraft-pro
+  name: MacDraft Pro
+  vendor: MacDraft Pro
+  vendor_domain: microspot.com
+  category: design-media
+  deal_description: 55% off MacDraft Pro.
+  discount:
+    type: percent
+    value: 55
+    up_to: true
+  url: https://www.microspot.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mediaorganizer-studio
+  name: MediaOrganizer Studio
+  vendor: MediaOrganizer Studio
+  vendor_domain: brightfoundry.info
+  category: design-media
+  deal_description: 17% off MediaOrganizer Studio, until Nov 30.
+  discount:
+    type: percent
+    value: 17
+    up_to: false
+  url: https://brightfoundry.info/mediaorganizer/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mingcute
+  name: MingCute
+  vendor: MingCute
+  vendor_domain: mingcute.com
+  category: design-media
+  deal_description: 30% off MingCute with code BF2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.mingcute.com/animation
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: monipix
+  name: Monipix
+  vendor: Monipix
+  vendor_domain: monipix.com
+  category: design-media
+  deal_description: 'AI image upscaler: year one of any annual plan for the price of 6 months.'
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://monipix.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: motionflare
+  name: Motionflare
+  vendor: Motionflare
+  vendor_domain: motionflare.ai
+  category: design-media
+  deal_description: 50% off Motionflare, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://motionflare.ai/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: motionshine
+  name: MotionShine
+  vendor: MotionShine
+  vendor_domain: motionshine.com
+  category: design-media
+  deal_description: 50% off MotionShine with code BF50, until Dec 5.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF50
+  url: https://motionshine.com/
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nano-banana
+  name: Nano Banana
+  vendor: Nano Banana
+  vendor_domain: nanobanana.org
+  category: design-media
+  deal_description: 50% off Nano Banana.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://nanobanana.org/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: newyougo
+  name: NewYouGo
+  vendor: NewYouGo
+  vendor_domain: newyougo.com
+  category: design-media
+  deal_description: 20% off NewYouGo.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://newyougo.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: oil-studio
+  name: Oil Studio
+  vendor: Oil Studio
+  vendor_domain: oiloil.org
+  category: design-media
+  deal_description: 20% off Oil Studio (one-time purchase) with code BFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://studio.oiloil.org/en/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: on1-photo-raw-2027
+  name: ON1 Photo RAW 2027
+  vendor: ON1 Photo RAW 2027
+  vendor_domain: on1.com
+  category: design-media
+  deal_description: ON1 Photo RAW 2027 for $59.99 (one-time purchase), until Nov 27.
+  discount:
+    type: fixed_price
+    value: 59.99
+    up_to: false
+  url: https://www.on1.com/landing/black-friday/
+  end_date: '2026-11-27'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: oraclip
+  name: Oraclip
+  vendor: Oraclip
+  vendor_domain: oraclip.com
+  category: design-media
+  deal_description: 30% off Oraclip for the first year, until Dec 6.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://oraclip.com/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paplo-plus
+  name: Paplo Plus
+  vendor: Paplo Plus
+  vendor_domain: getpaplo.com
+  category: design-media
+  deal_description: Paplo Plus for $3.99, until Nov 30.
+  discount:
+    type: fixed_price
+    value: 3.99
+    up_to: false
+  url: https://getpaplo.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: phoaly
+  name: Phoaly
+  vendor: Phoaly
+  vendor_domain: phoaly.com
+  category: design-media
+  deal_description: 30% off Phoaly lifetime license with code BF2026, until Dec 6.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://phoaly.com/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: picmal
+  name: Picmal
+  vendor: Picmal
+  vendor_domain: picmal.app
+  category: design-media
+  deal_description: 50% off Picmal with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://picmal.app/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pimosa
+  name: Pimosa
+  vendor: Pimosa
+  vendor_domain: pimosa.app
+  category: design-media
+  deal_description: 40% off Pimosa (one-time purchase) with code BLACKFRIDAY40, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY40
+  url: https://pimosa.app
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: podwise
+  name: Podwise
+  vendor: Podwise
+  vendor_domain: podwise.ai
+  category: design-media
+  deal_description: 40% off Podwise on annual plans with code BF2026, until Dec 6.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://podwise.ai/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: poxture-app
+  name: Poxture App
+  vendor: Poxture App
+  vendor_domain: poxture.com
+  category: design-media
+  deal_description: 34% off Poxture App with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 34
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://poxture.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: productshot-ai
+  name: ProductShot AI
+  vendor: ProductShot AI
+  vendor_domain: productshotai.app
+  category: design-media
+  deal_description: Up to 50% off ProductShot AI plans for Black Friday.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://productshotai.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: protopie
+  name: ProtoPie
+  vendor: ProtoPie
+  vendor_domain: protopie.io
+  category: design-media
+  deal_description: 40% off ProtoPie on annual plans with code PRO40.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: PRO40
+  url: https://www.protopie.io/plans
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: quicktools
+  name: QuickTools
+  vendor: QuickTools
+  vendor_domain: designtech.so
+  category: design-media
+  deal_description: 50% off QuickTools.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://designtech.so/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rapidemo
+  name: Rapidemo
+  vendor: Rapidemo
+  vendor_domain: getrapidemo.com
+  category: design-media
+  deal_description: 30% off Rapidemo for the first year with code BLACKFRIDAY26, until Dec 2.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://getrapidemo.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: reason-studios
+  name: Reason Studios
+  vendor: Reason Studios
+  vendor_domain: reasonstudios.com
+  category: design-media
+  deal_description: Up to 50% off Reason Studios.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.reasonstudios.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: recut
+  name: Recut
+  vendor: Recut
+  vendor_domain: getrecut.com
+  category: design-media
+  deal_description: $50 off Recut, until Dec 4.
+  discount:
+    type: amount
+    value: 50
+    up_to: false
+  url: https://getrecut.com/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: removevideobg
+  name: RemoveVideoBG
+  vendor: RemoveVideoBG
+  vendor_domain: removevideobg.com
+  category: design-media
+  deal_description: Bonus credits on RemoveVideoBG plans on annual plans.
+  discount:
+    type: credits
+    value: null
+    up_to: false
+  url: https://removevideobg.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: renderly
+  name: Renderly
+  vendor: Renderly
+  vendor_domain: renderly.video
+  category: design-media
+  deal_description: 30% off Renderly with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://renderly.video/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: renderpixels
+  name: RenderPixels
+  vendor: RenderPixels
+  vendor_domain: renderpixels.com
+  category: design-media
+  deal_description: 20% off RenderPixels with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BF2026
+  url: https://renderpixels.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: revelraw
+  name: RevelRaw
+  vendor: RevelRaw
+  vendor_domain: revelraw.com
+  category: design-media
+  deal_description: 40% off RevelRaw first year, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://revelraw.com/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rindraw
+  name: Rindraw
+  vendor: Rindraw
+  vendor_domain: rindraw.com
+  category: design-media
+  deal_description: 50% off Rindraw (one-time purchase).
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://rindraw.com/black-friday-2026/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: screenotter
+  name: ScreenOtter
+  vendor: ScreenOtter
+  vendor_domain: screenotter.com
+  category: design-media
+  deal_description: 40% off ScreenOtter with code BLACKFRIDAY26, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://screenotter.com/#pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: screensage-pro
+  name: ScreenSage Pro
+  vendor: ScreenSage Pro
+  vendor_domain: screensage.pro
+  category: design-media
+  deal_description: Up to 53% off ScreenSage Pro (lifetime license) with code BFS2026L, until Dec 15.
+  discount:
+    type: percent
+    value: 53
+    up_to: true
+  coupon_code: BFS2026L
+  url: https://screensage.pro/bf2026
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: screensnap-pro
+  name: ScreenSnap Pro
+  vendor: ScreenSnap Pro
+  vendor_domain: screensnap.pro
+  category: design-media
+  deal_description: 50% off ScreenSnap Pro (lifetime license) with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://www.screensnap.pro/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: screenverb
+  name: ScreenVerb
+  vendor: ScreenVerb
+  vendor_domain: screenverb.com
+  category: design-media
+  deal_description: 50% off ScreenVerb (lifetime license) with code SVBF2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: SVBF2026
+  url: https://screenverb.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scrollsequence
+  name: Scrollsequence
+  vendor: Scrollsequence
+  vendor_domain: scrollsequence.com
+  category: design-media
+  deal_description: 50% off all plans with code BFCM2026, valid until Dec 31.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://scrollsequence.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: seedeo
+  name: Seedeo
+  vendor: Seedeo
+  vendor_domain: seedeo.ai
+  category: design-media
+  deal_description: 62% off Seedeo for the first year with code bf26_pack99.
+  discount:
+    type: percent
+    value: 62
+    up_to: false
+  coupon_code: bf26_pack99
+  url: https://seedeo.ai/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shotomatic
+  name: Shotomatic
+  vendor: Shotomatic
+  vendor_domain: shotomatic.com
+  category: design-media
+  deal_description: 40% off Shotomatic (lifetime license) with code BF2026.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.shotomatic.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sip
+  name: Sip
+  vendor: Sip
+  vendor_domain: sipapp.io
+  category: design-media
+  deal_description: 50% off Sip, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://sipapp.io/blackfriday/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: smooth-recorder
+  name: Smooth Recorder
+  vendor: Smooth Recorder
+  vendor_domain: smoothrecorder.com
+  category: design-media
+  deal_description: Smooth Recorder for $19 (one-time purchase).
+  discount:
+    type: fixed_price
+    value: 19
+    up_to: false
+  url: https://www.smoothrecorder.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: smoothcapture
+  name: SmoothCapture
+  vendor: SmoothCapture
+  vendor_domain: smoothcapture.app
+  category: design-media
+  deal_description: 50% off SmoothCapture (lifetime license) with code BLACKFRIDAY26, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://www.smoothcapture.app/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: smoothcut
+  name: SmoothCut
+  vendor: SmoothCut
+  vendor_domain: smoothcut.studio
+  category: design-media
+  deal_description: 40% off SmoothCut with code BLACKFRIDAY40, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY40
+  url: https://smoothcut.studio/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: snapdub
+  name: SnapDub
+  vendor: SnapDub
+  vendor_domain: snapdub.ai
+  category: design-media
+  deal_description: 20% off SnapDub with code BLACKFRIDAY20, until Dec 4.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BLACKFRIDAY20
+  url: https://snapdub.ai/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: squash-3
+  name: Squash 3
+  vendor: Squash 3
+  vendor_domain: realmacsoftware.com
+  category: design-media
+  deal_description: 40% off Squash 3.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://realmacsoftware.com/store
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: stoic-player
+  name: Stoic Player
+  vendor: Stoic Player
+  vendor_domain: stoicplayer.com
+  category: design-media
+  deal_description: 40% off Stoic Player.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.stoicplayer.com/blog/mac-app-black-friday-deals-2026
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: super-resolution
+  name: Super Resolution
+  vendor: Super Resolution
+  vendor_domain: superresolution.pro
+  category: design-media
+  deal_description: Bonus credits on Super Resolution plans, until Dec 1.
+  discount:
+    type: credits
+    value: null
+    up_to: false
+  url: https://superresolution.pro/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tagshop-ai
+  name: Tagshop.ai
+  vendor: Tagshop.ai
+  vendor_domain: tagshop.ai
+  category: design-media
+  deal_description: Up to 51% off Tagshop.ai on annual plans.
+  discount:
+    type: percent
+    value: 51
+    up_to: true
+  url: https://tagshop.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: textmock
+  name: Textmock
+  vendor: Textmock
+  vendor_domain: textmock.com
+  category: design-media
+  deal_description: 50% off Textmock for the first year for new customers with code TEXTMOCKBF26, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: TEXTMOCKBF26
+  url: https://textmock.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: the-cross-stitch-pattern-maker
+  name: The Cross Stitch Pattern Maker
+  vendor: The Cross Stitch Pattern Maker
+  vendor_domain: thecrossstitchpatternmaker.com
+  category: design-media
+  deal_description: 32% off The Cross Stitch Pattern Maker (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 32
+    up_to: false
+  url: https://thecrossstitchpatternmaker.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: threedee-nova
+  name: ThreeDee Nova
+  vendor: ThreeDee Nova
+  vendor_domain: threedee.design
+  category: design-media
+  deal_description: 30% off ThreeDee Nova (one-time purchase) with code BLACK30, until Dec 2.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACK30
+  url: https://www.threedee.design/black-friday
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tnc-flipbook
+  name: TNC FlipBook
+  vendor: TNC FlipBook
+  vendor_domain: tncflipbook.com
+  category: design-media
+  deal_description: Up to 50% off every TNC FlipBook plan; ends Dec 5.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://tncflipbook.com/
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: topaz-labs
+  name: Topaz Labs
+  vendor: Topaz Labs
+  vendor_domain: topazlabs.com
+  category: design-media
+  deal_description: Up to 67% off Topaz Labs.
+  discount:
+    type: percent
+    value: 67
+    up_to: true
+  url: https://www.topazlabs.com/sale
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: unraster
+  name: Unraster
+  vendor: Unraster
+  vendor_domain: unraster.ai
+  category: design-media
+  deal_description: 45% off Unraster with code BLACKFRIDAY45, until Dec 1.
+  discount:
+    type: percent
+    value: 45
+    up_to: false
+  coupon_code: BLACKFRIDAY45
+  url: https://unraster.ai/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: veed
+  name: VEED
+  vendor: VEED
+  vendor_domain: veed.io
+  category: design-media
+  deal_description: 30% off an annual plan or your first month on monthly with code BLACKFRIDAY30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY30
+  url: https://veed.io/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: videoupscaler
+  name: VideoUpscaler
+  vendor: VideoUpscaler
+  vendor_domain: videoupscaler.co
+  category: design-media
+  deal_description: Year one at 50% off, applied automatically at checkout.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://videoupscaler.co/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: viralreel
+  name: ViralReel
+  vendor: ViralReel
+  vendor_domain: viralreel.app
+  category: design-media
+  deal_description: Up to 30% off ViralReel (one-time purchase), until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://www.viralreel.app/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wavedance
+  name: Wavedance
+  vendor: Wavedance
+  vendor_domain: wave.dance
+  category: design-media
+  deal_description: 30% off Wavedance with code BLACKFRIDAY30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY30
+  url: https://wave.dance
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: yix
+  name: YIX
+  vendor: YIX
+  vendor_domain: yix.ai
+  category: design-media
+  deal_description: 50% off YIX on monthly plans, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://yix.ai/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

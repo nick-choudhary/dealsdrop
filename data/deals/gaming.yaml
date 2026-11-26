@@ -1,0 +1,427 @@
+# gaming — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: 8bitdo-black-friday
+  name: 8BitDo Black Friday
+  vendor: 8BitDo
+  vendor_domain: 8bitdo.com
+  category: gaming
+  deal_description: Up to 50% off select 8BitDo controllers and accessories.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.8bitdo.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: elgato-black-friday
+  name: Elgato Black Friday
+  vendor: Elgato
+  vendor_domain: elgato.com
+  category: gaming
+  deal_description: Up to 53% off Elgato streaming gear such as Stream Deck +, until Nov 30.
+  discount:
+    type: percent
+    value: 53
+    up_to: true
+  url: https://www.elgato.com/us/en/s/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: epic-games-store-black-friday-sale
+  name: Epic Games Store Black Friday Sale
+  vendor: Epic Games
+  vendor_domain: epicgames.com
+  category: gaming
+  deal_description: 'Store-wide sale Nov 17-Dec 1: EA Sports FC 27 Ultimate $49.99 (50% off), ARC Raiders Deluxe $29.99 (50% off).'
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://store.epicgames.com/en-US/
+  start_date: '2026-11-17'
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fanatical-black-friday
+  name: Fanatical Black Friday
+  vendor: Fanatical
+  vendor_domain: fanatical.com
+  category: gaming
+  deal_description: Black Friday sale on PC game keys and bundles.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.fanatical.com/en/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gamestop-black-friday
+  name: GameStop Black Friday
+  vendor: GameStop
+  vendor_domain: gamestop.com
+  category: gaming
+  deal_description: Black Friday deals on consoles, games and accessories.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.gamestop.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gog-black-friday-sale
+  name: GOG Black Friday sale
+  vendor: GOG
+  vendor_domain: gog.com
+  category: gaming
+  deal_description: Black Friday sale on DRM-free PC games.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.gog.com/en/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: green-man-gaming-black-friday
+  name: Green Man Gaming Black Friday
+  vendor: Green Man Gaming
+  vendor_domain: greenmangaming.com
+  category: gaming
+  deal_description: Black Friday sale on PC game keys.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.greenmangaming.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: humble-bundle-black-friday-sale
+  name: Humble Bundle Black Friday sale
+  vendor: Humble Bundle
+  vendor_domain: humblebundle.com
+  category: gaming
+  deal_description: Black Friday sale on PC games in the Humble Store.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.humblebundle.com/store
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: logitech-g-black-friday
+  name: Logitech G Black Friday
+  vendor: Logitech
+  vendor_domain: logitechg.com
+  category: gaming
+  deal_description: Black Friday discounts on Logitech G racing wheels, mice and headsets, incl. RS50 wheel and pedal bundle.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.logitechg.com/en-us/promotions.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: moza-racing-black-friday
+  name: MOZA Racing Black Friday
+  vendor: MOZA Racing
+  vendor_domain: mozaracing.com
+  category: gaming
+  deal_description: Up to 28% off MOZA sim-racing wheel bases, wheels and pedals in the Black Friday sale.
+  discount:
+    type: percent
+    value: 28
+    up_to: true
+  url: https://mozaracing.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nintendo-20-off-select-games
+  name: Nintendo $20 off select games
+  vendor: Nintendo
+  vendor_domain: nintendo.com
+  category: gaming
+  deal_description: $20 off select Switch 2 and Switch games such as Donkey Kong Bananza, Nov 22-29.
+  discount:
+    type: amount
+    value: 20
+    up_to: false
+  url: https://www.nintendo.com/us/store/showroom/black-friday-cyber-monday/
+  start_date: '2026-11-22'
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nintendo-eshop-sale
+  name: Nintendo eShop sale
+  vendor: Nintendo
+  vendor_domain: nintendo.com
+  category: gaming
+  deal_description: Sale on select digital games in Nintendo eShop and Nintendo Store, Nov 19-Dec 2.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.nintendo.com/us/store/sales-and-deals/
+  start_date: '2026-11-19'
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nintendo-switch-2-mario-kart-world-bundle
+  name: Nintendo Switch 2 + Mario Kart World bundle
+  vendor: Nintendo
+  vendor_domain: nintendo.com
+  category: gaming
+  deal_description: Switch 2 with Mario Kart World and 3 months of Switch Online for $499.99, $50 off, Nov 22-Dec 5.
+  discount:
+    type: amount
+    value: 50
+    up_to: false
+  deal_price: 499.99
+  currency: USD
+  url: https://www.nintendo.com/us/store/showroom/black-friday-cyber-monday/
+  start_date: '2026-11-22'
+  end_date: '2026-12-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: playstation-plus-premium-black-friday
+  name: PlayStation Plus Premium Black Friday
+  vendor: PlayStation
+  vendor_domain: playstation.com
+  category: gaming
+  deal_description: Special Black Friday discount on PlayStation Plus Premium for qualifying users, before Nov 30.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.playstation.com/en-us/ps-plus/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: playstation-store-black-friday
+  name: PlayStation Store Black Friday
+  vendor: PlayStation
+  vendor_domain: playstation.com
+  category: gaming
+  deal_description: Discounts on PS5 games, add-ons, DualSense controllers and Pulse audio until Nov 30.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.playstation.com/en-us/deals/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: razer-cyber-weekend-deals
+  name: Razer Cyber Weekend deals
+  vendor: Razer
+  vendor_domain: razer.com
+  category: gaming
+  deal_description: Up to 50% off Razer gear, e.g. Barracuda $68.99 (was $159.99), BlackShark V2 Pro $92.80; ends Nov 30.
+  discount:
+    type: percent
+    value: 57
+    up_to: true
+  url: https://www.razer.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: secretlab-black-friday
+  name: Secretlab Black Friday
+  vendor: Secretlab
+  vendor_domain: secretlab.co
+  category: gaming
+  deal_description: Up to $149 off select gaming chairs and desks plus free shipping in the Black Friday sale.
+  discount:
+    type: amount
+    value: 149
+    up_to: true
+  currency: USD
+  url: https://secretlab.co/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: steelseries-black-friday
+  name: SteelSeries Black Friday
+  vendor: SteelSeries
+  vendor_domain: steelseries.com
+  category: gaming
+  deal_description: Up to 69% off SteelSeries headsets, mice, keyboards and controllers until Nov 30.
+  discount:
+    type: percent
+    value: 69
+    up_to: true
+  url: https://steelseries.com/deals
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: turtle-beach-black-friday
+  name: Turtle Beach Black Friday
+  vendor: Turtle Beach
+  vendor_domain: turtlebeach.com
+  category: gaming
+  deal_description: Up to 64% off Turtle Beach headsets and controllers, ends Nov 30.
+  discount:
+    type: percent
+    value: 64
+    up_to: true
+  url: https://www.turtlebeach.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ubisoft-store-black-friday
+  name: Ubisoft Store Black Friday
+  vendor: Ubisoft
+  vendor_domain: ubisoft.com
+  category: gaming
+  deal_description: Up to 90% off Ubisoft games on the Ubisoft Store.
+  discount:
+    type: percent
+    value: 90
+    up_to: true
+  url: https://store.ubisoft.com/us/deals
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: xbox-black-friday-sale
+  name: Xbox Black Friday sale
+  vendor: Xbox
+  vendor_domain: xbox.com
+  category: gaming
+  deal_description: Up to 80% off 2,000+ Xbox and PC games plus accessory discounts, Nov 19-Dec 2 (US).
+  discount:
+    type: percent
+    value: 80
+    up_to: true
+  url: https://www.xbox.com/en-US/
+  start_date: '2026-11-19'
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: xbox-design-lab-controllers
+  name: Xbox Design Lab controllers
+  vendor: Xbox
+  vendor_domain: xbox.com
+  category: gaming
+  deal_description: Up to 15% off custom Xbox Design Lab controllers plus free engraving.
+  discount:
+    type: percent
+    value: 15
+    up_to: true
+  url: https://xboxdesignlab.xbox.com/en-US
+  start_date: '2026-11-19'
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

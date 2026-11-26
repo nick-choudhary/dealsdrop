@@ -1,0 +1,137 @@
+# streaming-subscriptions — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: amazon-music-unlimited-three-months-free
+  name: Amazon Music Unlimited three months free
+  vendor: Amazon
+  vendor_domain: amazon.com
+  category: streaming-subscriptions
+  deal_description: Amazon Music Unlimited free for 3 months for customers who have not tried it.
+  discount:
+    type: free_time
+    value: 3
+    up_to: false
+  url: https://www.amazon.com/music/unlimited
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: curiosity-stream-early-black-friday
+  name: Curiosity Stream Early Black Friday
+  vendor: Curiosity Stream
+  vendor_domain: curiositystream.com
+  category: streaming-subscriptions
+  deal_description: 40% off annual plans in the early Black Friday sale.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://curiositystream.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: everand-black-friday
+  name: Everand Black Friday
+  vendor: Everand
+  vendor_domain: everand.com
+  category: streaming-subscriptions
+  deal_description: One month free, then 50% off the next three months of Plus or Deluxe with code COZY50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: COZY50
+  url: https://www.everand.com/
+  end_date: '2026-12-11'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: frndly-tv-black-friday
+  name: Frndly TV Black Friday
+  vendor: Frndly TV
+  vendor_domain: frndlytv.com
+  category: streaming-subscriptions
+  deal_description: Frndly TV for $1/month for three months or $99 for one year.
+  discount:
+    type: fixed_price
+    value: 1
+    up_to: false
+  url: https://try.frndlytv.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hbo-max-basic-with-ads
+  name: HBO Max Basic with Ads
+  vendor: HBO Max
+  vendor_domain: hbomax.com
+  category: streaming-subscriptions
+  deal_description: Basic with Ads for $5.49/month for 12 months, half the usual $10.99.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  regular_price: 10.99
+  deal_price: 5.49
+  currency: USD
+  url: https://www.hbomax.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: prime-video-channels-black-friday
+  name: Prime Video Channels Black Friday
+  vendor: Amazon
+  vendor_domain: amazon.com
+  category: streaming-subscriptions
+  deal_description: Add-on channels via Prime Video from $0.99-$5.49/month for two months, incl. Apple TV $6.99/month for six months.
+  discount:
+    type: fixed_price
+    value: 0.99
+    up_to: true
+  url: https://www.amazon.com/gp/video/storefront/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: roku-black-friday-subscription-deals
+  name: Roku Black Friday subscription deals
+  vendor: Roku
+  vendor_domain: roku.com
+  category: streaming-subscriptions
+  deal_description: Up to 90% off 40+ streaming subscriptions through Roku, from $0.99 a month, including Paramount+ at $2.99 a month for two months, until Nov 30.
+  discount:
+    type: percent
+    value: 90
+    up_to: true
+  url: https://www.roku.com/blog/black-friday-2026
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

@@ -1,0 +1,23 @@
+name: Expire stale deals
+on:
+  schedule: [{ cron: '30 0 * * *' }]   # daily 00:30 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: node scripts/expire.mjs && node scripts/build-readme.mjs
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/expire-deals
+          title: 'chore: mark expired deals'
+          commit-message: 'chore: mark expired deals and rebuild README'
+          body: 'Automated: deals whose `end_date` has passed are set to `status: expired` and hidden from the README.'
+          labels: expired

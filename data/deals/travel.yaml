@@ -1,0 +1,672 @@
+# travel — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: air-india-black-friday-sale
+  name: Air India Black Friday Sale
+  vendor: Air India
+  vendor_domain: airindia.com
+  category: travel
+  deal_description: Up to Rs 40,000 off base fares on international routes (First up to Rs 60,000); Maharaja Club points bookings included.
+  discount:
+    type: amount
+    value: 60000
+    up_to: true
+  url: https://www.airindia.com/in/en/book/exclusive-deals/black-friday-sale-offer.html
+  end_date: '2026-11-26'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: airalo-unlimited-esims
+  name: Airalo unlimited eSIMs
+  vendor: Airalo
+  vendor_domain: airalo.com
+  category: travel
+  deal_description: 25% off all Unlimited eSIM data packages with code BLACK25 through Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACK25
+  url: https://www.airalo.com/m/esim/unlimited-packages/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: autocamp-black-friday
+  name: AutoCamp Black Friday
+  vendor: AutoCamp
+  vendor_domain: autocamp.com
+  category: travel
+  deal_description: Up to 40% off AutoCamp glamping stays with code NATURE through Dec 2, for stays through Dec 2027.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  coupon_code: NATURE
+  url: https://autocamp.com/black-friday
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: away-luggage-black-friday
+  name: Away luggage Black Friday
+  vendor: Away
+  vendor_domain: awaytravel.com
+  category: travel
+  deal_description: 25% off everything through Dec 1, e.g. Bigger Carry-On $221 (was $295).
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://www.awaytravel.com/sale
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: booking-com-black-friday
+  name: Booking.com Black Friday
+  vendor: Booking.com
+  vendor_domain: booking.com
+  category: travel
+  deal_description: Black Friday stays from 30% off, up to 50% off select properties, through Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.booking.com/dealspage.html
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cleartrip-black-friday-axis-bank
+  name: Cleartrip Black Friday Axis Bank
+  vendor: Cleartrip
+  vendor_domain: cleartrip.com
+  category: travel
+  deal_description: Up to 25% off domestic and 20% off international flights with Axis Bank credit cards (BFSAXISCC) or EMI (AXISEMI).
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  coupon_code: BFSAXISCC
+  url: https://www.cleartrip.com/all-offers/flights-blackfriday-sale-axis/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cleartrip-black-friday-flight-sale
+  name: Cleartrip Black Friday flight sale
+  vendor: Cleartrip
+  vendor_domain: cleartrip.com
+  category: travel
+  deal_description: Up to 20% off domestic flights and up to 12% off international flights with code CTBFSALE.
+  discount:
+    type: percent
+    value: 20
+    up_to: true
+  coupon_code: CTBFSALE
+  url: https://www.cleartrip.com/offers/india/black-friday-sale
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cleartrip-black-friday-icici-bank
+  name: Cleartrip Black Friday ICICI Bank
+  vendor: Cleartrip
+  vendor_domain: cleartrip.com
+  category: travel
+  deal_description: Up to 25% off domestic and 20% off international flights with ICICI Bank cards (BFSICICICC) or EMI (ICICIEMI).
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  coupon_code: BFSICICICC
+  url: https://www.cleartrip.com/all-offers/flights-blackfriday-sale-icici/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: exodus-black-friday
+  name: Exodus Black Friday
+  vendor: Exodus Adventure Travels
+  vendor_domain: exodustravels.com
+  category: travel
+  deal_description: Up to 20% off select 2027 small-group adventures through Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: true
+  url: https://www.exodustravels.com/us
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fairmont-black-friday
+  name: Fairmont Black Friday
+  vendor: Fairmont
+  vendor_domain: fairmont.com
+  category: travel
+  deal_description: 30% off participating Fairmont stays booked Nov 25-Dec 1, for travel through May 31, 2027.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.fairmont.com/offers/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: g-adventures-black-friday
+  name: G Adventures Black Friday
+  vendor: G Adventures
+  vendor_domain: gadventures.com
+  category: travel
+  deal_description: Up to 30% off select 2027 small-group tours.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://www.gadventures.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hilton-honors-member-sale
+  name: Hilton Honors member sale
+  vendor: Hilton
+  vendor_domain: hilton.com
+  category: travel
+  deal_description: Up to 20-25% off stays for Hilton Honors members; book by Dec 22 with 7-day advance purchase.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  url: https://www.hilton.com/en/offers/the-hilton-sale-honors-exclusive-2000001733/
+  end_date: '2026-12-22'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hurtigruten-black-friday
+  name: Hurtigruten Black Friday
+  vendor: Hurtigruten
+  vendor_domain: hurtigruten.com
+  category: travel
+  deal_description: Up to 50% off select Norwegian coastal sailings Dec 2026-Apr 2027; book by Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.hurtigruten.com/en-us/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: intrepid-travel-black-friday
+  name: Intrepid Travel Black Friday
+  vendor: Intrepid Travel
+  vendor_domain: intrepidtravel.com
+  category: travel
+  deal_description: Up to 20% off hundreds of 2027 small-group trips through Dec 4.
+  discount:
+    type: percent
+    value: 20
+    up_to: true
+  url: https://www.intrepidtravel.com/us
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: july-luggage-black-friday
+  name: July luggage Black Friday
+  vendor: July
+  vendor_domain: july.com
+  category: travel
+  deal_description: 20% off sitewide through Nov 29.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://july.com/
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mokobara-black-friday-sale
+  name: Mokobara Black Friday Sale
+  vendor: Mokobara
+  vendor_domain: mokobara.com
+  category: travel
+  deal_description: Up to 60% off suitcases, backpacks and travel bags in the Black Friday sale.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://mokobara.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: monos-black-friday
+  name: Monos Black Friday
+  vendor: Monos
+  vendor_domain: monos.com
+  category: travel
+  deal_description: Up to 25% off sitewide with code EARLYBF.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  coupon_code: EARLYBF
+  url: https://monos.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: msc-cruises-black-friday
+  name: MSC Cruises Black Friday
+  vendor: MSC Cruises
+  vendor_domain: msccruises.com
+  category: travel
+  deal_description: Up to 40% off sailings worldwide plus up to $1,000 onboard credit; through Nov 27.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.msccruisesusa.com/deals/black-friday-cruise-deals
+  end_date: '2026-11-27'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: norwegian-cruise-line-black-friday
+  name: Norwegian Cruise Line Black Friday
+  vendor: Norwegian Cruise Line
+  vendor_domain: ncl.com
+  category: travel
+  deal_description: 50% off all cruises plus Free at Sea perks, with bonus offers during the sale.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.ncl.com/cruise-deals
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: oceania-cruises-black-friday
+  name: Oceania Cruises Black Friday
+  vendor: Oceania Cruises
+  vendor_domain: oceaniacruises.com
+  category: travel
+  deal_description: Up to 50% off 200+ voyages departing in 2027; book Nov 18-Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.oceaniacruises.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: outbound-hotels-black-friday
+  name: Outbound Hotels Black Friday
+  vendor: Outbound Hotels
+  vendor_domain: outboundhotels.com
+  category: travel
+  deal_description: Up to 40% off Outbound hotels in outdoor destinations for 2027 stays.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://outboundhotels.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: outrigger-cyber-sale
+  name: Outrigger Cyber Sale
+  vendor: Outrigger
+  vendor_domain: outrigger.com
+  category: travel
+  deal_description: Up to 45% off Outrigger resorts in Hawaii, Fiji, Maldives, Mauritius and Thailand with code CYBER26 before Dec 8.
+  discount:
+    type: percent
+    value: 45
+    up_to: true
+  coupon_code: CYBER26
+  url: https://www.outrigger.com/
+  end_date: '2026-12-08'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: peak-design-black-friday
+  name: Peak Design Black Friday
+  vendor: Peak Design
+  vendor_domain: peakdesign.com
+  category: travel
+  deal_description: Up to 40% off luggage, backpacks and camera gear through Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.peakdesign.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: quark-expeditions-black-friday
+  name: Quark Expeditions Black Friday
+  vendor: Quark Expeditions
+  vendor_domain: quarkexpeditions.com
+  category: travel
+  deal_description: Up to 40% off select Arctic and Antarctic expeditions booked by Dec 3.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.quarkexpeditions.com/black-friday
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: regent-seven-seas-black-friday
+  name: Regent Seven Seas Black Friday
+  vendor: Regent Seven Seas
+  vendor_domain: rssc.com
+  category: travel
+  deal_description: Up to 40% off 90+ voyages plus up to $500 shipboard credit; book by Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.rssc.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: royal-caribbean-black-friday
+  name: Royal Caribbean Black Friday
+  vendor: Royal Caribbean
+  vendor_domain: royalcaribbean.com
+  category: travel
+  deal_description: Up to $900 off, up to $100 onboard credit, and 3rd and 4th guests sail free.
+  discount:
+    type: amount
+    value: 900
+    up_to: true
+  url: https://www.royalcaribbean.com/cruise-deals/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: silversea-black-friday
+  name: Silversea Black Friday
+  vendor: Silversea
+  vendor_domain: silversea.com
+  category: travel
+  deal_description: Up to 45% off 850+ voyages through 2029; book by Dec 7.
+  discount:
+    type: percent
+    value: 45
+    up_to: true
+  url: https://www.silversea.com/
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: taj-hotels-cyber-monday-offer
+  name: Taj Hotels Cyber Monday offer
+  vendor: IHCL
+  vendor_domain: tajhotels.com
+  category: travel
+  deal_description: 20% off breakfast-inclusive stays plus 20% off dining, spa and salon; book by Dec 4 for stays through Mar 31, 2027.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www.tajhotels.com/en-in/offers/cyber-monday
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: thule-black-friday
+  name: Thule Black Friday
+  vendor: Thule
+  vendor_domain: thule.com
+  category: travel
+  deal_description: 25% off Thule travel backpacks, suitcases and accessories through Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://www.thule.com/en-us
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tripsy-pro
+  name: Tripsy Pro
+  vendor: Tripsy Pro
+  vendor_domain: tripsy.app
+  category: travel
+  deal_description: 50% off Tripsy Pro lifetime license.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://tripsy.app/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: trtl-black-friday
+  name: Trtl Black Friday
+  vendor: Trtl
+  vendor_domain: trtltravel.com
+  category: travel
+  deal_description: Up to 70% off travel pillows and accessories through Dec 1.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://trtltravel.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: uniworld-black-friday
+  name: Uniworld Black Friday
+  vendor: Uniworld
+  vendor_domain: uniworld.com
+  category: travel
+  deal_description: 50% off the second guest on select 2027 river cruises.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.uniworld.com/us/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: virgin-hotels-black-friday
+  name: Virgin Hotels Black Friday
+  vendor: Virgin Hotels
+  vendor_domain: virginhotels.com
+  category: travel
+  deal_description: 35% off stays of two nights or more at participating Virgin Hotels.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  url: https://virginhotels.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: virgin-voyages-black-friday
+  name: Virgin Voyages Black Friday
+  vendor: Virgin Voyages
+  vendor_domain: virginvoyages.com
+  category: travel
+  deal_description: Up to 80% off for the second sailor plus up to $600 bar credit; book by Dec 3.
+  discount:
+    type: percent
+    value: 80
+    up_to: true
+  url: https://www.virginvoyages.com/deals
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: yotel-black-friday
+  name: Yotel Black Friday
+  vendor: Yotel
+  vendor_domain: yotel.com
+  category: travel
+  deal_description: 20% off stays at select Yotel properties worldwide.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www.yotel.com/sale
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

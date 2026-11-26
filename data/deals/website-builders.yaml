@@ -1,0 +1,603 @@
+# website-builders — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: bolts
+  name: Bolts
+  vendor: Bolts
+  vendor_domain: builditomi.com
+  category: website-builders
+  deal_description: 50% off your first year (or first month on monthly) until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://bolts.builditomi.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: codedvisuals
+  name: CodedVisuals
+  vendor: CodedVisuals
+  vendor_domain: codedvisuals.com
+  category: website-builders
+  deal_description: Up to 40% off CodedVisuals.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://codedvisuals.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: codexpert-and-easycommerce
+  name: Codexpert and EasyCommerce
+  vendor: Codexpert and EasyCommerce
+  vendor_domain: codexpert.io
+  category: website-builders
+  deal_description: Up to 70% off Codexpert and EasyCommerce on annual plans.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://codexpert.io/coupon/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dirstarter
+  name: Dirstarter
+  vendor: Dirstarter
+  vendor_domain: dirstarter.com
+  category: website-builders
+  deal_description: 50% off Dirstarter (lifetime license) with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://dirstarter.com/?discountCode=BF2026
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: elementor
+  name: Elementor
+  vendor: Elementor
+  vendor_domain: elementor.com
+  category: website-builders
+  deal_description: Up to 40% off Elementor, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://elementor.com/pricing/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gutslider-pro
+  name: GutSlider Pro
+  vendor: GutSlider Pro
+  vendor_domain: gutslider.com
+  category: website-builders
+  deal_description: Up to 40% off GutSlider Pro (lifetime license).
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://gutslider.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: miguel-recio-framer-templates
+  name: Miguel Recio Framer Templates
+  vendor: Miguel Recio Framer Templates
+  vendor_domain: framer.com
+  category: website-builders
+  deal_description: 30% off Miguel Recio Framer Templates with code BF26, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF26
+  url: https://www.framer.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mksaas
+  name: MkSaaS
+  vendor: MkSaaS
+  vendor_domain: mksaas.com
+  category: website-builders
+  deal_description: 50% off MkSaaS (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://mksaas.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nateui
+  name: NateUI
+  vendor: NateUI
+  vendor_domain: nateui.com
+  category: website-builders
+  deal_description: 30% off NateUI (one-time purchase) with code BF30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF30
+  url: https://nateui.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: own-page
+  name: own.page
+  vendor: own.page
+  vendor_domain: own.page
+  category: website-builders
+  deal_description: Up to 40% off own.page on annual plans.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://own.page/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: plugin-wizards
+  name: Plugin Wizards
+  vendor: Plugin Wizards
+  vendor_domain: pluginwizards.com
+  category: website-builders
+  deal_description: 40% off Plugin Wizards with code WIZARDS40.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: WIZARDS40
+  url: https://pluginwizards.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: saasykit
+  name: SaaSykit
+  vendor: SaaSykit
+  vendor_domain: saasykit.com
+  category: website-builders
+  deal_description: 50% off SaaSykit with code BLACKFRIDAY26, until Dec 6.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://saasykit.com/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shadcnspace
+  name: ShadcnSpace
+  vendor: ShadcnSpace
+  vendor_domain: shadcnspace.com
+  category: website-builders
+  deal_description: 40% off ShadcnSpace with code BFCM, until Dec 3.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BFCM
+  url: https://shadcnspace.com
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shadcnstore
+  name: ShadcnStore
+  vendor: ShadcnStore
+  vendor_domain: shadcnstore.com
+  category: website-builders
+  deal_description: 40% off ShadcnStore, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://shadcnstore.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shashank-thigale-framer-templates
+  name: Shashank Thigale Framer Templates
+  vendor: Shashank Thigale Framer Templates
+  vendor_domain: shashankthigale.com
+  category: website-builders
+  deal_description: 30% off Shashank Thigale Framer Templates with code BFCM30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BFCM30
+  url: https://shashankthigale.com/templates/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shipahead
+  name: ShipAhead
+  vendor: ShipAhead
+  vendor_domain: shipahe.ad
+  category: website-builders
+  deal_description: 50% off ShipAhead.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://shipahe.ad/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sitely
+  name: Sitely
+  vendor: Sitely
+  vendor_domain: sitely.app
+  category: website-builders
+  deal_description: 60% off Sitely.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://sitely.app/blog/black-friday-2026.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: siter-io
+  name: Siter.io
+  vendor: Siter.io
+  vendor_domain: siter.io
+  category: website-builders
+  deal_description: 40% off Siter.io on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://siter.io/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: slides-by-designmodo
+  name: Slides by Designmodo
+  vendor: Slides by Designmodo
+  vendor_domain: designmodo.com
+  category: website-builders
+  deal_description: Up to 40% off Slides by Designmodo on annual plans with code BLACK.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  coupon_code: BLACK
+  url: https://designmodo.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: soarstarter
+  name: SoarStarter
+  vendor: SoarStarter
+  vendor_domain: soarstarter.com
+  category: website-builders
+  deal_description: 20% off SoarStarter with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BF2026
+  url: https://soarstarter.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sportyblocks
+  name: SportyBlocks
+  vendor: SportyBlocks
+  vendor_domain: sportyblocks.com
+  category: website-builders
+  deal_description: 40% off SportyBlocks with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://sportyblocks.com/?discount=BLACKFRIDAY
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: systeme-io
+  name: Systeme.io
+  vendor: Systeme.io
+  vendor_domain: systeme.io
+  category: website-builders
+  deal_description: 40% off Systeme.io on annual plans.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://blackfriday.systeme.io/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tailgrids
+  name: TailGrids
+  vendor: TailGrids
+  vendor_domain: tailgrids.com
+  category: website-builders
+  deal_description: 50% off TailGrids with code BLFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLFCM2026
+  url: https://tailgrids.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tanstarter
+  name: TanStarter
+  vendor: TanStarter
+  vendor_domain: tanstarter.dev
+  category: website-builders
+  deal_description: 50% off TanStarter (lifetime license) with code 2026-BLACKFRIDAY.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: 2026-BLACKFRIDAY
+  url: https://tanstarter.dev/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: thrive-themes
+  name: Thrive Themes
+  vendor: Thrive Themes
+  vendor_domain: thrivethemes.com
+  category: website-builders
+  deal_description: Up to 60% off Thrive Themes, until Dec 1.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://thrivethemes.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: thunkable
+  name: Thunkable
+  vendor: Thunkable
+  vendor_domain: thunkable.com
+  category: website-builders
+  deal_description: 50% off Thunkable on monthly plans.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://thunkable.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tinycommand
+  name: TinyCommand
+  vendor: TinyCommand
+  vendor_domain: tinycommand.com
+  category: website-builders
+  deal_description: Free extra time on TinyCommand.
+  discount:
+    type: free_time
+    value: null
+    up_to: false
+  url: https://tinycommand.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wordify
+  name: Wordify
+  vendor: Wordify
+  vendor_domain: wordify.com
+  category: website-builders
+  deal_description: 50% off Wordify with code BF50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF50
+  url: https://wordify.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wp-rocket
+  name: WP Rocket
+  vendor: WP Rocket
+  vendor_domain: wp-rocket.me
+  category: website-builders
+  deal_description: Up to 60% off WP Rocket with code black-friday, until Nov 28.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  coupon_code: black-friday
+  url: https://wp-rocket.me/black-friday-2026/
+  end_date: '2026-11-28'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wp-user-frontend-pro
+  name: WP User Frontend Pro
+  vendor: WP User Frontend Pro
+  vendor_domain: wedevs.com
+  category: website-builders
+  deal_description: Up to 50% off WP User Frontend Pro (lifetime license).
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://wedevs.com/wp-user-frontend-pro/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zipwp
+  name: ZipWP
+  vendor: ZipWP
+  vendor_domain: zipwp.com
+  category: website-builders
+  deal_description: Up to 47% off ZipWP, until Dec 7.
+  discount:
+    type: percent
+    value: 47
+    up_to: true
+  url: https://zipwp.com/black-friday/
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

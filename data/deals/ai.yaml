@@ -1,0 +1,1558 @@
+# ai — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: abcontents
+  name: ABContents
+  vendor: ABContents
+  vendor_domain: abcontents.com
+  category: ai
+  deal_description: 30% off ABContents with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://abcontents.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ai-fiesta
+  name: AI Fiesta
+  vendor: AI Fiesta
+  vendor_domain: aifiesta.ai
+  category: ai
+  deal_description: Black Friday pricing on AI Fiesta.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://aifiesta.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ai-toolbox
+  name: AI Toolbox
+  vendor: AI Toolbox
+  vendor_domain: ai-toolbox.co
+  category: ai
+  deal_description: 50% off AI Toolbox (lifetime license) with code BLACKFRIDAY, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://www.ai-toolbox.co/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ai4meme
+  name: AI4MEME
+  vendor: AI4MEME
+  vendor_domain: ai4meme.com
+  category: ai
+  deal_description: 33% off AI4MEME on annual plans, until Dec 2.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  url: https://ai4meme.com/black-friday
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aikeedo
+  name: Aikeedo
+  vendor: Aikeedo
+  vendor_domain: aikeedo.com
+  category: ai
+  deal_description: 50% off Aikeedo for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://aikeedo.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: apiko
+  name: Apiko
+  vendor: Apiko
+  vendor_domain: apiko.app
+  category: ai
+  deal_description: Bonus credits on Apiko plans, until Nov 28.
+  discount:
+    type: credits
+    value: 10
+    up_to: false
+  url: https://apiko.app/
+  end_date: '2026-11-28'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aymo-ai
+  name: Aymo AI
+  vendor: Aymo AI
+  vendor_domain: aymo.ai
+  category: ai
+  deal_description: 30% off Aymo AI with code BLFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLFCM2026
+  url: https://aymo.ai/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bibigpt
+  name: BibiGPT
+  vendor: BibiGPT
+  vendor_domain: bibigpt.co
+  category: ai
+  deal_description: 50% off BibiGPT with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://bibigpt.co/en/shop
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: blip-ai-pro
+  name: Blip AI Pro
+  vendor: Blip AI Pro
+  vendor_domain: blipai.app
+  category: ai
+  deal_description: 50% off Blip AI Pro for the first year.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.blipai.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: boltai
+  name: BoltAI
+  vendor: BoltAI
+  vendor_domain: boltai.com
+  category: ai
+  deal_description: 64% off BoltAI (lifetime license) with code BFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 64
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://boltai.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chartscout
+  name: ChartScout
+  vendor: ChartScout
+  vendor_domain: chartscout.io
+  category: ai
+  deal_description: 40% off ChartScout on monthly plans with code BLACKFRIDAY2026, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://chartscout.io/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chatimg
+  name: ChatImg
+  vendor: ChatImg
+  vendor_domain: chatimg.ai
+  category: ai
+  deal_description: 50% off ChatImg, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://chatimg.ai/en/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clarpex-ai
+  name: Clarpex AI
+  vendor: Clarpex AI
+  vendor_domain: clarpex.ai
+  category: ai
+  deal_description: 50% off Clarpex AI for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://clarpex.ai/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: claudekit
+  name: ClaudeKit
+  vendor: ClaudeKit
+  vendor_domain: claudekit.app
+  category: ai
+  deal_description: ClaudeKit for $20 for the first year, until Dec 2.
+  discount:
+    type: fixed_price
+    value: 20
+    up_to: false
+  url: https://claudekit.app/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clipugc
+  name: ClipUGC
+  vendor: ClipUGC
+  vendor_domain: clipugc.com
+  category: ai
+  deal_description: 50% off ClipUGC for the first 2 months with code BLACKFRIDAY, until Dec 6.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://clipugc.com/black-friday
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: conceptviz
+  name: ConceptViz
+  vendor: ConceptViz
+  vendor_domain: conceptviz.app
+  category: ai
+  deal_description: 30% off ConceptViz (lifetime license) with code BF30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF30
+  url: https://conceptviz.app/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: creatune
+  name: Creatune
+  vendor: Creatune
+  vendor_domain: creatune.ai
+  category: ai
+  deal_description: 30% off Creatune for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://creatune.ai/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: diagramly
+  name: Diagramly
+  vendor: Diagramly
+  vendor_domain: diagramly.ai
+  category: ai
+  deal_description: 70% off Diagramly for the first year with code BLACKFRIDAY26, until Nov 30.
+  discount:
+    type: percent
+    value: 70
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://diagramly.ai/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dramaso
+  name: DramaSo
+  vendor: DramaSo
+  vendor_domain: drama.so
+  category: ai
+  deal_description: 50% off DramaSo for the first year with code DRAMABF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: DRAMABF2026
+  url: https://drama.so/en/pricing?billing=yearly
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: duotyping
+  name: DuoTyping
+  vendor: DuoTyping
+  vendor_domain: duotyping.com
+  category: ai
+  deal_description: 50% off DuoTyping with code BFCM2026, until Dec 13.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://duotyping.com/pricing
+  end_date: '2026-12-13'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: effect-video
+  name: Effect Video
+  vendor: Effect Video
+  vendor_domain: effect.video
+  category: ai
+  deal_description: 50% off Effect Video on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://effect.video/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: enconvo
+  name: Enconvo
+  vendor: Enconvo
+  vendor_domain: enconvo.com
+  category: ai
+  deal_description: 30% off Enconvo (lifetime license), until Dec 7.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://enconvo.com/pricing
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ezy-studio
+  name: Ezy Studio
+  vendor: Ezy Studio
+  vendor_domain: ezystudio.com
+  category: ai
+  deal_description: 10% off Ezy Studio (lifetime license) with code BFCM26.
+  discount:
+    type: percent
+    value: 10
+    up_to: false
+  coupon_code: BFCM26
+  url: https://ezystudio.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fluent-2
+  name: Fluent 2
+  vendor: Fluent 2
+  vendor_domain: fluentmac.app
+  category: ai
+  deal_description: 25% off Fluent 2 (lifetime license) with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BF2026
+  url: https://fluentmac.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gojiberry-ai
+  name: Gojiberry.ai
+  vendor: Gojiberry.ai
+  vendor_domain: gojiberry.ai
+  category: ai
+  deal_description: 40% off Gojiberry.ai for the first year, until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://salesteam.gojiberry.ai/blackfriday/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gostudio-ai
+  name: GoStudio.ai
+  vendor: GoStudio.ai
+  vendor_domain: gostudio.ai
+  category: ai
+  deal_description: Up to 30% off GoStudio.ai on annual plans with code BLACKFRIDAY30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  coupon_code: BLACKFRIDAY30
+  url: https://www.gostudio.ai/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: grammarly-pro
+  name: Grammarly Pro
+  vendor: Grammarly
+  vendor_domain: grammarly.com
+  category: ai
+  deal_description: 50% off Grammarly Pro.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.grammarly.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hiapi
+  name: HiAPI
+  vendor: HiAPI
+  vendor_domain: hiapi.ai
+  category: ai
+  deal_description: Up to 10% off HiAPI, until Dec 1.
+  discount:
+    type: percent
+    value: 10
+    up_to: true
+  url: https://hiapi.ai/en/promotions/black-friday-2026
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: higgsfield
+  name: Higgsfield
+  vendor: Higgsfield
+  vendor_domain: higgsfield.ai
+  category: ai
+  deal_description: Black Friday pricing on Higgsfield, until Nov 26.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://higgsfield.ai/pricing
+  end_date: '2026-11-26'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: inplacetext
+  name: InPlaceText
+  vendor: InPlaceText
+  vendor_domain: inplacetext.com
+  category: ai
+  deal_description: 50% off InPlaceText (one-time purchase), until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://inplacetext.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: invideo
+  name: invideo
+  vendor: invideo
+  vendor_domain: invideo.io
+  category: ai
+  deal_description: Up to 75% off invideo.
+  discount:
+    type: percent
+    value: 75
+    up_to: true
+  url: https://invideo.io/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kollab
+  name: Kollab
+  vendor: Kollab
+  vendor_domain: kollab.im
+  category: ai
+  deal_description: 15% off Kollab on annual plans, until Nov 30.
+  discount:
+    type: percent
+    value: 15
+    up_to: false
+  url: https://kollab.im/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: krisp
+  name: Krisp
+  vendor: Krisp
+  vendor_domain: krisp.ai
+  category: ai
+  deal_description: 55% off Krisp on annual plans with code KRISPBF2026.
+  discount:
+    type: percent
+    value: 55
+    up_to: false
+  coupon_code: KRISPBF2026
+  url: https://krisp.ai/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: leelo
+  name: Leelo
+  vendor: Leelo
+  vendor_domain: leelo-ai.com
+  category: ai
+  deal_description: 50% off Leelo (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://leelo-ai.com/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: let-s-trip
+  name: Let's Trip
+  vendor: Let's Trip
+  vendor_domain: letstrip.ai
+  category: ai
+  deal_description: 50% off Let's Trip on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://letstrip.ai/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: llm-radar
+  name: LLM Radar
+  vendor: LLM Radar
+  vendor_domain: vercel.app
+  category: ai
+  deal_description: 40% off LLM Radar (one-time purchase) with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://llm-radar-eta.vercel.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: magic-automa-ai
+  name: Magic Automa AI
+  vendor: Magic Automa AI
+  vendor_domain: magicautoma.com
+  category: ai
+  deal_description: 40% off Magic Automa AI with code BLACKFRIDAY2026, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://www.magicautoma.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: makeitsay
+  name: MakeItSay
+  vendor: MakeItSay
+  vendor_domain: makeitsay.com
+  category: ai
+  deal_description: 30% off MakeItSay with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://makeitsay.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: makemidas
+  name: MakeMidas
+  vendor: MakeMidas
+  vendor_domain: makemidas.com
+  category: ai
+  deal_description: Up to 25% off MakeMidas (one-time purchase), until Dec 1.
+  discount:
+    type: percent
+    value: 25
+    up_to: true
+  url: https://makemidas.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: memecub
+  name: memecub
+  vendor: memecub
+  vendor_domain: memecub.com
+  category: ai
+  deal_description: 50% off memecub for the first year, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://memecub.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mindpal
+  name: MindPal
+  vendor: MindPal
+  vendor_domain: mindpal.io
+  category: ai
+  deal_description: 60% off MindPal for the first year with code BLACKFRIDAY2026, until Dec 11.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://mindpal.io/pricing
+  end_date: '2026-12-11'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: molens-ai
+  name: Molens AI
+  vendor: Molens AI
+  vendor_domain: molensai.com
+  category: ai
+  deal_description: 50% off Molens AI for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://molensai.com/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: narration-box
+  name: Narration Box
+  vendor: Narration Box
+  vendor_domain: narrationbox.com
+  category: ai
+  deal_description: 55% off Narration Box for the first year, until Dec 2.
+  discount:
+    type: percent
+    value: 55
+    up_to: false
+  url: https://narrationbox.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: narva
+  name: Narva
+  vendor: Narva
+  vendor_domain: narva.app
+  category: ai
+  deal_description: 30% off Narva with code NARVA30, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: NARVA30
+  url: https://narva.app/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: notebooklm-tools
+  name: NotebookLM Tools
+  vendor: NotebookLM Tools
+  vendor_domain: nlmtools.com
+  category: ai
+  deal_description: 30% off NotebookLM Tools with code BLACKFRIDAY2026, until Dec 2.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://www.nlmtools.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: orchard
+  name: Orchard
+  vendor: Orchard
+  vendor_domain: 5km.tech
+  category: ai
+  deal_description: 33% off Orchard (lifetime license) with code BF2026, until Dec 6.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  coupon_code: BF2026
+  url: https://orchard.5km.tech/black-friday
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pdf-pals
+  name: PDF Pals
+  vendor: PDF Pals
+  vendor_domain: pdfpals.com
+  category: ai
+  deal_description: 20% off PDF Pals (lifetime license) with code BF20.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BF20
+  url: https://pdfpals.com/buy
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pictory
+  name: Pictory
+  vendor: Pictory
+  vendor_domain: pictory.ai
+  category: ai
+  deal_description: Black Friday pricing on Pictory on annual plans with code BLACKFRIDAY2026.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://pictory.ai/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: promptclaw
+  name: PromptClaw
+  vendor: PromptClaw
+  vendor_domain: vifly.net
+  category: ai
+  deal_description: 50% off PromptClaw (lifetime license).
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://vifly.net/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: promptclaw-2
+  name: PromptClaw
+  vendor: PromptClaw
+  vendor_domain: promptclaw.fyi
+  category: ai
+  deal_description: 50% off PromptClaw, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://promptclaw.fyi/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: prowritingaid
+  name: ProWritingAid
+  vendor: ProWritingAid
+  vendor_domain: prowritingaid.com
+  category: ai
+  deal_description: 50% off ProWritingAid (lifetime license), until Nov 29.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://prowritingaid.com/pricing
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: quso-ai
+  name: quso.ai
+  vendor: quso.ai
+  vendor_domain: quso.ai
+  category: ai
+  deal_description: 50% off quso.ai on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://quso.ai/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: radiantly
+  name: Radiantly
+  vendor: Radiantly
+  vendor_domain: radiantly.space
+  category: ai
+  deal_description: 60% off Radiantly on annual plans for new customers with code BF60, until Dec 15.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  coupon_code: BF60
+  url: https://radiantly.space/pricing
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: read-my-dream
+  name: Read My Dream
+  vendor: Read My Dream
+  vendor_domain: readmydream.com
+  category: ai
+  deal_description: 10% off Read My Dream for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 10
+    up_to: false
+  url: https://readmydream.com/plus
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: refine
+  name: Refine
+  vendor: Refine
+  vendor_domain: refine.sh
+  category: ai
+  deal_description: 35% off Refine (one-time purchase).
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  url: https://refine.sh/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: relaybrook-n8n-workflow-packs
+  name: Relaybrook n8n Workflow Packs
+  vendor: Relaybrook n8n Workflow Packs
+  vendor_domain: bytesell.app
+  category: ai
+  deal_description: 40% off Relaybrook n8n Workflow Packs with code BLACKFRIDAY40, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY40
+  url: https://relaybrook.bytesell.app
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rewritebar
+  name: RewriteBar
+  vendor: RewriteBar
+  vendor_domain: rewritebar.com
+  category: ai
+  deal_description: 50% off RewriteBar with code BF2026, until Dec 3.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://rewritebar.com/
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: right-suite
+  name: Right Suite
+  vendor: Right Suite
+  vendor_domain: rightsuite.co
+  category: ai
+  deal_description: Black Friday pricing on Right Suite with code BLACKFRIDAY, until Dec 31.
+  discount:
+    type: other
+    value: null
+  coupon_code: BLACKFRIDAY
+  url: https://rightsuite.co/
+  end_date: '2026-12-31'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rocketscribe
+  name: RocketScribe
+  vendor: RocketScribe
+  vendor_domain: rocketscribe.ai
+  category: ai
+  deal_description: RocketScribe for $69 (lifetime license).
+  discount:
+    type: fixed_price
+    value: 69
+    up_to: false
+  url: https://rocketscribe.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scalenut
+  name: Scalenut
+  vendor: Scalenut
+  vendor_domain: scalenut.com
+  category: ai
+  deal_description: 60% off Scalenut on annual plans.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://scalenut.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scifig
+  name: SciFig
+  vendor: SciFig
+  vendor_domain: scifig.ai
+  category: ai
+  deal_description: 20% off SciFig for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://scifig.ai/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scribetoany
+  name: ScribeToAny
+  vendor: ScribeToAny
+  vendor_domain: scribetoany.com
+  category: ai
+  deal_description: 30% off ScribeToAny on annual plans with code FIRST_30_OFF, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: FIRST_30_OFF
+  url: https://scribetoany.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: seedance-ai-video-generator
+  name: Seedance AI Video Generator
+  vendor: Seedance AI Video Generator
+  vendor_domain: seeddance.io
+  category: ai
+  deal_description: 50% off Seedance AI Video Generator on annual plans.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.seeddance.io/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: skillry
+  name: Skillry
+  vendor: Skillry
+  vendor_domain: skillry.dev
+  category: ai
+  deal_description: 50% off Skillry (lifetime license), until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://skillry.dev/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: slashspace
+  name: Slashspace
+  vendor: Slashspace
+  vendor_domain: slashspace.ai
+  category: ai
+  deal_description: 51% off Slashspace (lifetime license) with code BF2026.
+  discount:
+    type: percent
+    value: 51
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.slashspace.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: stashkin
+  name: Stashkin
+  vendor: Stashkin
+  vendor_domain: stashkin.com
+  category: ai
+  deal_description: 50% off Stashkin for the first year with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://stashkin.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: synthesia
+  name: Synthesia
+  vendor: Synthesia
+  vendor_domain: synthesia.io
+  category: ai
+  deal_description: Up to 50% off Synthesia on annual plans.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.synthesia.io/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tidio
+  name: Tidio
+  vendor: Tidio
+  vendor_domain: tidio.com
+  category: ai
+  deal_description: 20% off Tidio for the first 2 months, until Dec 8.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www.tidio.com/black-friday/
+  end_date: '2026-12-08'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: transcribee
+  name: Transcribee
+  vendor: Transcribee
+  vendor_domain: transcribee.io
+  category: ai
+  deal_description: 40% off Transcribee for the first year with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://transcribee.io/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: translatemanga
+  name: TranslateManga
+  vendor: TranslateManga
+  vendor_domain: translatemanga.net
+  category: ai
+  deal_description: 40% off TranslateManga on monthly plans, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://translatemanga.net/?pricing_mode=annual
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: typeboost
+  name: TypeBoost
+  vendor: TypeBoost
+  vendor_domain: typeboost.ai
+  category: ai
+  deal_description: 50% off TypeBoost for the first year with code TYPEBOOST50, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: TYPEBOOST50
+  url: https://www.typeboost.ai/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: typingmind
+  name: TypingMind
+  vendor: TypingMind
+  vendor_domain: typingmind.com
+  category: ai
+  deal_description: 60% off TypingMind (lifetime license) with code BLACKFRIDAY2026, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://www.typingmind.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: unlimitedai
+  name: UnlimitedAI
+  vendor: UnlimitedAI
+  vendor_domain: unlimitedai.tools
+  category: ai
+  deal_description: 25% off UnlimitedAI on annual plans with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://unlimitedai.tools/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vinaa
+  name: Vinaa
+  vendor: Vinaa
+  vendor_domain: vinaa.ai
+  category: ai
+  deal_description: Up to 45% off Vinaa (lifetime license).
+  discount:
+    type: percent
+    value: 45
+    up_to: true
+  url: https://www.vinaa.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vogoo-ai
+  name: Vogoo AI
+  vendor: Vogoo AI
+  vendor_domain: vogoo.ai
+  category: ai
+  deal_description: Up to 60% off Vogoo AI on annual plans, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://vogoo.ai/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: voibe
+  name: Voibe
+  vendor: Voibe
+  vendor_domain: getvoibe.com
+  category: ai
+  deal_description: 25% off Voibe (lifetime license) with code BFCM26.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BFCM26
+  url: https://www.getvoibe.com/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wiredesk
+  name: Wiredesk
+  vendor: Wiredesk
+  vendor_domain: wiredesk.ai
+  category: ai
+  deal_description: 30% off Wiredesk for the first year with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://wiredesk.ai/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wordfully
+  name: Wordfully
+  vendor: Wordfully
+  vendor_domain: wordfully.ai
+  category: ai
+  deal_description: 50% off Wordfully on annual plans with code BLACKFRIDAY2026, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://www.wordfully.ai/c/BLACKFRIDAY2026
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wovo
+  name: Wovo
+  vendor: Wovo
+  vendor_domain: wovo.one
+  category: ai
+  deal_description: 50% off Wovo on annual plans, until Dec 15.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://wovo.one/
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: yaptake
+  name: Yaptake
+  vendor: Yaptake
+  vendor_domain: yaptake.com
+  category: ai
+  deal_description: 50% off Yaptake for the first year for new customers with code YAPTAKEBF26, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: YAPTAKEBF26
+  url: https://yaptake.com/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

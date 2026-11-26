@@ -1,0 +1,611 @@
+# hosting-cloud — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: a2-hosting-hosting-com
+  name: A2 Hosting (hosting.com)
+  vendor: A2 Hosting (hosting.com)
+  vendor_domain: a2hosting.com
+  category: hosting-cloud
+  deal_description: Up to 89% off A2 Hosting (hosting.com).
+  discount:
+    type: percent
+    value: 89
+    up_to: true
+  url: https://www.a2hosting.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: blazehosting
+  name: BlazeHosting
+  vendor: BlazeHosting
+  vendor_domain: blazehosting.com.br
+  category: hosting-cloud
+  deal_description: 25% off BlazeHosting.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://blazehosting.com.br/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bluehost
+  name: Bluehost
+  vendor: Bluehost
+  vendor_domain: bluehost.com
+  category: hosting-cloud
+  deal_description: Black Friday Starter shared hosting at $4.24/month on a 12-month term.
+  discount:
+    type: fixed_price
+    value: 4.24
+    up_to: false
+  url: https://www.bluehost.com/hosting/shared
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: chemicloud
+  name: ChemiCloud
+  vendor: ChemiCloud
+  vendor_domain: chemicloud.com
+  category: hosting-cloud
+  deal_description: Up to 88% off ChemiCloud on monthly plans.
+  discount:
+    type: percent
+    value: 88
+    up_to: true
+  url: https://chemicloud.com/wordpress-hosting
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cherry-servers
+  name: Cherry Servers
+  vendor: Cherry Servers
+  vendor_domain: cherryservers.com
+  category: hosting-cloud
+  deal_description: 'Black Friday sale: up to 41% off cloud VDS and Server Outlet machines.'
+  discount:
+    type: percent
+    value: 41
+    up_to: true
+  url: https://www.cherryservers.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cloudways
+  name: Cloudways
+  vendor: Cloudways
+  vendor_domain: cloudways.com
+  category: hosting-cloud
+  deal_description: 80% off Cloudways for the first 2 months for new customers with code BFCM802, until Dec 6.
+  discount:
+    type: percent
+    value: 80
+    up_to: false
+  coupon_code: BFCM802
+  url: https://www.cloudways.com/en/promo-code.php
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: contabo-vps
+  name: Contabo VPS
+  vendor: Contabo
+  vendor_domain: contabo.com
+  category: hosting-cloud
+  deal_description: VPS Plus 2 (2 vCPU, 4 GB RAM, 75 GB NVMe) 15% off on 12-month or 20% off on 24-month terms, through Nov 30.
+  discount:
+    type: percent
+    value: 20
+    up_to: true
+  url: https://contabo.com/blog/black-friday-2026/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dedirock
+  name: DediRock
+  vendor: DediRock
+  vendor_domain: dedirock.com
+  category: hosting-cloud
+  deal_description: DediRock for $9.88 on annual plans.
+  discount:
+    type: fixed_price
+    value: 9.88
+    up_to: false
+  url: https://dedirock.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dreamhost-remixer
+  name: DreamHost Remixer
+  vendor: DreamHost Remixer
+  vendor_domain: dreamhost.com
+  category: hosting-cloud
+  deal_description: DreamHost Remixer for $6.49 for the first year, until Nov 30.
+  discount:
+    type: fixed_price
+    value: 6.49
+    up_to: false
+  url: https://www.dreamhost.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: esn-hosting
+  name: ESN Hosting
+  vendor: ESN Hosting
+  vendor_domain: esnoffical.com
+  category: hosting-cloud
+  deal_description: 85% off ESN Hosting.
+  discount:
+    type: percent
+    value: 85
+    up_to: false
+  url: https://panel.esnoffical.com/plans
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: faivelo
+  name: Faivelo
+  vendor: Faivelo
+  vendor_domain: faivelo.com
+  category: hosting-cloud
+  deal_description: 80% off Faivelo on annual plans, until Dec 1.
+  discount:
+    type: percent
+    value: 80
+    up_to: false
+  url: https://faivelo.com/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: flywp
+  name: FlyWP
+  vendor: FlyWP
+  vendor_domain: flywp.com
+  category: hosting-cloud
+  deal_description: FlyWP for $249 (lifetime license).
+  discount:
+    type: fixed_price
+    value: 249
+    up_to: false
+  url: https://flywp.com/black-friday-deals/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: greengeeks
+  name: GreenGeeks
+  vendor: GreenGeeks
+  vendor_domain: greengeeks.com
+  category: hosting-cloud
+  deal_description: 'Early-access Black Friday pricing: Lite eco hosting from $1.95/month prepaid for 12 months.'
+  discount:
+    type: fixed_price
+    value: 1.95
+    up_to: false
+  url: https://www.greengeeks.com/web-hosting
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hostinger
+  name: Hostinger
+  vendor: Hostinger
+  vendor_domain: hostinger.com
+  category: hosting-cloud
+  deal_description: Up to 85% off Hostinger for the first year, until Dec 14.
+  discount:
+    type: percent
+    value: 85
+    up_to: true
+  url: https://www.hostinger.com/black-friday
+  end_date: '2026-12-14'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hostinger-india-black-friday
+  name: Hostinger India Black Friday
+  vendor: Hostinger India
+  vendor_domain: hostinger.in
+  category: hosting-cloud
+  deal_description: Up to 85% off web, WordPress and VPS hosting plans in the Black Friday sale.
+  discount:
+    type: percent
+    value: 85
+    up_to: true
+  url: https://www.hostinger.in/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hostpapa
+  name: HostPapa
+  vendor: HostPapa
+  vendor_domain: hostpapa.com
+  category: hosting-cloud
+  deal_description: Up to 90% off HostPapa on monthly plans, until Dec 7.
+  discount:
+    type: percent
+    value: 90
+    up_to: true
+  url: https://www.hostpapa.com/deals/
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: inmotion-hosting
+  name: InMotion Hosting
+  vendor: InMotion Hosting
+  vendor_domain: inmotionhosting.com
+  category: hosting-cloud
+  deal_description: Up to 75% off InMotion Hosting for new customers, until Dec 1.
+  discount:
+    type: percent
+    value: 75
+    up_to: true
+  url: https://www.inmotionhosting.com/deals
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: instawp
+  name: InstaWP
+  vendor: InstaWP
+  vendor_domain: instawp.com
+  category: hosting-cloud
+  deal_description: 50% extra hosting credit on prepaid bundles, e.g. $750 of credit for $499; ends Dec 4.
+  discount:
+    type: credits
+    value: 50
+    up_to: false
+  url: https://instawp.com/black-friday/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kinsta
+  name: Kinsta
+  vendor: Kinsta
+  vendor_domain: kinsta.com
+  category: hosting-cloud
+  deal_description: Monthly plans 50% off for 3 months; annual plans get 3 months off. New customers.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://kinsta.com/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: namecheap
+  name: Namecheap
+  vendor: Namecheap
+  vendor_domain: namecheap.com
+  category: hosting-cloud
+  deal_description: 'Black Friday Games sale: 78% off Stellar shared hosting with code THEGAMESHOST26, plus domain and SSL deals.'
+  discount:
+    type: percent
+    value: 78
+    up_to: false
+  coupon_code: THEGAMESHOST26
+  url: https://www.namecheap.com/promos/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: one-com
+  name: one.com
+  vendor: one.com
+  vendor_domain: one.com
+  category: hosting-cloud
+  deal_description: Black Friday offers on one.com web hosting, domains and email.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.one.com/en/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: oneclickclaw
+  name: OneClickClaw
+  vendor: OneClickClaw
+  vendor_domain: oneclickclaw.io
+  category: hosting-cloud
+  deal_description: Up to 33% off OneClickClaw on monthly plans, until Dec 1.
+  discount:
+    type: percent
+    value: 33
+    up_to: true
+  url: https://oneclickclaw.io/plans
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ovhcloud
+  name: OVHcloud
+  vendor: OVHcloud
+  vendor_domain: ovhcloud.com
+  category: hosting-cloud
+  deal_description: 'Black Friday: up to 20% off dedicated servers, plus VPS deals from $4.54/month.'
+  discount:
+    type: percent
+    value: 20
+    up_to: true
+  url: https://us.ovhcloud.com/deals/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: porkbun-com-sale
+  name: Porkbun .com sale
+  vendor: Porkbun .com sale
+  vendor_domain: porkbun.com
+  category: hosting-cloud
+  deal_description: Black Friday pricing on Porkbun .com sale.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://porkbun.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: racknerd-black-friday-vps
+  name: RackNerd Black Friday VPS
+  vendor: RackNerd Black Friday VPS
+  vendor_domain: racknerd.com
+  category: hosting-cloud
+  deal_description: RackNerd Black Friday VPS for $15.98 on annual plans.
+  discount:
+    type: fixed_price
+    value: 15.98
+    up_to: false
+  url: https://www.racknerd.com/blackfriday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scalahosting
+  name: ScalaHosting
+  vendor: ScalaHosting
+  vendor_domain: scalahosting.com
+  category: hosting-cloud
+  deal_description: Up to 72% off managed cloud VPS and shared hosting for Black Friday, through Dec 1.
+  discount:
+    type: percent
+    value: 72
+    up_to: true
+  url: https://www.scalahosting.com/blog/black-friday-web-hosting-2026/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: stablehost
+  name: StableHost
+  vendor: StableHost
+  vendor_domain: stablehost.com
+  category: hosting-cloud
+  deal_description: Black Friday promo codes for StableHost shared and reseller hosting, listed on its promos page.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.stablehost.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ultahost
+  name: UltaHost
+  vendor: UltaHost
+  vendor_domain: ultahost.com
+  category: hosting-cloud
+  deal_description: Up to 70% off UltaHost.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://ultahost.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vm6-networks
+  name: VM6 Networks
+  vendor: VM6 Networks
+  vendor_domain: vm6.co.uk
+  category: hosting-cloud
+  deal_description: Up to 60% off VM6 Networks.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.vm6.co.uk/promotions
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wasmer-pro
+  name: Wasmer Pro
+  vendor: Wasmer Pro
+  vendor_domain: wasmer.io
+  category: hosting-cloud
+  deal_description: 50% off Wasmer Pro with code BLACKFRIDAY26, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://wasmer.io/black-friday-2026
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: wpmu-dev
+  name: WPMU DEV
+  vendor: WPMU DEV
+  vendor_domain: wpmudev.com
+  category: hosting-cloud
+  deal_description: 50% off the Agency plan, kept on renewals, for Black Friday.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://wpmudev.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zap-hosting
+  name: ZAP-Hosting
+  vendor: ZAP-Hosting
+  vendor_domain: zap-hosting.com
+  category: hosting-cloud
+  deal_description: 'Black Friday early access: 50% off at ZAP-Hosting, per its Black Friday page.'
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://zap-hosting.com/en/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

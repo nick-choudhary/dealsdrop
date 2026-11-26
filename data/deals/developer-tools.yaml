@@ -1,0 +1,1572 @@
+# developer-tools — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: 12happy
+  name: 12happy
+  vendor: 12happy
+  vendor_domain: 12hpy.com
+  category: developer-tools
+  deal_description: Black Friday pricing on 12happy with code BLACKFRIDAY, until Dec 1.
+  discount:
+    type: fixed_price
+    value: null
+  coupon_code: BLACKFRIDAY
+  url: https://www.12hpy.com/deals/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: 1bench
+  name: 1bench
+  vendor: 1bench
+  vendor_domain: 1bench.dev
+  category: developer-tools
+  deal_description: 50% off 1bench (lifetime license) with code FCBF26.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: FCBF26
+  url: https://1bench.dev/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: 1devtool
+  name: 1DevTool
+  vendor: 1DevTool
+  vendor_domain: 1devtool.com
+  category: developer-tools
+  deal_description: 50% off 1DevTool with code BFDEALS50, until Nov 29.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFDEALS50
+  url: https://1devtool.com/pricing
+  end_date: '2026-11-29'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: akev
+  name: Akev
+  vendor: Akev
+  vendor_domain: akev.dev
+  category: developer-tools
+  deal_description: 30% off Akev (one-time purchase) with code BLACKFRIDAY, until Dec 6.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://akev.dev/pricing
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aptakube
+  name: Aptakube
+  vendor: Aptakube
+  vendor_domain: aptakube.com
+  category: developer-tools
+  deal_description: 30% off Aptakube with code BF2026, until Dec 4.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://aptakube.com/pricing
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ay-grants
+  name: AY Grants
+  vendor: AY Grants
+  vendor_domain: ayskilllab.com
+  category: developer-tools
+  deal_description: 50% off AY Grants on monthly plans, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://grants.ayskilllab.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: babelize
+  name: Babelize
+  vendor: Babelize
+  vendor_domain: babelize.co
+  category: developer-tools
+  deal_description: 50% off Babelize for the first year with code BLACKFRIDAY26, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://www.babelize.co/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: barcodecraft
+  name: BarcodeCraft
+  vendor: BarcodeCraft
+  vendor_domain: barcodecraft.com
+  category: developer-tools
+  deal_description: 50% off BarcodeCraft (lifetime license), until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.barcodecraft.com/black-friday
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bucketmate
+  name: BucketMate
+  vendor: BucketMate
+  vendor_domain: bucketmate.app
+  category: developer-tools
+  deal_description: 40% off BucketMate (lifetime license) with code BF2026.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.bucketmate.app/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cleanclip
+  name: CleanClip
+  vendor: CleanClip
+  vendor_domain: cleanclip.cc
+  category: developer-tools
+  deal_description: 30% off CleanClip, until Dec 15.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://cleanclip.cc/
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ctrlops
+  name: CtrlOps
+  vendor: CtrlOps
+  vendor_domain: ctrlops.io
+  category: developer-tools
+  deal_description: 31% off CtrlOps (lifetime license) with code BFCM31, until Dec 2.
+  discount:
+    type: percent
+    value: 31
+    up_to: false
+  coupon_code: BFCM31
+  url: https://ctrlops.io/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: cue
+  name: Cue
+  vendor: Cue
+  vendor_domain: appsbymo.app
+  category: developer-tools
+  deal_description: 50% off Cue with code BLACKFRIDAY, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://appsbymo.app/atelier/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: data-peek-pro
+  name: data-peek Pro
+  vendor: data-peek Pro
+  vendor_domain: datapeek.dev
+  category: developer-tools
+  deal_description: 40% off data-peek Pro with code BF26PEEK, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF26PEEK
+  url: https://www.datapeek.dev/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: device-mcp
+  name: Device MCP
+  vendor: Device MCP
+  vendor_domain: devicemcp.ai
+  category: developer-tools
+  deal_description: 30% off Device MCP (lifetime license) with code BF2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://devicemcp.ai/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: devintern
+  name: DevIntern
+  vendor: DevIntern
+  vendor_domain: devintern.com
+  category: developer-tools
+  deal_description: 40% off DevIntern for the first year with code BLACKFRIDAY26, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://devintern.com/pricing/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: devkito
+  name: Devkito
+  vendor: Devkito
+  vendor_domain: devkito.com
+  category: developer-tools
+  deal_description: 50% off Devkito (one-time purchase) with code BF2026, until Dec 2.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://devkito.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: devworkspace-pro
+  name: DevWorkspace Pro
+  vendor: DevWorkspace Pro
+  vendor_domain: devworkspacepro.com
+  category: developer-tools
+  deal_description: 40% off DevWorkspace Pro with code BLACKFRIDAY40OFF, until Dec 10.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY40OFF
+  url: https://devworkspacepro.com
+  end_date: '2026-12-10'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: diffacto
+  name: Diffacto
+  vendor: Diffacto
+  vendor_domain: diffacto.com
+  category: developer-tools
+  deal_description: 40% off Diffacto first year, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://diffacto.com/#pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: digital-photo-frame
+  name: Digital Photo Frame
+  vendor: Digital Photo Frame
+  vendor_domain: digitalphotoframeapp.com
+  category: developer-tools
+  deal_description: 50% off Digital Photo Frame, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://digitalphotoframeapp.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dochost
+  name: dochost
+  vendor: dochost
+  vendor_domain: dochost.io
+  category: developer-tools
+  deal_description: 30% off the first year of Pro or Max yearly with code BLACKFRIDAY30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY30
+  url: https://dochost.io/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dockspace
+  name: Dockspace
+  vendor: Dockspace
+  vendor_domain: getdock.space
+  category: developer-tools
+  deal_description: 50% off Dockspace (lifetime license) with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://getdock.space/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dynotable
+  name: DynoTable
+  vendor: DynoTable
+  vendor_domain: dynotable.com
+  category: developer-tools
+  deal_description: 50% off DynoTable on annual plans with code BF50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF50
+  url: https://dynotable.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: evendeals
+  name: Evendeals
+  vendor: Evendeals
+  vendor_domain: evendeals.com
+  category: developer-tools
+  deal_description: 40% off Evendeals (lifetime license) with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://evendeals.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: getyoutubetranscript
+  name: GetYouTubeTranscript
+  vendor: GetYouTubeTranscript
+  vendor_domain: getyoutubetranscript.com
+  category: developer-tools
+  deal_description: 30% off GetYouTubeTranscript (lifetime license) with code BF26GYT, until Dec 10.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF26GYT
+  url: https://getyoutubetranscript.com/pricing
+  end_date: '2026-12-10'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: git-on-the-go
+  name: Git On The Go
+  vendor: Git On The Go
+  vendor_domain: gitonthego.com
+  category: developer-tools
+  deal_description: 40% off Git On The Go (one-time purchase).
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://gitonthego.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gtmetrix
+  name: GTmetrix
+  vendor: GTmetrix
+  vendor_domain: gtmetrix.com
+  category: developer-tools
+  deal_description: 40% off GTmetrix on annual plans with code BF2026, until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://gtmetrix.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: guard-by-offseq
+  name: Guard by OffSeq
+  vendor: Guard by OffSeq
+  vendor_domain: guard.report
+  category: developer-tools
+  deal_description: 50% off Guard by OffSeq, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://guard.report/monitoring
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hackutilities
+  name: HackUtilities
+  vendor: HackUtilities
+  vendor_domain: hackutilities.com
+  category: developer-tools
+  deal_description: 50% off HackUtilities with code BFCM2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://hackutilities.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hoverify
+  name: Hoverify
+  vendor: Hoverify
+  vendor_domain: tryhoverify.com
+  category: developer-tools
+  deal_description: 30% off Hoverify, until Dec 4.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.tryhoverify.com/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: jetbrains-ides
+  name: JetBrains IDEs
+  vendor: JetBrains
+  vendor_domain: jetbrains.com
+  category: developer-tools
+  deal_description: 40% off new annual individual IDE or ReSharper subscriptions and upgrades to All Products Pack, Nov 25-Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.jetbrains.com/store/
+  start_date: '2026-11-25'
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: juxtacode
+  name: JuxtaCode
+  vendor: JuxtaCode
+  vendor_domain: juxtacode.app
+  category: developer-tools
+  deal_description: 40% off JuxtaCode with code BLACKFRIDAY26, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://juxtacode.app/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: karve
+  name: Karve
+  vendor: Karve
+  vendor_domain: karve.dev
+  category: developer-tools
+  deal_description: 75% off Karve (one-time purchase).
+  discount:
+    type: percent
+    value: 75
+    up_to: false
+  url: https://karve.dev/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kikuyo
+  name: Kikuyo
+  vendor: Kikuyo
+  vendor_domain: kikuyo.app
+  category: developer-tools
+  deal_description: 38% off Kikuyo (lifetime license), until Dec 1.
+  discount:
+    type: percent
+    value: 38
+    up_to: false
+  url: https://kikuyo.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kittytrace
+  name: KittyTrace
+  vendor: KittyTrace
+  vendor_domain: kittytrace.com
+  category: developer-tools
+  deal_description: 34% off KittyTrace (one-time purchase) with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 34
+    up_to: false
+  coupon_code: BF2026
+  url: https://kittytrace.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kloudutils
+  name: KloudUtils
+  vendor: KloudUtils
+  vendor_domain: kloudutils.com
+  category: developer-tools
+  deal_description: 33% off KloudUtils, until Dec 6.
+  discount:
+    type: percent
+    value: 33
+    up_to: false
+  url: https://kloudutils.com/#pricing
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: labs64-netlicensing
+  name: Labs64 NetLicensing
+  vendor: Labs64 NetLicensing
+  vendor_domain: netlicensing.io
+  category: developer-tools
+  deal_description: 50% off Labs64 NetLicensing first year with code CYBER2026, until Dec 6.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: CYBER2026
+  url: https://netlicensing.io/pricing/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: layerwise
+  name: Layerwise
+  vendor: Layerwise
+  vendor_domain: layerwise.app
+  category: developer-tools
+  deal_description: 20% off Layerwise on monthly plans with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://layerwise.app/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lidnight
+  name: Lidnight
+  vendor: Lidnight
+  vendor_domain: lidnight.app
+  category: developer-tools
+  deal_description: 50% off Lidnight with code BF50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF50
+  url: https://lidnight.app/en/buy/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: looq
+  name: Looq
+  vendor: Looq
+  vendor_domain: parcse.com
+  category: developer-tools
+  deal_description: 10% off Looq (one-time purchase) with code PARCSEBLACKFRIDAY.
+  discount:
+    type: percent
+    value: 10
+    up_to: false
+  coupon_code: PARCSEBLACKFRIDAY
+  url: https://parcse.com/looq
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lurkapi
+  name: LurkAPI
+  vendor: LurkAPI
+  vendor_domain: lurkapi.com
+  category: developer-tools
+  deal_description: 30% off LurkAPI with code BLACKFRIDAY30, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY30
+  url: https://lurkapi.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: magic-dock
+  name: Magic Dock
+  vendor: Magic Dock
+  vendor_domain: magicdock.app
+  category: developer-tools
+  deal_description: '50% off: $7.50 instead of $15.'
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://magicdock.app/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mailazy
+  name: Mailazy
+  vendor: Mailazy
+  vendor_domain: mailazy.com
+  category: developer-tools
+  deal_description: 30% off Mailazy on monthly plans with code THANKS30, until Feb 5.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: THANKS30
+  url: https://mailazy.com/
+  end_date: '2027-02-05'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mailscope
+  name: MailScope
+  vendor: MailScope
+  vendor_domain: mailscope.app
+  category: developer-tools
+  deal_description: Black Friday pricing on MailScope (one-time purchase) with code BF2026, until Nov 30.
+  discount:
+    type: fixed_price
+    value: null
+  coupon_code: BF2026
+  url: https://mailscope.app/blackfriday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mojoauth
+  name: MojoAuth
+  vendor: MojoAuth
+  vendor_domain: mojoauth.com
+  category: developer-tools
+  deal_description: 20% off MojoAuth on monthly plans with code BF2026, until Dec 15.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BF2026
+  url: https://mojoauth.com/
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: monitorable
+  name: Monitorable
+  vendor: Monitorable
+  vendor_domain: monitorable.io
+  category: developer-tools
+  deal_description: 40% off Monitorable on annual plans with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://monitorable.io/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: moordeck
+  name: Moordeck
+  vendor: Moordeck
+  vendor_domain: moordeck.com
+  category: developer-tools
+  deal_description: 25% off Moordeck for the first year with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BF2026
+  url: https://moordeck.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nextadmin
+  name: NextAdmin
+  vendor: NextAdmin
+  vendor_domain: nextadmin.co
+  category: developer-tools
+  deal_description: 40% off NextAdmin with code BLFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLFCM2026
+  url: https://nextadmin.co/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: notchnook-pro
+  name: NotchNook Pro
+  vendor: NotchNook Pro
+  vendor_domain: notchnook.pro
+  category: developer-tools
+  deal_description: 50% off NotchNook Pro lifetime or monthly.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://notchnook.pro/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: piloterr
+  name: Piloterr
+  vendor: Piloterr
+  vendor_domain: piloterr.com
+  category: developer-tools
+  deal_description: 50% off Piloterr for the first 3 months with code BLACKFRIDAY50, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY50
+  url: https://www.piloterr.com/blackfriday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: polypane
+  name: Polypane
+  vendor: Polypane
+  vendor_domain: polypane.app
+  category: developer-tools
+  deal_description: 25% off Polypane, until Dec 1.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://polypane.app/black-friday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: portdroid
+  name: PortDroid
+  vendor: PortDroid
+  vendor_domain: portdroid.net
+  category: developer-tools
+  deal_description: 50% off PortDroid (lifetime license) with code CYBER_2026, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: CYBER_2026
+  url: https://portdroid.net/black-friday-2026
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: posh
+  name: POSH
+  vendor: POSH
+  vendor_domain: poshtui.com
+  category: developer-tools
+  deal_description: 30% off POSH on annual plans for new customers with code BLACKFRIDAY2026, until Dec 2.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://poshtui.com/black-friday
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pulsetic
+  name: Pulsetic
+  vendor: Pulsetic
+  vendor_domain: pulsetic.com
+  category: developer-tools
+  deal_description: 40% off Pulsetic, until Dec 3.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://pulsetic.com/black-friday
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: react-pdf-kit
+  name: React PDF Kit
+  vendor: React PDF Kit
+  vendor_domain: react-pdf-kit.dev
+  category: developer-tools
+  deal_description: 50% off React PDF Kit with code BFCM2026, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://www.react-pdf-kit.dev/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: reviso
+  name: Reviso
+  vendor: Reviso
+  vendor_domain: getreviso.io
+  category: developer-tools
+  deal_description: 25% off Reviso for the first year with code BLACKFRIDAY25, until Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACKFRIDAY25
+  url: https://getreviso.io/pricing/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: saascaffold
+  name: SaaScaffold
+  vendor: SaaScaffold
+  vendor_domain: saascaffold.com
+  category: developer-tools
+  deal_description: SaaScaffold for $49, until Dec 6.
+  discount:
+    type: fixed_price
+    value: 49
+    up_to: false
+  url: https://saascaffold.com/pricing
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: safe-screen-share
+  name: Safe Screen Share
+  vendor: Safe Screen Share
+  vendor_domain: safescreenshare.com
+  category: developer-tools
+  deal_description: 40% off Safe Screen Share (lifetime license) with code BF2026, until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.safescreenshare.com
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scanify
+  name: Scanify
+  vendor: Scanify
+  vendor_domain: scanify.to
+  category: developer-tools
+  deal_description: 50% off Scanify (lifetime license) with code BLACKFRIDAY, until Dec 9.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://scanify.to/pricing
+  end_date: '2026-12-09'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scrapeatlas
+  name: ScrapeAtlas
+  vendor: ScrapeAtlas
+  vendor_domain: scrapeatlas.com
+  category: developer-tools
+  deal_description: 50% off every credit pack, applied at checkout; ends Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://scrapeatlas.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: screenpipe
+  name: Screenpipe
+  vendor: Screenpipe
+  vendor_domain: screenpipe.com
+  category: developer-tools
+  deal_description: '20% off your first year: Basic $200 (was $250), Business $400/seat (was $500).'
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://screenpipe.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: serpwrap
+  name: SerpWrap
+  vendor: SerpWrap
+  vendor_domain: serpwrap.com
+  category: developer-tools
+  deal_description: 40% off SerpWrap with code BLACKF40, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKF40
+  url: https://serpwrap.com
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sidenotes
+  name: SideNotes
+  vendor: SideNotes
+  vendor_domain: apptorium.com
+  category: developer-tools
+  deal_description: 35% off SideNotes (one-time purchase), until Dec 6.
+  discount:
+    type: percent
+    value: 35
+    up_to: false
+  url: https://www.apptorium.com/sidenotes
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sitelemetry
+  name: Sitelemetry
+  vendor: Sitelemetry
+  vendor_domain: sitelemetry.com
+  category: developer-tools
+  deal_description: 50% off Sitelemetry first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://sitelemetry.com/pricing#campaignOffer
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: socialapis
+  name: SocialAPIs
+  vendor: SocialAPIs
+  vendor_domain: socialapis.io
+  category: developer-tools
+  deal_description: 30% off SocialAPIs for the first year with code BLACKDATA30, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKDATA30
+  url: https://socialapis.io/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sqlpro-studio
+  name: SQLPro Studio
+  vendor: SQLPro Studio
+  vendor_domain: sqlprostudio.com
+  category: developer-tools
+  deal_description: 50% off SQLPro Studio first year with code BFHALFOFF, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFHALFOFF
+  url: https://www.sqlprostudio.com/blackfriday.html
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ssh-workbench
+  name: SSH Workbench
+  vendor: SSH Workbench
+  vendor_domain: sshworkbench.com
+  category: developer-tools
+  deal_description: 50% off SSH Workbench (lifetime license).
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://sshworkbench.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ssojet
+  name: SSOJet
+  vendor: SSOJet
+  vendor_domain: ssojet.com
+  category: developer-tools
+  deal_description: 20% off SSOJet on monthly plans with code BF2026, until Dec 15.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BF2026
+  url: https://ssojet.com/pricing
+  end_date: '2026-12-15'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: storewire
+  name: Storewire
+  vendor: Storewire
+  vendor_domain: hackerman.ge
+  category: developer-tools
+  deal_description: 40% off Storewire, until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://plugins.hackerman.ge
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: stratos
+  name: Stratos
+  vendor: Stratos
+  vendor_domain: stratosapp.dev
+  category: developer-tools
+  deal_description: 20% off Stratos (lifetime license) with code BFCM20, until Nov 30.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BFCM20
+  url: https://stratosapp.dev/buy/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: supayatta
+  name: Supayatta
+  vendor: Supayatta
+  vendor_domain: supayatta.com
+  category: developer-tools
+  deal_description: 50% off Supayatta with code YATTABF.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: YATTABF
+  url: https://supayatta.com
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: synclet
+  name: Synclet
+  vendor: Synclet
+  vendor_domain: synclet.dev
+  category: developer-tools
+  deal_description: 50% off Synclet (one-time purchase), until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://synclet.dev/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tableplus
+  name: TablePlus
+  vendor: TablePlus
+  vendor_domain: tableplus.com
+  category: developer-tools
+  deal_description: 25% off TablePlus (one-time purchase) with code BLACK_FRIDAY_2026.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BLACK_FRIDAY_2026
+  url: https://tableplus.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tablepro
+  name: TablePro
+  vendor: TablePro
+  vendor_domain: tablepro.app
+  category: developer-tools
+  deal_description: 40% off TablePro (one-time purchase) with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://tablepro.app/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: telemetrydeck
+  name: TelemetryDeck
+  vendor: TelemetryDeck
+  vendor_domain: telemetrydeck.com
+  category: developer-tools
+  deal_description: 30% off TelemetryDeck with code WEEK26, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: WEEK26
+  url: https://telemetrydeck.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: trueproxies
+  name: TrueProxies
+  vendor: TrueProxies
+  vendor_domain: trueproxies.com
+  category: developer-tools
+  deal_description: 25% off plans of $100 or more and up to 30% off traffic packs.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://trueproxies.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vibe-app-scanner
+  name: Vibe App Scanner
+  vendor: Vibe App Scanner
+  vendor_domain: vibeappscanner.com
+  category: developer-tools
+  deal_description: 60% off Vibe App Scanner on monthly plans, until Nov 30.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://vibeappscanner.com/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vmpal
+  name: VMPal
+  vendor: VMPal
+  vendor_domain: vmpal.com
+  category: developer-tools
+  deal_description: 25% off VMPal (one-time purchase).
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://vmpal.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vue-pdf-viewer
+  name: Vue PDF Viewer
+  vendor: Vue PDF Viewer
+  vendor_domain: vue-pdf-viewer.dev
+  category: developer-tools
+  deal_description: 50% off Vue PDF Viewer.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.vue-pdf-viewer.dev/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: warplet
+  name: Warplet
+  vendor: Warplet
+  vendor_domain: warplet.app
+  category: developer-tools
+  deal_description: 40% off Warplet for the first year with code BLACKFRIDAY2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://warplet.app/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zero-trace-ship-kit
+  name: Zero-Trace Ship Kit
+  vendor: Zero-Trace Ship Kit
+  vendor_domain: workers.dev
+  category: developer-tools
+  deal_description: 40% off Zero-Trace Ship Kit with code FOUNDER10, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: FOUNDER10
+  url: https://zero-trace-ship-kit.zeus-lab-global.workers.dev/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

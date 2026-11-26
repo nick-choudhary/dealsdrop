@@ -1,0 +1,11 @@
+# Suggested labels (sync with a labeler action or create by hand).
+- { name: new-deal,           color: "0e8a16", description: "Adds one or more deals" }
+- { name: needs-verification, color: "fbca04", description: "Maintainer must check the vendor page" }
+- { name: verified,           color: "1d76db", description: "Maintainer confirmed on the official page" }
+- { name: affiliated,         color: "d93f0b", description: "Submitter disclosed a relationship with the vendor" }
+- { name: expired-report,     color: "c5def5", description: "Someone reported an ended/wrong deal" }
+- { name: expired,            color: "bfdadc", description: "Automated expiry PR" }
+- { name: broken-link,        color: "b60205", description: "Link checker found a dead link" }
+- { name: spam,               color: "000000", description: "Self-promotion, affiliate links or not a BF deal — closed" }
+- { name: duplicate,          color: "cfd3d7", description: "Deal already listed" }
+- { name: tooling,            color: "5319e7", description: "Schema, scripts or CI" }

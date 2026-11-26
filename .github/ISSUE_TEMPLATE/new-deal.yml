@@ -1,0 +1,35 @@
+name: Suggest a deal
+description: Suggest a Black Friday / Cyber Monday 2026 deal for a maintainer to verify and add.
+title: "[Deal] <Vendor> — <short offer>"
+labels: ["new-deal", "needs-verification"]
+body:
+  - type: markdown
+    attributes:
+      value: "No affiliate links, no tracking parameters, publicly available offers only. Vendors and employees must disclose."
+  - type: input
+    id: vendor
+    attributes: { label: Vendor / product, placeholder: "Acme Notes" }
+    validations: { required: true }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [ai, developer-tools, hosting-cloud, website-builders, design-media, productivity, business-marketing, security-privacy, learning, electronics, home-appliances, fashion, gaming, travel, streaming-subscriptions]
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Official deal URL (vendor domain, no tracking params) }
+    validations: { required: true }
+  - type: textarea
+    id: offer
+    attributes: { label: The offer, description: "Discount, code, prices, start/end dates exactly as the vendor states them." }
+    validations: { required: true }
+  - type: dropdown
+    id: affiliated
+    attributes:
+      label: Are you affiliated with this vendor (founder, employee, agency, affiliate partner)?
+      options: ["No", "Yes — I will describe the relationship below"]
+    validations: { required: true }
+  - type: input
+    id: relationship
+    attributes: { label: Relationship (required if affiliated) }

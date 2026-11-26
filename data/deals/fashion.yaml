@@ -1,0 +1,789 @@
+# fashion — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: american-eagle-black-friday
+  name: American Eagle Black Friday
+  vendor: American Eagle
+  vendor_domain: ae.com
+  category: fashion
+  deal_description: 40% off, incl. jeans and new arrivals.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://www.ae.com/us/en
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aza-fashions-black-friday
+  name: Aza Fashions Black Friday
+  vendor: Aza Fashions
+  vendor_domain: azafashions.com
+  category: fashion
+  deal_description: Up to 70% off select Indian designer wear.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://www.azafashions.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: baublebar-black-friday
+  name: BaubleBar Black Friday
+  vendor: BaubleBar
+  vendor_domain: baublebar.com
+  category: fashion
+  deal_description: 30% off sitewide plus 20% off custom gifts.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.baublebar.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: birkenstock-india-black-friday
+  name: Birkenstock India Black Friday
+  vendor: Birkenstock
+  vendor_domain: birkenstock.com
+  category: fashion
+  deal_description: Up to 50% off online on Arizona, Madrid, Boston and Gizeh, Nov 26-30.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.birkenstock.com/in/
+  start_date: '2026-11-26'
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: charles-keith-india-black-friday
+  name: Charles & Keith India Black Friday
+  vendor: Charles & Keith
+  vendor_domain: charleskeith.com
+  category: fashion
+  deal_description: Up to 40% off handbags, slingbacks and heels.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.charleskeith.com/in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: crocs-india-black-friday
+  name: Crocs India Black Friday
+  vendor: Crocs India
+  vendor_domain: crocs.in
+  category: fashion
+  deal_description: Minimum 40% off selected clogs in the Black Friday sale, plus an extra 5% off prepaid orders.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://www.crocs.in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: demellier-black-friday
+  name: DeMellier Black Friday
+  vendor: DeMellier
+  vendor_domain: demellierlondon.com
+  category: fashion
+  deal_description: 20% off bags, incl. the Stockholm, with code BF20.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BF20
+  url: https://www.demellierlondon.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dolce-vita-black-friday
+  name: Dolce Vita Black Friday
+  vendor: Dolce Vita
+  vendor_domain: dolcevita.com
+  category: fashion
+  deal_description: 30% off almost everything with code BLACKFRIDAY.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://www.dolcevita.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fossil-india-black-friday-sale
+  name: Fossil India Black Friday Sale
+  vendor: Fossil India
+  vendor_domain: fossil.com
+  category: fashion
+  deal_description: Up to 40% off watches and accessories for men and women, until Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.fossil.com/en-in/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: gap-black-friday
+  name: Gap Black Friday
+  vendor: Gap
+  vendor_domain: gap.com
+  category: fashion
+  deal_description: Up to 50-60% off Gap styles for Black Friday.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.gap.com/browse/info.do?cid=1188425
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: h-m-india-black-friday
+  name: H&M India Black Friday
+  vendor: H&M India
+  vendor_domain: hm.com
+  category: fashion
+  deal_description: Flat 20% off everything online in the Black Friday event; sale and special collections excluded.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www2.hm.com/en_in/seasonal/black-friday.html
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hunkemoller-india-black-friday
+  name: Hunkemoller India Black Friday
+  vendor: Hunkemoller
+  vendor_domain: hunkemoller.in
+  category: fashion
+  deal_description: Up to 40% off lingerie, sleepwear and loungewear.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://www.hunkemoller.in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: inde-wild-black-friday
+  name: Inde Wild Black Friday
+  vendor: Inde Wild
+  vendor_domain: indewild.com
+  category: fashion
+  deal_description: Up to 35% off beauty with free gifts; Mystery Box 53% off.
+  discount:
+    type: percent
+    value: 35
+    up_to: true
+  url: https://indewild.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: joe-s-jeans-black-friday
+  name: Joe's Jeans Black Friday
+  vendor: Joe's Jeans
+  vendor_domain: joesjeans.com
+  category: fashion
+  deal_description: 30% off sitewide.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.joesjeans.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kate-spade-black-friday
+  name: Kate Spade Black Friday
+  vendor: Kate Spade New York
+  vendor_domain: katespade.com
+  category: fashion
+  deal_description: Up to 50% off select bags, jewelry and accessories.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.katespade.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: levi-s-india-black-friday-sale
+  name: Levi's India Black Friday Sale
+  vendor: Levi's India
+  vendor_domain: levi.in
+  category: fashion
+  deal_description: Up to 60% off jeans, shirts and trousers in the Black Friday sale.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://levi.in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: libas-black-friday
+  name: Libas Black Friday
+  vendor: Libas
+  vendor_domain: libas.in
+  category: fashion
+  deal_description: Up to 70% off kurta sets, anarkalis, shararas and sarees.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://www.libas.in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: lululemon-black-friday
+  name: lululemon Black Friday
+  vendor: lululemon
+  vendor_domain: lululemon.com
+  category: fashion
+  deal_description: Up to 40% off select lululemon products.
+  discount:
+    type: percent
+    value: 40
+    up_to: true
+  url: https://shop.lululemon.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: macy-s-black-friday
+  name: Macy's Black Friday
+  vendor: Macy's
+  vendor_domain: macys.com
+  category: fashion
+  deal_description: Up to 70% off apparel, jewelry, footwear and home.
+  discount:
+    type: percent
+    value: 70
+    up_to: true
+  url: https://www.macys.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: madewell-black-friday
+  name: Madewell Black Friday
+  vendor: Madewell
+  vendor_domain: madewell.com
+  category: fashion
+  deal_description: 40% off everything with code LETSGO until Dec 1; exclusions apply.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: LETSGO
+  url: https://www.madewell.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: marks-spencer-india-black-friday
+  name: Marks & Spencer India Black Friday
+  vendor: Marks & Spencer
+  vendor_domain: marksandspencer.in
+  category: fashion
+  deal_description: Flat 40% off select products across categories, online and in stores.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://www.marksandspencer.in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mejuri-black-friday
+  name: Mejuri Black Friday
+  vendor: Mejuri
+  vendor_domain: mejuri.com
+  category: fashion
+  deal_description: Up to 30% off everything until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://mejuri.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: myntra-black-friday-sale
+  name: Myntra Black Friday Sale
+  vendor: Myntra
+  vendor_domain: myntra.com
+  category: fashion
+  deal_description: Black Friday sale page live with fashion, winter wear and footwear discounts.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.myntra.com/black-friday-sale
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nike-black-friday
+  name: Nike Black Friday
+  vendor: Nike
+  vendor_domain: nike.com
+  category: fashion
+  deal_description: Extra 25% off select styles with code BFRIDAY on top of sale prices.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BFRIDAY
+  url: https://www.nike.com/w/black-friday-deals-2phlmz
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nykaa-pink-friday-sale
+  name: Nykaa Pink Friday Sale
+  vendor: Nykaa
+  vendor_domain: nykaa.com
+  category: fashion
+  deal_description: Pink Friday beauty sale Nov 27-Dec 7 with up to 60% off, buy-2-get-1 and gift offers.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://www.nykaa.com/
+  start_date: '2026-11-27'
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: old-navy-black-friday
+  name: Old Navy Black Friday
+  vendor: Old Navy
+  vendor_domain: oldnavy.com
+  category: fashion
+  deal_description: 50% off select styles plus an extra 30% off with code EXTRA.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  coupon_code: EXTRA
+  url: https://oldnavy.gap.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: paulmi-harsh-black-friday
+  name: Paulmi & Harsh Black Friday
+  vendor: Paulmi & Harsh
+  vendor_domain: paulmiandharsh.com
+  category: fashion
+  deal_description: Up to 50% off sarees, lehengas and Indian silhouettes.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://paulmiandharsh.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: puma-black-friday
+  name: PUMA Black Friday
+  vendor: PUMA
+  vendor_domain: puma.com
+  category: fashion
+  deal_description: Up to 30% off sitewide plus extra savings on select PUMA shoes and apparel.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://www.puma.com/us/en/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: puma-india-black-friday
+  name: PUMA India Black Friday
+  vendor: PUMA
+  vendor_domain: puma.com
+  category: fashion
+  deal_description: Extra 30% off eligible footwear, apparel and accessories in the Black Friday campaign.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://in.puma.com/in/en
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: ring-concierge-black-friday
+  name: Ring Concierge Black Friday
+  vendor: Ring Concierge
+  vendor_domain: ringconcierge.com
+  category: fashion
+  deal_description: 30% off sitewide until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://ringconcierge.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sephora-india-black-friday
+  name: Sephora India Black Friday
+  vendor: Sephora
+  vendor_domain: sephora.in
+  category: fashion
+  deal_description: Up to 50% off Benefit, Rare Beauty, Make Up For Ever and more.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.sephora.in/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: shoppers-stop-black-friday-brands
+  name: Shoppers Stop Black Friday brands
+  vendor: Shoppers Stop
+  vendor_domain: shoppersstop.com
+  category: fashion
+  deal_description: Flat ₹800 off Black Friday brands in focus with code BLACKFRI.
+  discount:
+    type: amount
+    value: 800
+    up_to: false
+  coupon_code: BLACKFRI
+  url: https://www.shoppersstop.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: skims-black-friday
+  name: Skims Black Friday
+  vendor: Skims
+  vendor_domain: skims.com
+  category: fashion
+  deal_description: 30% off sitewide plus an extra 30% off markdowns until Dec 2.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://skims.com/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: spanx-black-friday
+  name: Spanx Black Friday
+  vendor: Spanx
+  vendor_domain: spanx.com
+  category: fashion
+  deal_description: Up to 50% off sitewide.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://spanx.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: steve-madden-black-friday
+  name: Steve Madden Black Friday
+  vendor: Steve Madden
+  vendor_domain: stevemadden.com
+  category: fashion
+  deal_description: 30% off almost everything with code FRIDAY, plus 50% off Black Friday specials.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: FRIDAY
+  url: https://www.stevemadden.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: strathberry-black-friday
+  name: Strathberry Black Friday
+  vendor: Strathberry
+  vendor_domain: strathberry.com
+  category: fashion
+  deal_description: 25% off sitewide until Dec 1; new arrivals excluded.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://strathberry.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: swarovski-india-black-friday
+  name: Swarovski India Black Friday
+  vendor: Swarovski
+  vendor_domain: swarovski.com
+  category: fashion
+  deal_description: Black Friday sale on Swarovski earrings, rings and tennis bracelets.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://www.swarovski.com/en-IN/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tata-cliq-luxury-black-friday
+  name: Tata CLiQ Luxury Black Friday
+  vendor: Tata CLiQ
+  vendor_domain: tatacliq.com
+  category: fashion
+  deal_description: Designer wear, handbags, watches and fragrances on sale, plus 12.5% instant discount on AmEx, Axis and Kotak cards until Nov 30.
+  discount:
+    type: percent
+    value: 12.5
+    up_to: false
+  url: https://luxury.tatacliq.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: thisa-black-friday
+  name: Thisa Black Friday
+  vendor: Thisa
+  vendor_domain: thisa.in
+  category: fashion
+  deal_description: Buy five, get one free on sarees and traditional wear until Dec 6.
+  discount:
+    type: bundle
+    value: null
+    up_to: false
+  url: https://thisa.in/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zappos-black-friday
+  name: Zappos Black Friday
+  vendor: Zappos
+  vendor_domain: zappos.com
+  category: fashion
+  deal_description: Up to 50% off thousands of footwear styles.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  url: https://www.zappos.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zenni-black-friday
+  name: Zenni Black Friday
+  vendor: Zenni Optical
+  vendor_domain: zennioptical.com
+  category: fashion
+  deal_description: Up to 30% off your order with code BFS.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  coupon_code: BFS
+  url: https://www.zennioptical.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active

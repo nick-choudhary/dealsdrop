@@ -1,0 +1,204 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/nick-choudhary/dealsdrop/schema/deal.schema.json",
+  "title": "DealsDrop deal",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "vendor",
+    "vendor_domain",
+    "category",
+    "deal_description",
+    "discount",
+    "url",
+    "end_date",
+    "verified_on",
+    "added_by",
+    "affiliate",
+    "disclosure"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 80
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 70
+    },
+    "vendor": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 60
+    },
+    "vendor_domain": {
+      "type": "string",
+      "pattern": "^([a-z0-9-]+\\.)+[a-z]{2,}$"
+    },
+    "category": {
+      "enum": [
+        "ai",
+        "developer-tools",
+        "hosting-cloud",
+        "website-builders",
+        "design-media",
+        "productivity",
+        "business-marketing",
+        "security-privacy",
+        "learning",
+        "electronics",
+        "home-appliances",
+        "fashion",
+        "gaming",
+        "travel",
+        "streaming-subscriptions"
+      ]
+    },
+    "deal_description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 160
+    },
+    "discount": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "value"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "percent",
+            "amount",
+            "fixed_price",
+            "free_time",
+            "credits",
+            "bundle",
+            "gift_card",
+            "other"
+          ]
+        },
+        "value": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "up_to": {
+          "type": "boolean"
+        }
+      }
+    },
+    "regular_price": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "deal_price": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "currency": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "USD",
+        "INR",
+        "EUR",
+        "GBP",
+        "CAD",
+        "AUD",
+        null
+      ]
+    },
+    "coupon_code": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[A-Za-z0-9_.-]{3,32}$"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+    "start_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "end_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "verified_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "added_by": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$"
+    },
+    "affiliate": {
+      "const": false
+    },
+    "disclosure": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "affiliated"
+      ],
+      "properties": {
+        "affiliated": {
+          "type": "boolean"
+        },
+        "relationship": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 120
+        }
+      },
+      "if": {
+        "properties": {
+          "affiliated": {
+            "const": true
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "relationship"
+        ]
+      }
+    },
+    "status": {
+      "enum": [
+        "active",
+        "expired"
+      ]
+    },
+    "notes": {
+      "type": "string",
+      "maxLength": 200
+    }
+  }
+}

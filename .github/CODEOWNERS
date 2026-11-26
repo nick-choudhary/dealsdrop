@@ -1,0 +1,6 @@
+# Every change needs a maintainer review. Add co-maintainers here.
+*                     @nick-choudhary
+/data/deals/          @nick-choudhary
+/config/              @nick-choudhary
+/schema/              @nick-choudhary
+/.github/             @nick-choudhary

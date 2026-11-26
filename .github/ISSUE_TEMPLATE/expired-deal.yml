@@ -1,0 +1,19 @@
+name: Report an expired or wrong deal
+description: The deal ended, the price is different, the code fails or the link is broken.
+title: "[Expired] <deal id>"
+labels: ["expired-report"]
+body:
+  - type: input
+    id: deal_id
+    attributes: { label: Deal id (from data/deals/*.yaml) or name }
+    validations: { required: true }
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options: [Deal has ended, Price or discount is different, Coupon code does not work, Link is broken, Not a real Black Friday deal, Affiliate / tracking link, Undisclosed self-promotion]
+    validations: { required: true }
+  - type: textarea
+    id: details
+    attributes: { label: Details and proof, description: "What you saw on the vendor page and when (include your timezone)." }
+    validations: { required: true }

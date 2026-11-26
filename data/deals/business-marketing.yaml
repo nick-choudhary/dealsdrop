@@ -1,0 +1,1672 @@
+# business-marketing — one entry per deal. Schema: schema/deal.schema.json. See CONTRIBUTING.md.
+- id: adcreative-ai
+  name: AdCreative.ai
+  vendor: AdCreative.ai
+  vendor_domain: adcreative.ai
+  category: business-marketing
+  deal_description: 50% off AdCreative.ai on annual plans.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.adcreative.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: airbridge
+  name: Airbridge
+  vendor: Airbridge
+  vendor_domain: airbridge.io
+  category: business-marketing
+  deal_description: 50% off Airbridge with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://www.airbridge.io/en/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: alttextlab
+  name: AltTextLab
+  vendor: AltTextLab
+  vendor_domain: alttextlab.com
+  category: business-marketing
+  deal_description: 40% off with code BF2026 until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://alttextlab.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: appfigures
+  name: Appfigures
+  vendor: Appfigures
+  vendor_domain: appfigures.com
+  category: business-marketing
+  deal_description: 50% off Appfigures on annual plans with code BF2650, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2650
+  url: https://appfigures.com/platform/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: arvow
+  name: Arvow
+  vendor: Arvow
+  vendor_domain: arvow.com
+  category: business-marketing
+  deal_description: 30% off Arvow AI SEO content plans.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://arvow.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: aso-atlas
+  name: ASO Atlas
+  vendor: ASO Atlas
+  vendor_domain: asoatlas.com
+  category: business-marketing
+  deal_description: 30% off ASO Atlas for the first year with code BLACKWEEK30, until Nov 30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKWEEK30
+  url: https://asoatlas.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: autx-ai-visibility-check
+  name: AUTX AI Visibility Check
+  vendor: AUTX AI Visibility Check
+  vendor_domain: autx.ai
+  category: business-marketing
+  deal_description: 20% off AUTX AI Visibility Check with code LAUNCH20.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: LAUNCH20
+  url: https://autx.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: backlinkgenie
+  name: BacklinkGenie
+  vendor: BacklinkGenie
+  vendor_domain: backlinkgenie.com
+  category: business-marketing
+  deal_description: 30% off BacklinkGenie on annual plans with code BFCM30, until Dec 31.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BFCM30
+  url: https://backlinkgenie.com/black-friday/
+  end_date: '2026-12-31'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bearconnect
+  name: BearConnect
+  vendor: BearConnect
+  vendor_domain: bearconnect.io
+  category: business-marketing
+  deal_description: 50% off BearConnect for the first 6 months.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://bearconnect.io/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: beehiiv
+  name: beehiiv
+  vendor: beehiiv
+  vendor_domain: beehiiv.com
+  category: business-marketing
+  deal_description: 20% off any annual plan with code BFCM2026.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: BFCM2026
+  url: https://beehiiv.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bizpeel
+  name: BizPeel
+  vendor: BizPeel
+  vendor_domain: bizpeel.com
+  category: business-marketing
+  deal_description: 50% off BizPeel for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://bizpeel.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: brevo
+  name: Brevo
+  vendor: Brevo
+  vendor_domain: brevo.com
+  category: business-marketing
+  deal_description: 30% off new annual Starter and Standard plans with code BREVOFRIDAY2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BREVOFRIDAY2026
+  url: https://www.brevo.com/black-friday/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: broadcast
+  name: Broadcast
+  vendor: Broadcast
+  vendor_domain: sendbroadcast.net
+  category: business-marketing
+  deal_description: 40% off Broadcast (one-time purchase) with code BLACKFRIDAY26, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://sendbroadcast.net/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: bundlewp
+  name: BundleWP
+  vendor: BundleWP
+  vendor_domain: bundlewp.com
+  category: business-marketing
+  deal_description: 87% off BundleWP (lifetime license) with code BUNDLE129.
+  discount:
+    type: percent
+    value: 87
+    up_to: false
+  coupon_code: BUNDLE129
+  url: https://bundlewp.com/complete-business-software-bundle/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: check-engine-seo
+  name: Check Engine SEO
+  vendor: Check Engine SEO
+  vendor_domain: checkengineseo.com
+  category: business-marketing
+  deal_description: Check Engine SEO for $19.99 (one-time purchase), until Dec 2.
+  discount:
+    type: fixed_price
+    value: 19.99
+    up_to: false
+  url: https://checkengineseo.com/
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: citation-rocket
+  name: Citation Rocket
+  vendor: Citation Rocket
+  vendor_domain: citationrocket.com
+  category: business-marketing
+  deal_description: 40% off Citation Rocket (lifetime license), until Dec 2.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://www.citationrocket.com/pricing
+  end_date: '2026-12-02'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: citewing
+  name: CiteWing
+  vendor: CiteWing
+  vendor_domain: citewing.com
+  category: business-marketing
+  deal_description: 36% off CiteWing on monthly plans.
+  discount:
+    type: percent
+    value: 36
+    up_to: false
+  url: https://citewing.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: clientish
+  name: Clientish
+  vendor: Clientish
+  vendor_domain: clientish.co
+  category: business-marketing
+  deal_description: 30% off Clientish on annual plans with code BF30.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF30
+  url: https://clientish.co/black-friday-client-management-portal-deal/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: directify
+  name: Directify
+  vendor: Directify
+  vendor_domain: directify.app
+  category: business-marketing
+  deal_description: 56% off Directify.
+  discount:
+    type: percent
+    value: 56
+    up_to: false
+  url: https://directify.app/founders
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: dubsado
+  name: Dubsado
+  vendor: Dubsado
+  vendor_domain: dubsado.com
+  category: business-marketing
+  deal_description: 50% off Dubsado for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://www.dubsado.com/black-friday-2026
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: earlylore
+  name: EarlyLore
+  vendor: EarlyLore
+  vendor_domain: earlylore.com
+  category: business-marketing
+  deal_description: 25% off EarlyLore for the first year with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BF2026
+  url: https://earlylore.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: emailoctopus
+  name: EmailOctopus
+  vendor: EmailOctopus
+  vendor_domain: emailoctopus.com
+  category: business-marketing
+  deal_description: Extra 30% off a year of Pro paid up front.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://emailoctopus.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: engagebay
+  name: EngageBay
+  vendor: EngageBay
+  vendor_domain: engagebay.com
+  category: business-marketing
+  deal_description: 40% off EngageBay, until Dec 4.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://www.engagebay.com/offer
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: expandi
+  name: Expandi
+  vendor: Expandi
+  vendor_domain: expandi.io
+  category: business-marketing
+  deal_description: Up to 77% off Expandi for the first year for new customers, until Dec 4.
+  discount:
+    type: percent
+    value: 77
+    up_to: true
+  url: https://expandi.io/bfcm-promo/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: fathom-analytics
+  name: Fathom Analytics
+  vendor: Fathom Analytics
+  vendor_domain: usefathom.com
+  category: business-marketing
+  deal_description: Black Friday pricing on Fathom Analytics.
+  discount:
+    type: other
+    value: null
+    up_to: false
+  url: https://usefathom.com/docs/account/discount-code
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: growave
+  name: Growave
+  vendor: Growave
+  vendor_domain: growave.io
+  category: business-marketing
+  deal_description: 20% off Growave on monthly plans, until Dec 1.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://www.growave.io/bfcm-deals
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: heysummit
+  name: HeySummit
+  vendor: HeySummit
+  vendor_domain: heysummit.com
+  category: business-marketing
+  deal_description: 40% off HeySummit for the first year for new customers with code V3UlY3Iz.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: V3UlY3Iz
+  url: https://heysummit.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: highseat
+  name: Highseat
+  vendor: Highseat
+  vendor_domain: highseat.com
+  category: business-marketing
+  deal_description: 40% off Highseat for the first year for new customers, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://highseat.com/pricing?billing=yearly
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hostify
+  name: Hostify
+  vendor: Hostify
+  vendor_domain: hostify.com
+  category: business-marketing
+  deal_description: 50% off Hostify.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://hostify.com/black-friday-2026
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: hypefury
+  name: Hypefury
+  vendor: Hypefury
+  vendor_domain: hypefury.com
+  category: business-marketing
+  deal_description: 40% off Creator or Pro for 2 months (BLACKFRIDAY40), or 25-35% off yearly plans; ends Nov 30.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY40
+  url: https://hypefury.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: keywordrace
+  name: KeywordRace
+  vendor: KeywordRace
+  vendor_domain: keywordrace.com
+  category: business-marketing
+  deal_description: KeywordRace for $35 (lifetime license).
+  discount:
+    type: fixed_price
+    value: 35
+    up_to: false
+  url: https://keywordrace.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kindclerk
+  name: Kindclerk
+  vendor: Kindclerk
+  vendor_domain: kindclerk.com
+  category: business-marketing
+  deal_description: 30% off Kindclerk for the first 3 months.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://kindclerk.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: kit
+  name: Kit
+  vendor: Kit
+  vendor_domain: kit.com
+  category: business-marketing
+  deal_description: 50% off Kit for the first 3 months, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://kit.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: landintools
+  name: LandinTools
+  vendor: LandinTools
+  vendor_domain: landin.page
+  category: business-marketing
+  deal_description: 50% off LandinTools on annual plans with code BF2026.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://tools.landin.page/advertise
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: later
+  name: Later
+  vendor: Later
+  vendor_domain: later.com
+  category: business-marketing
+  deal_description: 6 free months of Later on annual plans with code LATERBF26, until Dec 4.
+  discount:
+    type: free_time
+    value: 6
+    up_to: false
+  coupon_code: LATERBF26
+  url: https://later.com/black-friday-sale/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: linkbunny
+  name: LinkBunny
+  vendor: LinkBunny
+  vendor_domain: getlinkbunny.com
+  category: business-marketing
+  deal_description: 30% off LinkBunny on annual plans with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://getlinkbunny.com/pricing
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: livereacting
+  name: LiveReacting
+  vendor: LiveReacting
+  vendor_domain: livereacting.com
+  category: business-marketing
+  deal_description: 50% off LiveReacting for the first year for new customers with code BF2026, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://www.livereacting.com/pricing
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: livewebinar
+  name: LiveWebinar
+  vendor: LiveWebinar
+  vendor_domain: livewebinar.com
+  category: business-marketing
+  deal_description: Up to 50% off LiveWebinar on annual plans for new customers with code BF2026M, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: true
+  coupon_code: BF2026M
+  url: https://www.livewebinar.com/pricing
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: magicpost
+  name: MagicPost
+  vendor: MagicPost
+  vendor_domain: magicpost.in
+  category: business-marketing
+  deal_description: Up to 60% off MagicPost on annual plans.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://magicpost.in/blog/magicpost-black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mailbluster
+  name: MailBluster
+  vendor: MailBluster
+  vendor_domain: mailbluster.com
+  category: business-marketing
+  deal_description: Up to 90% off email sending credits for Black Friday and Cyber Monday.
+  discount:
+    type: percent
+    value: 90
+    up_to: true
+  url: https://mailbluster.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mailerlite
+  name: MailerLite
+  vendor: MailerLite
+  vendor_domain: mailerlite.com
+  category: business-marketing
+  deal_description: 26% off annual plans with code LITEFRIDAY26.
+  discount:
+    type: percent
+    value: 26
+    up_to: false
+  coupon_code: LITEFRIDAY26
+  url: https://www.mailerlite.com/black-friday-deal
+  end_date: '2026-12-18'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mailtea
+  name: Mailtea
+  vendor: Mailtea
+  vendor_domain: mailtea.app
+  category: business-marketing
+  deal_description: Free extra time on Mailtea for new customers with code BLACKFRIDAY26, until Nov 30.
+  discount:
+    type: free_time
+    value: null
+  coupon_code: BLACKFRIDAY26
+  url: https://mailtea.app/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: mailzzy
+  name: Mailzzy
+  vendor: Mailzzy
+  vendor_domain: mailzzy.com
+  category: business-marketing
+  deal_description: 70% off Mailzzy for the first year, until Dec 14.
+  discount:
+    type: percent
+    value: 70
+    up_to: false
+  url: https://mailzzy.com/emails-savings-sale/
+  end_date: '2026-12-14'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nicejob
+  name: NiceJob
+  vendor: NiceJob
+  vendor_domain: nicejob.com
+  category: business-marketing
+  deal_description: 25% off NiceJob on annual plans.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  url: https://nicejob.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: nuelink
+  name: Nuelink
+  vendor: Nuelink
+  vendor_domain: nuelink.com
+  category: business-marketing
+  deal_description: 50% off Nuelink on annual plans with code BFCM26, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM26
+  url: https://offer.nuelink.com/mcp/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: omnisend
+  name: Omnisend
+  vendor: Omnisend
+  vendor_domain: omnisend.com
+  category: business-marketing
+  deal_description: 30% off Omnisend, until Dec 1.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  url: https://www.omnisend.com/bfcm/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: optinmonster
+  name: OptinMonster
+  vendor: OptinMonster
+  vendor_domain: optinmonster.com
+  category: business-marketing
+  deal_description: Up to 60% off OptinMonster, until Dec 1.
+  discount:
+    type: percent
+    value: 60
+    up_to: true
+  url: https://optinmonster.com/black-friday
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: outpublished
+  name: Outpublished
+  vendor: Outpublished
+  vendor_domain: outpublished.com
+  category: business-marketing
+  deal_description: 40% off Outpublished, until Dec 4.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://outpublished.com/black-friday
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pabbly-plus
+  name: Pabbly Plus
+  vendor: Pabbly Plus
+  vendor_domain: pabbly.com
+  category: business-marketing
+  deal_description: 44% off Pabbly Plus on annual plans.
+  discount:
+    type: percent
+    value: 44
+    up_to: false
+  url: https://blackfriday.pabbly.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: pageduel
+  name: PageDuel
+  vendor: PageDuel
+  vendor_domain: pageduel.com
+  category: business-marketing
+  deal_description: 40% off PageDuel on monthly plans with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://pageduel.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: partnership-intel-radar-lab
+  name: Partnership Intel Radar Lab
+  vendor: Partnership Intel Radar Lab
+  vendor_domain: partnershipintel.com
+  category: business-marketing
+  deal_description: Partnership Intel Radar Lab for $99 on annual plans, until Nov 30.
+  discount:
+    type: fixed_price
+    value: 99
+    up_to: false
+  url: https://partnershipintel.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: picmim
+  name: Picmim
+  vendor: Picmim
+  vendor_domain: picmim.com
+  category: business-marketing
+  deal_description: 50% off Picmim for the first year with code PICMIM50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: PICMIM50
+  url: https://picmim.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: plerdy
+  name: Plerdy
+  vendor: Plerdy
+  vendor_domain: plerdy.com
+  category: business-marketing
+  deal_description: 50% off Plerdy for the first year with code plerdyBF2026, until Dec 3.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: plerdyBF2026
+  url: https://plerdy.com/black-friday/
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: portico
+  name: Portico
+  vendor: Portico
+  vendor_domain: portico.run
+  category: business-marketing
+  deal_description: Portico for $37 (lifetime license), until Dec 1.
+  discount:
+    type: fixed_price
+    value: 37
+    up_to: false
+  url: https://portico.run/lifetime
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: post2all
+  name: post2all
+  vendor: post2all
+  vendor_domain: post2all.com
+  category: business-marketing
+  deal_description: 25% off post2all for the first year with code BFCM25, until Dec 7.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  coupon_code: BFCM25
+  url: https://www.post2all.com/pricing
+  end_date: '2026-12-07'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: posteady
+  name: Posteady
+  vendor: Posteady
+  vendor_domain: posteady.com
+  category: business-marketing
+  deal_description: 50% off Posteady for the first 3 months with code BF26, until Dec 3.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF26
+  url: https://www.posteady.com/black-friday
+  end_date: '2026-12-03'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: postsyncer
+  name: PostSyncer
+  vendor: PostSyncer
+  vendor_domain: postsyncer.com
+  category: business-marketing
+  deal_description: 40% off PostSyncer for the first year, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://postsyncer.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: quotion
+  name: Quotion
+  vendor: Quotion
+  vendor_domain: quotion.co
+  category: business-marketing
+  deal_description: 30% off Quotion on monthly plans with code BLACKFRIDAY2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY2026
+  url: https://quotion.co/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rank-math-pro
+  name: Rank Math PRO
+  vendor: Rank Math PRO
+  vendor_domain: rankmath.com
+  category: business-marketing
+  deal_description: 60% off Rank Math PRO, until Nov 28.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://rankmath.com/offer/
+  end_date: '2026-11-28'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rapid-indexer
+  name: Rapid Indexer
+  vendor: Rapid Indexer
+  vendor_domain: rapid-indexer.com
+  category: business-marketing
+  deal_description: 20% off Rapid Indexer, until Nov 27.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://rapid-indexer.com/
+  end_date: '2026-11-27'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: renewroster
+  name: RenewRoster
+  vendor: RenewRoster
+  vendor_domain: renewroster.com
+  category: business-marketing
+  deal_description: 50% off RenewRoster on annual plans, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://renewroster.com/pricing
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: rightblogger
+  name: RightBlogger
+  vendor: RightBlogger
+  vendor_domain: rightblogger.com
+  category: business-marketing
+  deal_description: '50% off every annual plan, kept on renewal: Solo $294/yr (was $588), Pro $414/yr (was $828).'
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://rightblogger.com/pricing?offer=bf2026
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: saas-toolkit
+  name: SaaS Toolkit
+  vendor: SaaS Toolkit
+  vendor_domain: saastoolkit.ai
+  category: business-marketing
+  deal_description: 83% off SaaS Toolkit for the first year.
+  discount:
+    type: percent
+    value: 83
+    up_to: false
+  url: https://saastoolkit.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sabi
+  name: Sabi
+  vendor: Sabi
+  vendor_domain: meetsabi.com
+  category: business-marketing
+  deal_description: 50% off Sabi, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://meetsabi.com/pages/blackfriday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: scalelist
+  name: Scalelist
+  vendor: Scalelist
+  vendor_domain: scalelist.com
+  category: business-marketing
+  deal_description: 40% off annual plans.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://scalelist.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: se-ranking
+  name: SE Ranking
+  vendor: SE Ranking
+  vendor_domain: seranking.com
+  category: business-marketing
+  deal_description: Extra 20% off SE Ranking annual plans and add-ons until Dec 4.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  url: https://seranking.com/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sender
+  name: Sender
+  vendor: Sender
+  vendor_domain: sender.net
+  category: business-marketing
+  deal_description: 60% off Sender.
+  discount:
+    type: percent
+    value: 60
+    up_to: false
+  url: https://www.sender.net/pricing/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sendy
+  name: Sendy
+  vendor: Sendy
+  vendor_domain: sendy.co
+  category: business-marketing
+  deal_description: $14 off Sendy.
+  discount:
+    type: amount
+    value: 14
+    up_to: false
+  url: https://sendy.co/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: seobility
+  name: Seobility
+  vendor: Seobility
+  vendor_domain: seobility.net
+  category: business-marketing
+  deal_description: 15% off Seobility, until Dec 6.
+  discount:
+    type: percent
+    value: 15
+    up_to: false
+  url: https://www.seobility.net/en/lp/blackfriday26/
+  end_date: '2026-12-06'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sequenzy
+  name: Sequenzy
+  vendor: Sequenzy
+  vendor_domain: sequenzy.com
+  category: business-marketing
+  deal_description: 30% off Sequenzy on annual plans with code BLACKFRIDAY.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://sequenzy.com/black-friday
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sitebulb
+  name: Sitebulb
+  vendor: Sitebulb
+  vendor_domain: sitebulb.com
+  category: business-marketing
+  deal_description: 40% off annual Pro Desktop and Cloud plans.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  url: https://sitebulb.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sitedata
+  name: SiteData
+  vendor: SiteData
+  vendor_domain: sitedata.dev
+  category: business-marketing
+  deal_description: 50% off SiteData on annual plans, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://sitedata.dev/black-friday
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: slap-alert
+  name: Slap Alert
+  vendor: Slap Alert
+  vendor_domain: slapalert.com
+  category: business-marketing
+  deal_description: 50% off Slap Alert with code BLACKFRIDAY50, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY50
+  url: https://slapalert.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: smartlead
+  name: Smartlead
+  vendor: Smartlead
+  vendor_domain: smartlead.ai
+  category: business-marketing
+  deal_description: 50% off your first month on any plan for new sign-ups.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://smartlead.ai/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: snov-io
+  name: Snov.io
+  vendor: Snov.io
+  vendor_domain: snov.io
+  category: business-marketing
+  deal_description: 50% off annual plans with code BLACKFRIDAY, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BLACKFRIDAY
+  url: https://snov.io/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: socialbee
+  name: SocialBee
+  vendor: SocialBee
+  vendor_domain: socialbee.com
+  category: business-marketing
+  deal_description: 70% off SocialBee on annual plans with code SOCIALBEEBF26, until Dec 1.
+  discount:
+    type: percent
+    value: 70
+    up_to: false
+  coupon_code: SOCIALBEEBF26
+  url: https://socialbee.com/blackfriday/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: sponsonizer
+  name: Sponsonizer
+  vendor: Sponsonizer
+  vendor_domain: sponsonizer.com
+  category: business-marketing
+  deal_description: 50% off Sponsonizer for the first year with code BF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BF2026
+  url: https://sponsonizer.com/
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: swifterm
+  name: SwiftERM
+  vendor: SwiftERM
+  vendor_domain: swifterm.com
+  category: business-marketing
+  deal_description: 40% off SwiftERM with code BLACKFRIDAY26.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BLACKFRIDAY26
+  url: https://swifterm.com/black-friday/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: syncsignature
+  name: SyncSignature
+  vendor: SyncSignature
+  vendor_domain: syncsignature.com
+  category: business-marketing
+  deal_description: 50% off SyncSignature, until Dec 4.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  url: https://syncsignature.com/
+  end_date: '2026-12-04'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tantra
+  name: Tantra
+  vendor: Tantra
+  vendor_domain: usetantra.com
+  category: business-marketing
+  deal_description: 50% off Tantra with code TANTRA50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: TANTRA50
+  url: https://deals.usetantra.com/
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: terlido
+  name: Terlido
+  vendor: Terlido
+  vendor_domain: terlido.com
+  category: business-marketing
+  deal_description: 40% off Terlido on monthly plans with code BF2026, until Dec 1.
+  discount:
+    type: percent
+    value: 40
+    up_to: false
+  coupon_code: BF2026
+  url: https://terlido.com/pricing
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: tickabee
+  name: Tickabee
+  vendor: Tickabee
+  vendor_domain: tickabee.com
+  category: business-marketing
+  deal_description: 50% off Tickabee on monthly plans with code OFF50.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: OFF50
+  url: https://tickabee.com/black-friday-2026
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vaneform
+  name: Vaneform
+  vendor: Vaneform
+  vendor_domain: vaneform.com
+  category: business-marketing
+  deal_description: 20% off Vaneform for the first year with code VFBF2026, until Nov 30.
+  discount:
+    type: percent
+    value: 20
+    up_to: false
+  coupon_code: VFBF2026
+  url: https://vaneform.com/pricing
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vemetric
+  name: Vemetric
+  vendor: Vemetric
+  vendor_domain: vemetric.com
+  category: business-marketing
+  deal_description: 30% off Vemetric with code BF2026.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  coupon_code: BF2026
+  url: https://vemetric.com/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: vibeview
+  name: VibeView
+  vendor: VibeView
+  vendor_domain: vibeview.io
+  category: business-marketing
+  deal_description: Up to 30% off VibeView.
+  discount:
+    type: percent
+    value: 30
+    up_to: true
+  url: https://vibeview.io/
+  end_date: null
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
+
+- id: zerorank
+  name: ZeroRank
+  vendor: ZeroRank
+  vendor_domain: zerorank.ai
+  category: business-marketing
+  deal_description: 28% off ZeroRank for the first year, until Nov 30.
+  discount:
+    type: percent
+    value: 28
+    up_to: false
+  url: https://zerorank.ai
+  end_date: '2026-11-30'
+  verified_on: '2026-11-26'
+  added_by: nick-choudhary
+  affiliate: false
+  disclosure:
+    affiliated: false
+  status: active
