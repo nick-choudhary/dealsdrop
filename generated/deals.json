@@ -6152,7 +6152,7 @@
       "vendor": "Context.dev",
       "vendor_domain": "context.dev",
       "category": "developer-tools",
-      "deal_description": "30% off paid plans for one year, applied automatically.",
+      "deal_description": "30% off paid plans for one year, applied automatically. Ends Dec 2, 00:00 EST.",
       "discount": {
         "type": "percent",
         "value": 30,
@@ -6163,7 +6163,7 @@
       "deal_price": 14,
       "url": "https://www.context.dev/pricing",
       "start_date": "2026-11-27",
-      "end_date": "2026-12-01",
+      "end_date": "2026-12-02",
       "verified_on": "2026-11-27",
       "added_by": "YahiaBakour",
       "affiliate": false,

@@ -163,7 +163,7 @@
 | [Bordfeed](https://bordfeed.com/black-friday) | 50% off the first 3 months of Pro, Max or Ultra with code BFCM50, new subscriptions only, until Dec 4. Job data API with REST, webhooks and MCP. | `BFCM50` | Dec 4 |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off BucketMate (lifetime license) with code BF2026. | `BF2026` | — |
 | [CleanClip](https://cleanclip.cc/) | 30% off CleanClip, until Dec 15. | — | Dec 15 |
-| [Context.dev](https://www.context.dev/pricing) | 30% off paid plans for one year, applied automatically. ($14, was $20) | — | Dec 1 |
+| [Context.dev](https://www.context.dev/pricing) | 30% off paid plans for one year, applied automatically. Ends Dec 2, 00:00 EST. ($14, was $20) | — | Dec 2 |
 | [CtrlOps](https://ctrlops.io/pricing) | 31% off CtrlOps (lifetime license) with code BFCM31, until Dec 2. | `BFCM31` | Dec 2 |
 | [Cue](https://appsbymo.app/atelier/) | 50% off Cue with code BLACKFRIDAY, until Dec 2. | `BLACKFRIDAY` | Dec 2 |
 | [data-peek Pro](https://www.datapeek.dev/pricing) | 40% off data-peek Pro with code BF26PEEK, until Dec 1. | `BF26PEEK` | Dec 1 |
