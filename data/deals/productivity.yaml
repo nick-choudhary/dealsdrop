@@ -2511,6 +2511,31 @@
     affiliated: false
   status: active
 
+- id: pastenotch-black-friday
+  name: PasteNotch
+  vendor: PasteNotch
+  vendor_domain: pastenotch.com
+  category: productivity
+  deal_description: 50% off PasteNotch, a clipboard manager for Mac, one-time purchase, with code BLACKFRIDAY50, until Dec 1.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  currency: USD
+  regular_price: 4.99
+  deal_price: 2.49
+  coupon_code: BLACKFRIDAY50
+  url: https://pastenotch.com/black-friday
+  start_date: '2026-11-23'
+  end_date: '2026-12-01'
+  verified_on: '2026-11-26'
+  added_by: vladbabic
+  affiliate: false
+  disclosure:
+    affiliated: true
+    relationship: Member of the PasteNotch team
+  status: active
+
 - id: peakhour
   name: PeakHour
   vendor: PeakHour
