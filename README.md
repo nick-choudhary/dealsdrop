@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**819 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**820 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-819-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-820-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -28,7 +28,7 @@
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
 | 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 94 |
 | ⚡ [Productivity & Utilities](#productivity-utilities) | 203 |
-| 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 86 |
+| 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 87 |
 | 🔒 [VPN, Security & Privacy](#vpn-security-privacy) | 24 |
 | 📚 [Courses & Learning](#courses-learning) | 19 |
 | 💻 [Tech, Gadgets, Laptops, Phones & Audio](#tech-gadgets-laptops-phones-audio) | 34 |
@@ -624,7 +624,7 @@
 
 ## Marketing, Sales & SEO
 
-86 deals · sorted A–Z · [back to top](#contents)
+87 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -672,6 +672,7 @@
 | [Mailtea](https://mailtea.app/pricing) | Free extra time on Mailtea for new customers with code BLACKFRIDAY26, until Nov 30. | `BLACKFRIDAY26` | Nov 30 |
 | [Mailzzy](https://mailzzy.com/emails-savings-sale/) | 70% off Mailzzy for the first year, until Dec 14. | — | Dec 14 |
 | [NiceJob](https://nicejob.com/) | 25% off NiceJob on annual plans. | — | — |
+| [Notra](https://www.usenotra.com/pricing) | 25% off every paid Notra plan for the first 6 months on monthly billing, for new customers, until Dec 2. | — | Dec 2 |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 50% off Nuelink on annual plans with code BFCM26, until Nov 30. | `BFCM26` | Nov 30 |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 30% off Omnisend, until Dec 1. | — | Dec 1 |
 | [OptinMonster](https://optinmonster.com/black-friday) | Up to 60% off OptinMonster, until Dec 1. | — | Dec 1 |
