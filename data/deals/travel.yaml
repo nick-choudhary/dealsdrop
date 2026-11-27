@@ -443,6 +443,56 @@
     affiliated: false
   status: active
 
+- id: plane-deals-annual-black-friday
+  name: plane.deals annual plans
+  vendor: PLANE.DEALS
+  vendor_domain: plane.deals
+  category: travel
+  deal_description: 25% off the first year of annual flight-alert plans (Pro $49 to $36.75, Elite $149 to $111.75), then renews at the regular price.
+  discount:
+    type: percent
+    value: 25
+    up_to: false
+  currency: USD
+  regular_price: 49
+  deal_price: 36.75
+  coupon_code: BLACKFRIDAY25
+  url: https://plane.deals/black-friday
+  start_date: '2026-11-26'
+  end_date: '2026-11-30'
+  verified_on: '2026-11-27'
+  added_by: tconley
+  affiliate: false
+  disclosure:
+    affiliated: true
+    relationship: Founder of PLANE.DEALS
+  status: active
+
+- id: plane-deals-monthly-black-friday
+  name: plane.deals monthly plans
+  vendor: PLANE.DEALS
+  vendor_domain: plane.deals
+  category: travel
+  deal_description: First month free on monthly flight-alert plans (Pro $10/mo, Elite $30/mo), then renews at the regular price.
+  discount:
+    type: free_time
+    value: 1
+    up_to: false
+  currency: USD
+  regular_price: 10
+  deal_price: 0
+  coupon_code: BFMONTHFREE
+  url: https://plane.deals/black-friday
+  start_date: '2026-11-26'
+  end_date: '2026-11-30'
+  verified_on: '2026-11-27'
+  added_by: tconley
+  affiliate: false
+  disclosure:
+    affiliated: true
+    relationship: Founder of PLANE.DEALS
+  status: active
+
 - id: quark-expeditions-black-friday
   name: Quark Expeditions Black Friday
   vendor: Quark Expeditions
