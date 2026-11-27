@@ -195,6 +195,30 @@
     affiliated: false
   status: active
 
+- id: context-dev-black-friday-2026
+  name: Context.dev
+  vendor: Context.dev
+  vendor_domain: context.dev
+  category: developer-tools
+  deal_description: 30% off new purchases of paid plans for one year, automatically applied; no code needed.
+  discount:
+    type: percent
+    value: 30
+    up_to: false
+  currency: USD
+  regular_price: 20
+  deal_price: 14
+  url: https://www.context.dev/pricing
+  start_date: '2026-11-27'
+  end_date: '2026-12-01'
+  verified_on: '2026-11-27'
+  added_by: YahiaBakour
+  affiliate: false
+  disclosure:
+    affiliated: true
+    relationship: Submitted on behalf of Context.dev
+  status: active
+
 - id: ctrlops
   name: CtrlOps
   vendor: CtrlOps
