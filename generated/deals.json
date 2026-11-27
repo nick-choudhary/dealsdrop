@@ -1,6 +1,6 @@
 {
   "generated_from": "data/deals/*.yaml",
-  "count": 814,
+  "count": 817,
   "deals": [
     {
       "id": "abcontents",
@@ -14504,6 +14504,34 @@
       "status": "active"
     },
     {
+      "id": "pastenotch-black-friday",
+      "name": "PasteNotch",
+      "vendor": "PasteNotch",
+      "vendor_domain": "pastenotch.com",
+      "category": "productivity",
+      "deal_description": "50% off PasteNotch, a clipboard manager for Mac, one-time purchase, with code BLACKFRIDAY50, until Dec 1.",
+      "discount": {
+        "type": "percent",
+        "value": 50,
+        "up_to": false
+      },
+      "currency": "USD",
+      "regular_price": 4.99,
+      "deal_price": 2.49,
+      "coupon_code": "BLACKFRIDAY50",
+      "url": "https://pastenotch.com/black-friday",
+      "start_date": "2026-11-23",
+      "end_date": "2026-12-01",
+      "verified_on": "2026-11-26",
+      "added_by": "vladbabic",
+      "affiliate": false,
+      "disclosure": {
+        "affiliated": true,
+        "relationship": "Member of the PasteNotch team"
+      },
+      "status": "active"
+    },
+    {
       "id": "peakhour",
       "name": "PeakHour",
       "vendor": "PeakHour",
@@ -17350,6 +17378,62 @@
       "affiliate": false,
       "disclosure": {
         "affiliated": false
+      },
+      "status": "active"
+    },
+    {
+      "id": "plane-deals-annual-black-friday",
+      "name": "plane.deals annual plans",
+      "vendor": "PLANE.DEALS",
+      "vendor_domain": "plane.deals",
+      "category": "travel",
+      "deal_description": "25% off the first year of annual flight-alert plans (Pro $49 to $36.75, Elite $149 to $111.75), then renews at the regular price.",
+      "discount": {
+        "type": "percent",
+        "value": 25,
+        "up_to": false
+      },
+      "currency": "USD",
+      "regular_price": 49,
+      "deal_price": 36.75,
+      "coupon_code": "BLACKFRIDAY25",
+      "url": "https://plane.deals/black-friday",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-30",
+      "verified_on": "2026-11-27",
+      "added_by": "tconley",
+      "affiliate": false,
+      "disclosure": {
+        "affiliated": true,
+        "relationship": "Founder of PLANE.DEALS"
+      },
+      "status": "active"
+    },
+    {
+      "id": "plane-deals-monthly-black-friday",
+      "name": "plane.deals monthly plans",
+      "vendor": "PLANE.DEALS",
+      "vendor_domain": "plane.deals",
+      "category": "travel",
+      "deal_description": "First month free on monthly flight-alert plans (Pro $10/mo, Elite $30/mo), then renews at the regular price.",
+      "discount": {
+        "type": "free_time",
+        "value": 1,
+        "up_to": false
+      },
+      "currency": "USD",
+      "regular_price": 10,
+      "deal_price": 0,
+      "coupon_code": "BFMONTHFREE",
+      "url": "https://plane.deals/black-friday",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-30",
+      "verified_on": "2026-11-27",
+      "added_by": "tconley",
+      "affiliate": false,
+      "disclosure": {
+        "affiliated": true,
+        "relationship": "Founder of PLANE.DEALS"
       },
       "status": "active"
     },

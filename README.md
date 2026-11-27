@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**814 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**817 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-814-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--26-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-817-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -27,7 +27,7 @@
 | ☁️ [Hosting, Cloud & Domains](#hosting-cloud-domains) | 32 |
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
 | 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 94 |
-| ⚡ [Productivity & Utilities](#productivity-utilities) | 202 |
+| ⚡ [Productivity & Utilities](#productivity-utilities) | 203 |
 | 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 86 |
 | 🔒 [VPN, Security & Privacy](#vpn-security-privacy) | 24 |
 | 📚 [Courses & Learning](#courses-learning) | 19 |
@@ -35,7 +35,7 @@
 | 🏠 [Home & Appliances](#home-appliances) | 29 |
 | 👟 [Fashion & Beauty](#fashion-beauty) | 41 |
 | 🎮 [Gaming](#gaming) | 22 |
-| ✈️ [Travel](#travel) | 34 |
+| ✈️ [Travel](#travel) | 36 |
 | 📺 [Streaming & Subscriptions](#streaming-subscriptions) | 7 |
 | ⏰ [Ending soon](#ending-soon) | 15 |
 
@@ -412,7 +412,7 @@
 
 ## Productivity & Utilities
 
-202 deals · sorted A–Z · [back to top](#contents)
+203 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -544,6 +544,7 @@
 | [Paperman](https://paperman.cc/) | 25% off Paperman lifetime license, until Nov 30. | — | Nov 30 |
 | [Parallels Desktop](https://www.parallels.com/products/desktop/buy/) | Up to 50% off Parallels Desktop. | — | — |
 | [Paste](https://pasteapp.io/black-friday-2026) | 50% off Paste for the first year with code BLACKFRIDAY2026, until Dec 1. | `BLACKFRIDAY2026` | Dec 1 |
+| [PasteNotch](https://pastenotch.com/black-friday) | 50% off PasteNotch, a clipboard manager for Mac, one-time purchase, with code BLACKFRIDAY50, until Dec 1. ($2.49, was $4.99) | `BLACKFRIDAY50` | Dec 1 |
 | [PeakHour](https://peakhour.app/) | 30% off PeakHour (lifetime license). | — | — |
 | [PeekTheDay](https://peektheday.com) | 67% off PeekTheDay (one-time purchase), until Nov 30. | — | Nov 30 |
 | [Perch](https://perch.run/black-friday) | 40% off Perch (one-time purchase) with code BLACKFRIDAY2026, until Dec 1. | `BLACKFRIDAY2026` | Dec 1 |
@@ -925,7 +926,7 @@
 
 ## Travel
 
-34 deals · sorted A–Z · [back to top](#contents)
+36 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -951,6 +952,8 @@
 | [Outbound Hotels Black Friday](https://outboundhotels.com/) | Up to 40% off Outbound hotels in outdoor destinations for 2027 stays. | — | — |
 | [Outrigger Cyber Sale](https://www.outrigger.com/) | Up to 45% off Outrigger resorts in Hawaii, Fiji, Maldives, Mauritius and Thailand with code CYBER26 before Dec 8. | `CYBER26` | Dec 8 |
 | [Peak Design Black Friday](https://www.peakdesign.com/) | Up to 40% off luggage, backpacks and camera gear through Nov 30. | — | Nov 30 |
+| [plane.deals annual plans](https://plane.deals/black-friday) | 25% off the first year of annual flight-alert plans (Pro $49 to $36.75, Elite $149 to $111.75), then renews at the regular price. ($36.75, was $49) | `BLACKFRIDAY25` | Nov 30 |
+| [plane.deals monthly plans](https://plane.deals/black-friday) | First month free on monthly flight-alert plans (Pro $10/mo, Elite $30/mo), then renews at the regular price. ($0, was $10) | `BFMONTHFREE` | Nov 30 |
 | [Quark Expeditions Black Friday](https://www.quarkexpeditions.com/black-friday) | Up to 40% off select Arctic and Antarctic expeditions booked by Dec 3. | — | Dec 3 |
 | [Regent Seven Seas Black Friday](https://www.rssc.com/) | Up to 40% off 90+ voyages plus up to $500 shipboard credit; book by Dec 1. | — | Dec 1 |
 | [Royal Caribbean Black Friday](https://www.royalcaribbean.com/cruise-deals/black-friday) | Up to $900 off, up to $100 onboard credit, and 3rd and 4th guests sail free. | — | — |
