@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Renders README.md and generated/deals.{json,csv} from data/deals/*.yaml.
-// --check : exit 1 if README.md / generated files are out of date (used in CI).
+// --check : exit 1 if README.md / generated files are out of date (used in CI). The date-dependent
+//           "Ending soon" table is checked for genuine rows only, so it doesn't fail day to day.
 import fs from 'node:fs';
 import path from 'node:path';
 import { loadDeals, ROOT, CATEGORY_META, todayISO } from './lib.mjs';
@@ -68,11 +69,30 @@ const cols = ['id', 'name', 'vendor', 'category', 'deal_description', 'discount_
 const csvq = (v) => { const s = v == null ? '' : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; };
 const csv = [cols.join(','), ...JSON.parse(json).deals.map((d) => cols.map((c) => csvq(c === 'discount_type' ? d.discount.type : c === 'discount_value' ? d.discount.value : d[c])).join(','))].join('\n') + '\n';
 
+// "Ending soon" depends on today's date, so the check masks it instead of comparing it byte for byte.
+// Everything else must match exactly. Inside the masked part, every row must still be a row the builder
+// would produce for a real deal (no hand edits), and the contents count must equal the number of rows.
+const SOON_RE = /(## Ending soon\n\n[^\n]*\n[^\n]*\n)((?:\|[^\n]*\n)*)/;
+const COUNT_RE = /(\| ⏰ \[Ending soon\]\(#ending-soon\) \| )(\d+)( \|)/;
+const validRows = new Set(deals.map(row));
+function readmeMatches(cur, fresh) {
+  const mask = (t) => t.replace(SOON_RE, '$1<ending-soon>\n').replace(COUNT_RE, '$1N$3');
+  if (mask(cur) !== mask(fresh)) return false;
+  const m = cur.match(SOON_RE); const c = cur.match(COUNT_RE);
+  if (!m || !c) return false;
+  const rows = m[2].split('\n').filter(Boolean);
+  return rows.length === Number(c[2]) && rows.every((r) => validRows.has(r));
+}
+
 const outputs = { 'README.md': md, 'generated/deals.json': json, 'generated/deals.csv': csv };
 let stale = [];
 for (const [f, content] of Object.entries(outputs)) {
   const p = path.join(ROOT, f);
-  if (CHECK) { if (!fs.existsSync(p) || fs.readFileSync(p, 'utf8') !== content) stale.push(f); }
+  if (CHECK) {
+    const cur = fs.existsSync(p) ? fs.readFileSync(p, 'utf8') : null;
+    const same = f === 'README.md' && cur != null ? readmeMatches(cur, content) : cur === content;
+    if (!same) stale.push(f);
+  }
   else { fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, content); }
 }
 if (CHECK && stale.length) { console.log(`::error::Out of date: ${stale.join(', ')}. Run \`npm run build\` and commit the result (never edit README.md by hand).`); process.exit(1); }
