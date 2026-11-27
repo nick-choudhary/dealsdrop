@@ -180,6 +180,28 @@
     affiliated: false
   status: active
 
+- id: bordfeed-black-friday
+  name: Bordfeed
+  vendor: Bordfeed
+  vendor_domain: bordfeed.com
+  category: developer-tools
+  deal_description: 50% off the first 3 months of Pro, Max or Ultra with code BFCM50, new subscriptions only, until Dec 4. Job data API with REST, webhooks and MCP.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  coupon_code: BFCM50
+  url: https://bordfeed.com/black-friday
+  start_date: '2026-11-27'
+  end_date: '2026-12-04'
+  verified_on: '2026-11-27'
+  added_by: tomaslau
+  affiliate: false
+  disclosure:
+    affiliated: true
+    relationship: Maker of Bordfeed
+  status: active
+
 - id: bucketmate
   name: BucketMate
   vendor: BucketMate
