@@ -1,6 +1,6 @@
 {
   "generated_from": "data/deals/*.yaml",
-  "count": 819,
+  "count": 820,
   "deals": [
     {
       "id": "abcontents",
@@ -2763,6 +2763,29 @@
       "affiliate": false,
       "disclosure": {
         "affiliated": false
+      },
+      "status": "active"
+    },
+    {
+      "id": "notra-black-friday",
+      "name": "Notra",
+      "vendor": "Notra",
+      "vendor_domain": "usenotra.com",
+      "category": "business-marketing",
+      "deal_description": "25% off every paid Notra plan for the first 6 months on monthly billing, for new customers, until Dec 2.",
+      "discount": {
+        "type": "percent",
+        "value": 25,
+        "up_to": false
+      },
+      "url": "https://www.usenotra.com/pricing",
+      "end_date": "2026-12-02",
+      "verified_on": "2026-11-27",
+      "added_by": "mezotv",
+      "affiliate": false,
+      "disclosure": {
+        "affiliated": true,
+        "relationship": "Member of the Notra team"
       },
       "status": "active"
     },
