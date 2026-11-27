@@ -16,8 +16,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: airalo-unlimited-esims
   name: Airalo unlimited eSIMs
   vendor: Airalo

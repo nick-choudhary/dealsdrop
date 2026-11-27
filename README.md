@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**816 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**814 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-816-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--26-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-814-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--26-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -22,7 +22,7 @@
 
 | Category | Deals |
 |---|---:|
-| 🤖 [AI Tools](#ai-tools) | 80 |
+| 🤖 [AI Tools](#ai-tools) | 79 |
 | 🛠️ [Developer Tools](#developer-tools) | 80 |
 | ☁️ [Hosting, Cloud & Domains](#hosting-cloud-domains) | 32 |
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
@@ -35,7 +35,7 @@
 | 🏠 [Home & Appliances](#home-appliances) | 29 |
 | 👟 [Fashion & Beauty](#fashion-beauty) | 41 |
 | 🎮 [Gaming](#gaming) | 22 |
-| ✈️ [Travel](#travel) | 35 |
+| ✈️ [Travel](#travel) | 34 |
 | 📺 [Streaming & Subscriptions](#streaming-subscriptions) | 7 |
 | ⏰ [Ending soon](#ending-soon) | 15 |
 
@@ -43,8 +43,6 @@
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
-| [Air India Black Friday Sale](https://www.airindia.com/in/en/book/exclusive-deals/black-friday-sale-offer.html) | Up to Rs 40,000 off base fares on international routes (First up to Rs 60,000); Maharaja Club points bookings included. | — | Nov 26 |
-| [Higgsfield](https://higgsfield.ai/pricing) | Black Friday pricing on Higgsfield, until Nov 26. | — | Nov 26 |
 | [Hindware chimney on Flipkart](https://www.flipkart.com/) | Hindware Ripple Plus 90 cm autoclean chimney at Rs 14,990 (MRP Rs 44,990) in the Flipkart Black Friday Sale. (₹14,990, was ₹44,990) | — | Nov 27 |
 | [iPhone Air 512GB on Flipkart](https://www.flipkart.com/) | iPhone Air 512GB at Rs 1,21,900 in the Black Friday Sale, plus Rs 4,000 off with eligible Axis or SBI cards; ends Nov 27. (₹1,21,900) | — | Nov 27 |
 | [LG 251L fridge on Flipkart](https://www.flipkart.com/) | LG 251 L frost-free double-door refrigerator at Rs 26,533 (MRP Rs 36,990) in the Black Friday Sale; SBI card EMI 10% off. (₹26,533, was ₹36,990) | — | Nov 27 |
@@ -58,10 +56,12 @@
 | [HP.com Black Friday coupons](https://www.hp.com/us-en/shop/slp/black-friday-sale/laptops) | $25 off consumer PCs $650+ (GRAVY25) or $100 off $1,200+ (FEAST100), Nov 22-28. | `FEAST100` | Nov 28 |
 | [MacBook Air 13-inch at Best Buy](https://www.bestbuy.com/black-friday) | Apple MacBook Air 13-inch for $1,049, $250 off; iPhone 17 Pro and Pro Max also $100 off. ($1,049, was $1,299) | — | Nov 28 |
 | [Rank Math PRO](https://rankmath.com/offer/) | 60% off Rank Math PRO, until Nov 28. | — | Nov 28 |
+| [Remotr](https://remotr.app/) | 30% off Remotr with code 1RDUW7I6, until Nov 28. | `1RDUW7I6` | Nov 28 |
+| [TCL 65-inch 4K Fire TV at Best Buy](https://www.bestbuy.com/black-friday) | TCL 65-inch 4K Fire TV for $229.99, $240 off. ($229.99, was $469.99) | — | Nov 28 |
 
 ## AI Tools
 
-80 deals · sorted A–Z · [back to top](#contents)
+79 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -93,7 +93,6 @@
 | [GoStudio.ai](https://www.gostudio.ai/pricing) | Up to 30% off GoStudio.ai on annual plans with code BLACKFRIDAY30, until Dec 1. | `BLACKFRIDAY30` | Dec 1 |
 | [Grammarly Pro](https://www.grammarly.com/black-friday) | 50% off Grammarly Pro. | — | — |
 | [HiAPI](https://hiapi.ai/en/promotions/black-friday-2026) | Up to 10% off HiAPI, until Dec 1. | — | Dec 1 |
-| [Higgsfield](https://higgsfield.ai/pricing) | Black Friday pricing on Higgsfield, until Nov 26. | — | Nov 26 |
 | [InPlaceText](https://inplacetext.com/pricing) | 50% off InPlaceText (one-time purchase), until Dec 1. | — | Dec 1 |
 | [invideo](https://invideo.io/pricing) | Up to 75% off invideo. | — | — |
 | [Kollab](https://kollab.im/black-friday) | 15% off Kollab on annual plans, until Nov 30. | — | Nov 30 |
@@ -926,11 +925,10 @@
 
 ## Travel
 
-35 deals · sorted A–Z · [back to top](#contents)
+34 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
-| [Air India Black Friday Sale](https://www.airindia.com/in/en/book/exclusive-deals/black-friday-sale-offer.html) | Up to Rs 40,000 off base fares on international routes (First up to Rs 60,000); Maharaja Club points bookings included. | — | Nov 26 |
 | [Airalo unlimited eSIMs](https://www.airalo.com/m/esim/unlimited-packages/) | 25% off all Unlimited eSIM data packages with code BLACK25 through Nov 30. | `BLACK25` | Nov 30 |
 | [AutoCamp Black Friday](https://autocamp.com/black-friday) | Up to 40% off AutoCamp glamping stays with code NATURE through Dec 2, for stays through Dec 2027. | `NATURE` | Dec 2 |
 | [Away luggage Black Friday](https://www.awaytravel.com/sale) | 25% off everything through Dec 1, e.g. Bigger Carry-On $221 (was $295). | — | Dec 1 |

@@ -562,8 +562,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: inplacetext
   name: InPlaceText
   vendor: InPlaceText
