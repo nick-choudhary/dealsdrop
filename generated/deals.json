@@ -1,6 +1,6 @@
 {
   "generated_from": "data/deals/*.yaml",
-  "count": 817,
+  "count": 818,
   "deals": [
     {
       "id": "abcontents",
@@ -5928,6 +5928,33 @@
       "affiliate": false,
       "disclosure": {
         "affiliated": false
+      },
+      "status": "active"
+    },
+    {
+      "id": "apxy-pro-black-friday",
+      "name": "APXY",
+      "vendor": "APXY",
+      "vendor_domain": "apxy.dev",
+      "category": "developer-tools",
+      "deal_description": "30% off APXY Pro, a one-time license for 3 devices, with code APXY2026. Local HTTP(S) debugging proxy with CLI and MCP for macOS and Linux.",
+      "discount": {
+        "type": "percent",
+        "value": 30,
+        "up_to": false
+      },
+      "currency": "USD",
+      "regular_price": 99,
+      "deal_price": 69.3,
+      "coupon_code": "APXY2026",
+      "url": "https://apxy.dev/",
+      "end_date": null,
+      "verified_on": "2026-11-27",
+      "added_by": "tuanquanghpvn",
+      "affiliate": false,
+      "disclosure": {
+        "affiliated": true,
+        "relationship": "Maker of APXY"
       },
       "status": "active"
     },
