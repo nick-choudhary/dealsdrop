@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**818 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**819 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-818-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-819-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -23,7 +23,7 @@
 | Category | Deals |
 |---|---:|
 | 🤖 [AI Tools](#ai-tools) | 79 |
-| 🛠️ [Developer Tools](#developer-tools) | 81 |
+| 🛠️ [Developer Tools](#developer-tools) | 82 |
 | ☁️ [Hosting, Cloud & Domains](#hosting-cloud-domains) | 32 |
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
 | 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 94 |
@@ -147,7 +147,7 @@
 
 ## Developer Tools
 
-81 deals · sorted A–Z · [back to top](#contents)
+82 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -156,12 +156,13 @@
 | [1DevTool](https://1devtool.com/pricing) | 50% off 1DevTool with code BFDEALS50, until Nov 29. | `BFDEALS50` | Nov 29 |
 | [Akev](https://akev.dev/pricing) | 30% off Akev (one-time purchase) with code BLACKFRIDAY, until Dec 6. | `BLACKFRIDAY` | Dec 6 |
 | [Aptakube](https://aptakube.com/pricing) | 30% off Aptakube with code BF2026, until Dec 4. | `BF2026` | Dec 4 |
+| [APXY](https://apxy.dev/) | 30% off APXY Pro, a one-time license for 3 devices, with code APXY2026. Local HTTP(S) debugging proxy with CLI and MCP for macOS and Linux. ($69.3, was $99) | `APXY2026` | — |
 | [AY Grants](https://grants.ayskilllab.com/) | 50% off AY Grants on monthly plans, until Nov 30. | — | Nov 30 |
 | [Babelize](https://www.babelize.co/) | 50% off Babelize for the first year with code BLACKFRIDAY26, until Dec 1. | `BLACKFRIDAY26` | Dec 1 |
 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | 50% off BarcodeCraft (lifetime license), until Dec 4. | — | Dec 4 |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% off BucketMate (lifetime license) with code BF2026. | `BF2026` | — |
 | [CleanClip](https://cleanclip.cc/) | 30% off CleanClip, until Dec 15. | — | Dec 15 |
-| [Context.dev](https://www.context.dev/pricing) | 30% off new purchases of paid plans for one year, automatically applied; no code needed. ($14, was $20) | — | Dec 1 |
+| [Context.dev](https://www.context.dev/pricing) | 30% off new paid-plan purchases for 1 year; Developer $14/mo (was $20/mo). Auto-applied, no code. Ends Dec 2, 00:00 EST (05:00 UTC). ($14, was $20) | — | Dec 2 |
 | [CtrlOps](https://ctrlops.io/pricing) | 31% off CtrlOps (lifetime license) with code BFCM31, until Dec 2. | `BFCM31` | Dec 2 |
 | [Cue](https://appsbymo.app/atelier/) | 50% off Cue with code BLACKFRIDAY, until Dec 2. | `BLACKFRIDAY` | Dec 2 |
 | [data-peek Pro](https://www.datapeek.dev/pricing) | 40% off data-peek Pro with code BF26PEEK, until Dec 1. | `BF26PEEK` | Dec 1 |
