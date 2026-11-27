@@ -1,6 +1,6 @@
 {
   "generated_from": "data/deals/*.yaml",
-  "count": 821,
+  "count": 822,
   "deals": [
     {
       "id": "abcontents",
@@ -2337,6 +2337,34 @@
       "affiliate": false,
       "disclosure": {
         "affiliated": false
+      },
+      "status": "active"
+    },
+    {
+      "id": "galore-black-friday",
+      "name": "Galore",
+      "vendor": "Galore",
+      "vendor_domain": "trygalore.com",
+      "category": "business-marketing",
+      "deal_description": "20% off Galore membership when it opens with code BLACKFRIDAY ($89.99 to $71.99 a year), plus free access now, until Dec 1.",
+      "discount": {
+        "type": "percent",
+        "value": 20,
+        "up_to": false
+      },
+      "currency": "USD",
+      "regular_price": 89.99,
+      "deal_price": 71.99,
+      "coupon_code": "BLACKFRIDAY",
+      "url": "https://trygalore.com/black-friday",
+      "start_date": "2026-11-28",
+      "end_date": "2026-12-01",
+      "verified_on": "2026-11-27",
+      "added_by": "mehek-builds",
+      "affiliate": false,
+      "disclosure": {
+        "affiliated": true,
+        "relationship": "Founder of Galore"
       },
       "status": "active"
     },

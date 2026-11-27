@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**821 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**822 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-821-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-822-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -28,7 +28,7 @@
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
 | 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 94 |
 | ⚡ [Productivity & Utilities](#productivity-utilities) | 203 |
-| 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 87 |
+| 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 88 |
 | 🔒 [VPN, Security & Privacy](#vpn-security-privacy) | 24 |
 | 📚 [Courses & Learning](#courses-learning) | 19 |
 | 💻 [Tech, Gadgets, Laptops, Phones & Audio](#tech-gadgets-laptops-phones-audio) | 34 |
@@ -625,7 +625,7 @@
 
 ## Marketing, Sales & SEO
 
-87 deals · sorted A–Z · [back to top](#contents)
+88 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -654,6 +654,7 @@
 | [EngageBay](https://www.engagebay.com/offer) | 40% off EngageBay, until Dec 4. | — | Dec 4 |
 | [Expandi](https://expandi.io/bfcm-promo/) | Up to 77% off Expandi for the first year for new customers, until Dec 4. | — | Dec 4 |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | Black Friday pricing on Fathom Analytics. | — | — |
+| [Galore](https://trygalore.com/black-friday) | 20% off Galore membership when it opens with code BLACKFRIDAY ($89.99 to $71.99 a year), plus free access now, until Dec 1. ($71.99, was $89.99) | `BLACKFRIDAY` | Dec 1 |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off Growave on monthly plans, until Dec 1. | — | Dec 1 |
 | [HeySummit](https://heysummit.com/pricing) | 40% off HeySummit for the first year for new customers with code V3UlY3Iz. | `V3UlY3Iz` | — |
 | [Highseat](https://highseat.com/pricing?billing=yearly) | 40% off Highseat for the first year for new customers, until Dec 1. | — | Dec 1 |
