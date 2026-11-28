@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**822 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**823 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-822-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--27-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-823-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--28-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -23,7 +23,7 @@
 | Category | Deals |
 |---|---:|
 | 🤖 [AI Tools](#ai-tools) | 79 |
-| 🛠️ [Developer Tools](#developer-tools) | 83 |
+| 🛠️ [Developer Tools](#developer-tools) | 84 |
 | ☁️ [Hosting, Cloud & Domains](#hosting-cloud-domains) | 32 |
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
 | 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 94 |
@@ -43,14 +43,6 @@
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
-| [Hindware chimney on Flipkart](https://www.flipkart.com/) | Hindware Ripple Plus 90 cm autoclean chimney at Rs 14,990 (MRP Rs 44,990) in the Flipkart Black Friday Sale. (₹14,990, was ₹44,990) | — | Nov 27 |
-| [iPhone Air 512GB on Flipkart](https://www.flipkart.com/) | iPhone Air 512GB at Rs 1,21,900 in the Black Friday Sale, plus Rs 4,000 off with eligible Axis or SBI cards; ends Nov 27. (₹1,21,900) | — | Nov 27 |
-| [LG 251L fridge on Flipkart](https://www.flipkart.com/) | LG 251 L frost-free double-door refrigerator at Rs 26,533 (MRP Rs 36,990) in the Black Friday Sale; SBI card EMI 10% off. (₹26,533, was ₹36,990) | — | Nov 27 |
-| [MSC Cruises Black Friday](https://www.msccruisesusa.com/deals/black-friday-cruise-deals) | Up to 40% off sailings worldwide plus up to $1,000 onboard credit; through Nov 27. | — | Nov 27 |
-| [ON1 Photo RAW 2027](https://www.on1.com/landing/black-friday/) | ON1 Photo RAW 2027 for $59.99 (one-time purchase), until Nov 27. | — | Nov 27 |
-| [POCO X8 Pro Max on Flipkart](https://www.flipkart.com/) | POCO X8 Pro Max 12GB+256GB listed at Rs 45,999 in the Flipkart Black Friday Sale (Nov 21-27). (₹45,999) | — | Nov 27 |
-| [Rapid Indexer](https://rapid-indexer.com/) | 20% off Rapid Indexer, until Nov 27. | — | Nov 27 |
-| [realme P4x 5G on Flipkart](https://www.flipkart.com/) | realme P4x 5G 8GB+128GB listed at Rs 23,999 in the Flipkart Black Friday Sale (Nov 21-27). (₹23,999) | — | Nov 27 |
 | [Apiko](https://apiko.app/) | Bonus credits on Apiko plans, until Nov 28. | — | Nov 28 |
 | [HP OmniBook 5 14" OLED at Best Buy](https://www.bestbuy.com/black-friday) | Doorbuster: HP OmniBook 5 14-inch 2K OLED touchscreen laptop for $449.99, $350 off. ($449.99, was $799.99) | — | Nov 28 |
 | [HP.com Black Friday coupons](https://www.hp.com/us-en/shop/slp/black-friday-sale/laptops) | $25 off consumer PCs $650+ (GRAVY25) or $100 off $1,200+ (FEAST100), Nov 22-28. | `FEAST100` | Nov 28 |
@@ -58,6 +50,14 @@
 | [Rank Math PRO](https://rankmath.com/offer/) | 60% off Rank Math PRO, until Nov 28. | — | Nov 28 |
 | [Remotr](https://remotr.app/) | 30% off Remotr with code 1RDUW7I6, until Nov 28. | `1RDUW7I6` | Nov 28 |
 | [TCL 65-inch 4K Fire TV at Best Buy](https://www.bestbuy.com/black-friday) | TCL 65-inch 4K Fire TV for $229.99, $240 off. ($229.99, was $469.99) | — | Nov 28 |
+| [TradingView](https://www.tradingview.com/black-friday/) | Up to 80% off TradingView, until Nov 28. | — | Nov 28 |
+| [WP Rocket](https://wp-rocket.me/black-friday-2026/) | Up to 60% off WP Rocket with code black-friday, until Nov 28. | `black-friday` | Nov 28 |
+| [1DevTool](https://1devtool.com/pricing) | 50% off 1DevTool with code BFDEALS50, until Nov 29. | `BFDEALS50` | Nov 29 |
+| [Atmos](https://atmos.style/black-friday) | 50% off Atmos (lifetime license) with code BF2026, until Nov 29. | `BF2026` | Nov 29 |
+| [July luggage Black Friday](https://july.com/) | 20% off sitewide through Nov 29. | — | Nov 29 |
+| [Nintendo $20 off select games](https://www.nintendo.com/us/store/showroom/black-friday-cyber-monday/) | $20 off select Switch 2 and Switch games such as Donkey Kong Bananza, Nov 22-29. | — | Nov 29 |
+| [ProWritingAid](https://prowritingaid.com/pricing) | 50% off ProWritingAid (lifetime license), until Nov 29. | — | Nov 29 |
+| [QuickBooks Online](https://quickbooks.intuit.com/) | 70% off QuickBooks Online, until Nov 29. | — | Nov 29 |
 
 ## AI Tools
 
@@ -147,7 +147,7 @@
 
 ## Developer Tools
 
-83 deals · sorted A–Z · [back to top](#contents)
+84 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -202,6 +202,7 @@
 | [Moordeck](https://moordeck.com/pricing) | 25% off Moordeck for the first year with code BF2026, until Nov 30. | `BF2026` | Nov 30 |
 | [NextAdmin](https://nextadmin.co/) | 40% off NextAdmin with code BLFCM2026, until Dec 1. | `BLFCM2026` | Dec 1 |
 | [NotchNook Pro](https://notchnook.pro/) | 50% off NotchNook Pro lifetime or monthly. | — | — |
+| [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) | 50% off new Pro or Max plans with double the work minutes, no code needed, until Nov 30. Open-source cloud coding agent that opens pull requests. ($10, was $20) | — | Nov 30 |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% off Piloterr for the first 3 months with code BLACKFRIDAY50, until Nov 30. | `BLACKFRIDAY50` | Nov 30 |
 | [Polypane](https://polypane.app/black-friday/) | 25% off Polypane, until Dec 1. | — | Dec 1 |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% off PortDroid (lifetime license) with code CYBER_2026, until Dec 4. | `CYBER_2026` | Dec 4 |
