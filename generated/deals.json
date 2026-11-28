@@ -1,6 +1,6 @@
 {
   "generated_from": "data/deals/*.yaml",
-  "count": 823,
+  "count": 815,
   "deals": [
     {
       "id": "abcontents",
@@ -3155,28 +3155,6 @@
       "status": "active"
     },
     {
-      "id": "rapid-indexer",
-      "name": "Rapid Indexer",
-      "vendor": "Rapid Indexer",
-      "vendor_domain": "rapid-indexer.com",
-      "category": "business-marketing",
-      "deal_description": "20% off Rapid Indexer, until Nov 27.",
-      "discount": {
-        "type": "percent",
-        "value": 20,
-        "up_to": false
-      },
-      "url": "https://rapid-indexer.com/",
-      "end_date": "2026-11-27",
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
       "id": "renewroster",
       "name": "RenewRoster",
       "vendor": "RenewRoster",
@@ -4824,28 +4802,6 @@
       "coupon_code": "BFCM2026",
       "url": "https://studio.oiloil.org/en/",
       "end_date": "2026-12-01",
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
-      "id": "on1-photo-raw-2027",
-      "name": "ON1 Photo RAW 2027",
-      "vendor": "ON1 Photo RAW 2027",
-      "vendor_domain": "on1.com",
-      "category": "design-media",
-      "deal_description": "ON1 Photo RAW 2027 for $59.99 (one-time purchase), until Nov 27.",
-      "discount": {
-        "type": "fixed_price",
-        "value": 59.99,
-        "up_to": false
-      },
-      "url": "https://www.on1.com/landing/black-friday/",
-      "end_date": "2026-11-27",
       "verified_on": "2026-11-26",
       "added_by": "nick-choudhary",
       "affiliate": false,
@@ -8089,30 +8045,6 @@
       "status": "active"
     },
     {
-      "id": "iphone-air-512gb-on-flipkart",
-      "name": "iPhone Air 512GB on Flipkart",
-      "vendor": "Flipkart",
-      "vendor_domain": "flipkart.com",
-      "category": "electronics",
-      "deal_description": "iPhone Air 512GB at Rs 1,21,900 in the Black Friday Sale, plus Rs 4,000 off with eligible Axis or SBI cards; ends Nov 27.",
-      "discount": {
-        "type": "amount",
-        "value": 4000,
-        "up_to": false
-      },
-      "deal_price": 121900,
-      "currency": "INR",
-      "url": "https://www.flipkart.com/",
-      "end_date": "2026-11-27",
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
       "id": "lenovo-ideapad-and-yoga-black-friday",
       "name": "Lenovo IdeaPad and Yoga Black Friday",
       "vendor": "Lenovo",
@@ -8253,30 +8185,6 @@
       "status": "active"
     },
     {
-      "id": "poco-x8-pro-max-on-flipkart",
-      "name": "POCO X8 Pro Max on Flipkart",
-      "vendor": "Flipkart",
-      "vendor_domain": "flipkart.com",
-      "category": "electronics",
-      "deal_description": "POCO X8 Pro Max 12GB+256GB listed at Rs 45,999 in the Flipkart Black Friday Sale (Nov 21-27).",
-      "discount": {
-        "type": "other",
-        "value": null,
-        "up_to": false
-      },
-      "deal_price": 45999,
-      "currency": "INR",
-      "url": "https://www.flipkart.com/",
-      "end_date": "2026-11-27",
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
       "id": "realme-india-black-friday",
       "name": "realme India Black Friday",
       "vendor": "realme",
@@ -8290,30 +8198,6 @@
       },
       "url": "https://event.realme.com/in/black-friday-sale",
       "end_date": null,
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
-      "id": "realme-p4x-5g-on-flipkart",
-      "name": "realme P4x 5G on Flipkart",
-      "vendor": "Flipkart",
-      "vendor_domain": "flipkart.com",
-      "category": "electronics",
-      "deal_description": "realme P4x 5G 8GB+128GB listed at Rs 23,999 in the Flipkart Black Friday Sale (Nov 21-27).",
-      "discount": {
-        "type": "other",
-        "value": null,
-        "up_to": false
-      },
-      "deal_price": 23999,
-      "currency": "INR",
-      "url": "https://www.flipkart.com/",
-      "end_date": "2026-11-27",
       "verified_on": "2026-11-26",
       "added_by": "nick-choudhary",
       "affiliate": false,
@@ -10198,31 +10082,6 @@
       "status": "active"
     },
     {
-      "id": "hindware-chimney-on-flipkart",
-      "name": "Hindware chimney on Flipkart",
-      "vendor": "Flipkart",
-      "vendor_domain": "flipkart.com",
-      "category": "home-appliances",
-      "deal_description": "Hindware Ripple Plus 90 cm autoclean chimney at Rs 14,990 (MRP Rs 44,990) in the Flipkart Black Friday Sale.",
-      "discount": {
-        "type": "percent",
-        "value": 67,
-        "up_to": false
-      },
-      "regular_price": 44990,
-      "deal_price": 14990,
-      "currency": "INR",
-      "url": "https://www.flipkart.com/",
-      "end_date": "2026-11-27",
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
       "id": "ikea-us-black-friday",
       "name": "IKEA US Black Friday",
       "vendor": "IKEA",
@@ -10302,31 +10161,6 @@
       },
       "url": "https://www.kitchenaid.com/",
       "end_date": null,
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
-      "id": "lg-251l-fridge-on-flipkart",
-      "name": "LG 251L fridge on Flipkart",
-      "vendor": "Flipkart",
-      "vendor_domain": "flipkart.com",
-      "category": "home-appliances",
-      "deal_description": "LG 251 L frost-free double-door refrigerator at Rs 26,533 (MRP Rs 36,990) in the Black Friday Sale; SBI card EMI 10% off.",
-      "discount": {
-        "type": "percent",
-        "value": 28,
-        "up_to": false
-      },
-      "regular_price": 36990,
-      "deal_price": 26533,
-      "currency": "INR",
-      "url": "https://www.flipkart.com/",
-      "end_date": "2026-11-27",
       "verified_on": "2026-11-26",
       "added_by": "nick-choudhary",
       "affiliate": false,
@@ -17397,28 +17231,6 @@
       "coupon_code": "EARLYBF",
       "url": "https://monos.com/",
       "end_date": null,
-      "verified_on": "2026-11-26",
-      "added_by": "nick-choudhary",
-      "affiliate": false,
-      "disclosure": {
-        "affiliated": false
-      },
-      "status": "active"
-    },
-    {
-      "id": "msc-cruises-black-friday",
-      "name": "MSC Cruises Black Friday",
-      "vendor": "MSC Cruises",
-      "vendor_domain": "msccruises.com",
-      "category": "travel",
-      "deal_description": "Up to 40% off sailings worldwide plus up to $1,000 onboard credit; through Nov 27.",
-      "discount": {
-        "type": "percent",
-        "value": 40,
-        "up_to": true
-      },
-      "url": "https://www.msccruisesusa.com/deals/black-friday-cruise-deals",
-      "end_date": "2026-11-27",
       "verified_on": "2026-11-26",
       "added_by": "nick-choudhary",
       "affiliate": false,

@@ -281,8 +281,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: lenovo-ideapad-and-yoga-black-friday
   name: Lenovo IdeaPad and Yoga Black Friday
   vendor: Lenovo
@@ -424,8 +424,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: realme-india-black-friday
   name: realme India Black Friday
   vendor: realme
@@ -464,8 +464,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: redmi-note-15-5g-at-croma
   name: Redmi Note 15 5G at Croma
   vendor: Croma

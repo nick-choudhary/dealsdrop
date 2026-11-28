@@ -10,9 +10,9 @@
 - **Open data.** The full list is published as [JSON](generated/deals.json) and [CSV](generated/deals.csv) with category, discount, code and end-date fields.
 - **Year-round seasons are coming.** Black Friday and Cyber Monday are live now; Christmas, Diwali, Prime Day and lifetime deals are coming.
 
-**823 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
+**815 verified deals across 15 categories** — software, AI, hosting, courses, gadgets, home, fashion, gaming, travel and streaming, from stores in the US, India and worldwide. No affiliate links, no tracking parameters, no paid placements.
 
-[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-823-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--28-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
+[![Validate](https://github.com/nick-choudhary/dealsdrop/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml) ![Deals](https://img.shields.io/badge/deals-815-black) ![Last verified](https://img.shields.io/badge/last_verified-2026--11--28-informational) ![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success) ![License](https://img.shields.io/badge/data-CC0--1.0-lightgrey)
 
 > Black Friday is **Fri Nov 27, 2026** · Cyber Monday is **Mon Nov 30, 2026**. Every row links to the official vendor page. Prices change fast; check the final price at checkout.
 >
@@ -26,16 +26,16 @@
 | 🛠️ [Developer Tools](#developer-tools) | 84 |
 | ☁️ [Hosting, Cloud & Domains](#hosting-cloud-domains) | 32 |
 | 🧱 [Website Builders, Templates & WordPress](#website-builders-templates-wordpress) | 31 |
-| 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 94 |
+| 🎨 [Design, Photo, Video & Audio](#design-photo-video-audio) | 93 |
 | ⚡ [Productivity & Utilities](#productivity-utilities) | 203 |
-| 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 88 |
+| 📈 [Marketing, Sales & SEO](#marketing-sales-seo) | 87 |
 | 🔒 [VPN, Security & Privacy](#vpn-security-privacy) | 24 |
 | 📚 [Courses & Learning](#courses-learning) | 19 |
-| 💻 [Tech, Gadgets, Laptops, Phones & Audio](#tech-gadgets-laptops-phones-audio) | 34 |
-| 🏠 [Home & Appliances](#home-appliances) | 29 |
+| 💻 [Tech, Gadgets, Laptops, Phones & Audio](#tech-gadgets-laptops-phones-audio) | 31 |
+| 🏠 [Home & Appliances](#home-appliances) | 27 |
 | 👟 [Fashion & Beauty](#fashion-beauty) | 41 |
 | 🎮 [Gaming](#gaming) | 22 |
-| ✈️ [Travel](#travel) | 36 |
+| ✈️ [Travel](#travel) | 35 |
 | 📺 [Streaming & Subscriptions](#streaming-subscriptions) | 7 |
 | ⏰ [Ending soon](#ending-soon) | 15 |
 
@@ -315,7 +315,7 @@
 
 ## Design, Photo, Video & Audio
 
-94 deals · sorted A–Z · [back to top](#contents)
+93 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -367,7 +367,6 @@
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% off Nano Banana. | — | — |
 | [NewYouGo](https://newyougo.com/pricing) | 20% off NewYouGo. | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/) | 20% off Oil Studio (one-time purchase) with code BFCM2026, until Dec 1. | `BFCM2026` | Dec 1 |
-| [ON1 Photo RAW 2027](https://www.on1.com/landing/black-friday/) | ON1 Photo RAW 2027 for $59.99 (one-time purchase), until Nov 27. | — | Nov 27 |
 | [Oraclip](https://oraclip.com/) | 30% off Oraclip for the first year, until Dec 6. | — | Dec 6 |
 | [Paplo Plus](https://getpaplo.com/) | Paplo Plus for $3.99, until Nov 30. | — | Nov 30 |
 | [Phoaly](https://phoaly.com/) | 30% off Phoaly lifetime license with code BF2026, until Dec 6. | `BF2026` | Dec 6 |
@@ -626,7 +625,7 @@
 
 ## Marketing, Sales & SEO
 
-88 deals · sorted A–Z · [back to top](#contents)
+87 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -691,7 +690,6 @@
 | [PostSyncer](https://postsyncer.com/pricing) | 40% off PostSyncer for the first year, until Dec 1. | — | Dec 1 |
 | [Quotion](https://quotion.co/) | 30% off Quotion on monthly plans with code BLACKFRIDAY2026. | `BLACKFRIDAY2026` | — |
 | [Rank Math PRO](https://rankmath.com/offer/) | 60% off Rank Math PRO, until Nov 28. | — | Nov 28 |
-| [Rapid Indexer](https://rapid-indexer.com/) | 20% off Rapid Indexer, until Nov 27. | — | Nov 27 |
 | [RenewRoster](https://renewroster.com/pricing) | 50% off RenewRoster on annual plans, until Dec 4. | — | Dec 4 |
 | [RightBlogger](https://rightblogger.com/pricing?offer=bf2026) | 50% off every annual plan, kept on renewal: Solo $294/yr (was $588), Pro $414/yr (was $828). | — | Dec 1 |
 | [SaaS Toolkit](https://saastoolkit.ai/) | 83% off SaaS Toolkit for the first year. | — | — |
@@ -778,7 +776,7 @@
 
 ## Tech, Gadgets, Laptops, Phones & Audio
 
-34 deals · sorted A–Z · [back to top](#contents)
+31 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -795,16 +793,13 @@
 | [Google Store Black Friday](https://store.google.com/us/magazine/black_friday) | Black Friday pricing on Pixel phones, Pixel Watch and Nest devices at Google Store. | — | — |
 | [HP OmniBook 5 14" OLED at Best Buy](https://www.bestbuy.com/black-friday) | Doorbuster: HP OmniBook 5 14-inch 2K OLED touchscreen laptop for $449.99, $350 off. ($449.99, was $799.99) | — | Nov 28 |
 | [HP.com Black Friday coupons](https://www.hp.com/us-en/shop/slp/black-friday-sale/laptops) | $25 off consumer PCs $650+ (GRAVY25) or $100 off $1,200+ (FEAST100), Nov 22-28. | `FEAST100` | Nov 28 |
-| [iPhone Air 512GB on Flipkart](https://www.flipkart.com/) | iPhone Air 512GB at Rs 1,21,900 in the Black Friday Sale, plus Rs 4,000 off with eligible Axis or SBI cards; ends Nov 27. (₹1,21,900) | — | Nov 27 |
 | [Lenovo IdeaPad and Yoga Black Friday](https://www.lenovo.com/us/en/deals/black-friday-sale/) | IdeaPad laptops from $449.99 (up to 62% off select models), Yoga from $799.99, gaming laptops from $1,099.99. | — | Nov 30 |
 | [Lenovo India Black Friday](https://www.lenovo.com/in/en/deals/black-friday-sale/) | Black Friday sale on ThinkPad, IdeaPad, Legion, Yoga and LOQ; code CUSTOMOFF gives up to Rs 15,000 off customised laptops. | `CUSTOMOFF` | — |
 | [Lenovo ThinkPad X9 doorbuster](https://www.lenovo.com/us/en/deals/black-friday-sale/) | Doorbuster from Nov 27: ThinkPad X9 for $999 and ThinkPad X1 Carbon from $1,579. ($999) | — | Nov 30 |
 | [MacBook Air 13-inch at Best Buy](https://www.bestbuy.com/black-friday) | Apple MacBook Air 13-inch for $1,049, $250 off; iPhone 17 Pro and Pro Max also $100 off. ($1,049, was $1,299) | — | Nov 28 |
 | [Microsoft Store Black Friday](https://www.microsoft.com/en-us/store/b/black-friday) | Black Friday deals on Surface devices, Xbox and PC accessories at Microsoft Store. | — | Dec 2 |
 | [Motorola Black Friday deals](https://www.motorola.com/us/deals) | Black Friday pricing on unlocked Motorola razr and moto g phones. | — | — |
-| [POCO X8 Pro Max on Flipkart](https://www.flipkart.com/) | POCO X8 Pro Max 12GB+256GB listed at Rs 45,999 in the Flipkart Black Friday Sale (Nov 21-27). (₹45,999) | — | Nov 27 |
 | [realme India Black Friday](https://event.realme.com/in/black-friday-sale) | Black Friday sale on realme phones and accessories on realme.com/in. | — | — |
-| [realme P4x 5G on Flipkart](https://www.flipkart.com/) | realme P4x 5G 8GB+128GB listed at Rs 23,999 in the Flipkart Black Friday Sale (Nov 21-27). (₹23,999) | — | Nov 27 |
 | [Redmi Note 15 5G at Croma](https://www.croma.com/campaign/black-friday-sale/c/6752) | Redmi Note 15 5G 8/128 at Rs 28,999 with 10% Federal Bank discount in the Croma Black Friday Sale. (₹28,999) | — | Nov 30 |
 | [Reliance Digital Black Friday Kotak offer](https://www.reliancedigital.in/) | Kotak credit card EMI discount from 7.5% up to flat Rs 12,000 on bills of Rs 2 lakh and above, Nov 26-30. | — | Nov 30 |
 | [Ring Black Friday offers](https://www.ring.com/collections/offers) | Up to 50% off Ring video doorbells and security cameras. | — | — |
@@ -819,7 +814,7 @@
 
 ## Home & Appliances
 
-29 deals · sorted A–Z · [back to top](#contents)
+27 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -833,12 +828,10 @@
 | [Dreame Black Friday sale](https://www.dreametech.com/pages/black-friday) | Up to 76% off Dreame robot vacuums, cordless vacuums and hair dryers. | — | — |
 | [Dyson Black Friday deals](https://www.dyson.com/deals) | Black Friday prices on Dyson vacuums, e.g. V12 Detect Slim around $400 and V15 Detect Absolute $600. | — | — |
 | [HexClad Black Friday](https://hexclad.com/) | Up to 52% off HexClad cookware sets and accessories. | — | — |
-| [Hindware chimney on Flipkart](https://www.flipkart.com/) | Hindware Ripple Plus 90 cm autoclean chimney at Rs 14,990 (MRP Rs 44,990) in the Flipkart Black Friday Sale. (₹14,990, was ₹44,990) | — | Nov 27 |
 | [IKEA US Black Friday](https://www.ikea.com/us/en/offers/) | Up to 30% off select IKEA designs. | — | — |
 | [iRobot Roomba deals](https://www.irobot.com/en_US/deals.html) | Up to 25% off Roomba robot vacuums; Roomba 105 Vac around $142. | — | — |
 | [Joybird Black Friday](https://joybird.com/) | Up to 45% off Joybird furniture through Nov 30. | — | Nov 30 |
 | [KitchenAid Black Friday](https://www.kitchenaid.com/) | Up to 30% off select KitchenAid appliances, incl. stand mixers. | — | — |
-| [LG 251L fridge on Flipkart](https://www.flipkart.com/) | LG 251 L frost-free double-door refrigerator at Rs 26,533 (MRP Rs 36,990) in the Black Friday Sale; SBI card EMI 10% off. (₹26,533, was ₹36,990) | — | Nov 27 |
 | [Made In Black Friday](https://madeincookware.com/) | Up to 40% off Made In cookware. | — | — |
 | [Ninja Black Friday sale](https://www.ninjakitchen.com/black-friday) | Up to 40% off Ninja air fryers, blenders, coffee makers and grills. | — | — |
 | [Ooni Black Friday](https://ooni.com/) | 20% off almost everything at Ooni, incl. pizza ovens. | — | — |
@@ -932,7 +925,7 @@
 
 ## Travel
 
-36 deals · sorted A–Z · [back to top](#contents)
+35 deals · sorted A–Z · [back to top](#contents)
 
 | Deal | What you get | Code | Ends |
 |---|---|---|---|
@@ -952,7 +945,6 @@
 | [July luggage Black Friday](https://july.com/) | 20% off sitewide through Nov 29. | — | Nov 29 |
 | [Mokobara Black Friday Sale](https://mokobara.com/) | Up to 60% off suitcases, backpacks and travel bags in the Black Friday sale. | — | — |
 | [Monos Black Friday](https://monos.com/) | Up to 25% off sitewide with code EARLYBF. | `EARLYBF` | — |
-| [MSC Cruises Black Friday](https://www.msccruisesusa.com/deals/black-friday-cruise-deals) | Up to 40% off sailings worldwide plus up to $1,000 onboard credit; through Nov 27. | — | Nov 27 |
 | [Norwegian Cruise Line Black Friday](https://www.ncl.com/cruise-deals) | 50% off all cruises plus Free at Sea perks, with bonus offers during the sale. | — | — |
 | [Oceania Cruises Black Friday](https://www.oceaniacruises.com/) | Up to 50% off 200+ voyages departing in 2027; book Nov 18-Dec 1. | — | Dec 1 |
 | [Outbound Hotels Black Friday](https://outboundhotels.com/) | Up to 40% off Outbound hotels in outdoor destinations for 2027 stays. | — | — |

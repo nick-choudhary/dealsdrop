@@ -945,8 +945,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: oraclip
   name: Oraclip
   vendor: Oraclip

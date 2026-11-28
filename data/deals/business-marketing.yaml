@@ -1209,8 +1209,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: renewroster
   name: RenewRoster
   vendor: RenewRoster

@@ -209,8 +209,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: ikea-us-black-friday
   name: IKEA US Black Friday
   vendor: IKEA
@@ -307,8 +307,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: made-in-black-friday
   name: Made In Black Friday
   vendor: Made In

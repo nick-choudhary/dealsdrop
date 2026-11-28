@@ -345,8 +345,8 @@
   affiliate: false
   disclosure:
     affiliated: false
-  status: active
 
+  status: expired
 - id: norwegian-cruise-line-black-friday
   name: Norwegian Cruise Line Black Friday
   vendor: Norwegian Cruise Line
