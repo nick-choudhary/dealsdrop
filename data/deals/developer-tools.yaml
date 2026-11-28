@@ -1015,6 +1015,30 @@
     affiliated: false
   status: active
 
+- id: opencomputer-black-friday
+  name: OpenComputer
+  vendor: OpenComputer
+  vendor_domain: opencomputer.dev
+  category: developer-tools
+  deal_description: 50% off new Pro or Max plans with double the work minutes, no code needed, until Nov 30. Open-source cloud coding agent that opens pull requests.
+  discount:
+    type: percent
+    value: 50
+    up_to: false
+  currency: USD
+  regular_price: 20
+  deal_price: 10
+  url: https://opencomputer.dev/blog/black-friday-2026/
+  start_date: '2026-11-27'
+  end_date: '2026-11-30'
+  verified_on: '2026-11-28'
+  added_by: UtpalJayNadiger
+  affiliate: false
+  disclosure:
+    affiliated: true
+    relationship: Co-founder of OpenComputer
+  status: active
+
 - id: piloterr
   name: Piloterr
   vendor: Piloterr
